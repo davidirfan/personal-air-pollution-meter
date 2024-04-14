@@ -1,0 +1,261 @@
+): 0.66
+18:28:59.015 Kadar CO di udara : BAIK
+18:29:01.065 CO Concentration (PPM): 0.66
+18:29:01.065 Kadar CO di udara : BAIK
+18:29:03.132 CO Concentration (PPM): 0.71
+18:29:03.132 Kadar CO di udara : BAIK
+18:29:05.195 CO Concentration (PPM): 0.71
+18:29:05.195 Kadar CO di udara : BAIK
+18:29:07.267 CO Concentration (PPM): 0.71
+18:29:07.267 Kadar CO di udara : BAIK
+18:29:09.339 CO Concentration (PPM): 0.71
+18:29:09.339 Kadar CO di udara : BAIK
+18:29:11.407 CO Concentration (PPM): 0.66
+18:29:11.407 Kadar CO di udara : BAIK
+18:29:13.490 CO Concentration (PPM): 0.66
+18:29:13.490 Kadar CO di udara : BAIK
+18:29:15.531 CO Concentration (PPM): 0.66
+18:29:15.531 Kadar CO di udara : BAIK
+18:29:17.599 CO Concentration (PPM): 0.66
+18:29:17.599 Kadar CO di udara : BAIK
+18:29:19.690 CO Concentration (PPM): 0.71
+18:29:19.690 Kadar CO di udara : BAIK
+18:29:21.714 CO Concentration (PPM): 0.66
+18:29:21.714 Kadar CO di udara : BAIK
+18:29:23.792 CO Concentration (PPM): 0.66
+18:29:23.792 Kadar CO di udara : BAIK
+18:29:25.852 CO Concentration (PPM): 0.66
+18:29:25.852 Kadar CO di udara : BAIK
+18:29:27.916 CO Concentration (PPM): 0.66
+18:29:27.916 Kadar CO di udara : BAIK
+18:29:29.998 CO Concentration (PPM): 0.66
+18:29:29.998 Kadar CO di udara : BAIK
+18:29:32.041 CO Concentration (PPM): 0.71
+18:29:32.041 Kadar CO di udara : BAIK
+18:29:34.105 CO Concentration (PPM): 0.66
+18:29:34.105 Kadar CO di udara : BAIK
+18:29:36.190 CO Concentration (PPM): 0.66
+18:29:36.190 Kadar CO di udara : BAIK
+18:29:38.238 CO Concentration (PPM): 0.66
+18:29:38.238 Kadar CO di udara : BAIK
+18:29:40.310 CO Concentration (PPM): 0.66
+18:29:40.310 Kadar CO di udara : BAIK
+18:29:42.412 CO Concentration (PPM): 0.66
+18:29:42.412 Kadar CO di udara : BAIK
+18:29:44.445 CO Concentration (PPM): 0.66
+18:29:44.445 Kadar CO di udara : BAIK
+18:29:46.502 CO Concentration (PPM): 0.66
+18:29:46.502 Kadar CO di udara : BAIK
+18:29:48.592 CO Concentration (PPM): 0.66
+18:29:48.592 Kadar CO di udara : BAIK
+18:29:50.577 CO Concentration (PPM): 0.66
+18:29:50.634 Kadar CO di udara : BAIK
+18:29:52.635 CO Concentration (PPM): 0.66
+18:29:52.695 Kadar CO di udara : BAIK
+18:29:54.699 CO Concentration (PPM): 0.66
+18:29:54.791 Kadar CO di udara : BAIK
+18:29:56.789 CO Concentration (PPM): 0.66
+18:29:56.822 Kadar CO di udara : BAIK
+18:29:58.843 CO Concentration (PPM): 0.66
+18:29:58.902 Kadar CO di udara : BAIK
+18:30:00.908 CO Concentration (PPM): 0.66
+18:30:00.943 Kadar CO di udara : BAIK
+18:30:02.973 CO Concentration (PPM): 0.66
+18:30:03.018 Kadar CO di udara : BAIK
+18:30:05.019 CO Concentration (PPM): 0.66
+18:30:05.098 Kadar CO di udara : BAIK
+18:30:07.084 CO Concentration (PPM): 0.66
+18:30:07.145 Kadar CO di udara : BAIK
+18:30:09.149 CO Concentration (PPM): 0.66
+18:30:09.208 Kadar CO di udara : BAIK
+18:30:11.226 CO Concentration (PPM): 0.66
+18:30:11.291 Kadar CO di udara : BAIK
+18:30:13.280 CO Concentration (PPM): 0.66
+18:30:13.351 Kadar CO di udara : BAIK
+18:30:15.351 CO Concentration (PPM): 0.66
+18:30:15.395 Kadar CO di udara : BAIK
+18:30:17.412 CO Concentration (PPM): 0.66
+18:30:17.474 Kadar CO di udara : BAIK
+18:30:19.491 CO Concentration (PPM): 0.66
+18:30:19.525 Kadar CO di udara : BAIK
+18:30:21.540 CO Concentration (PPM): 0.66
+18:30:21.596 Kadar CO di udara : BAIK
+18:30:23.615 CO Concentration (PPM): 0.66
+18:30:23.672 Kadar CO di udara : BAIK
+18:30:25.684 CO Concentration (PPM): 0.66
+18:30:25.731 Kadar CO di udara : BAIK
+18:30:27.734 CO Concentration (PPM): 0.66
+18:30:27.795 Kadar CO di udara : BAIK
+18:30:29.800 CO Concentration (PPM): 0.66
+18:30:29.859 Kadar CO di udara : BAIK
+18:30:31.890 CO Concentration (PPM): 0.66
+18:30:31.923 Kadar CO di udara : BAIK
+18:30:33.938 CO Concentration (PPM): 0.66
+18:30:33.992 Kadar CO di udara : BAIK
+18:30:36.009 CO Concentration (PPM): 0.66
+18:30:36.051 Kadar CO di udara : BAIK
+18:30:38.084 CO Concentration (PPM): 0.66
+18:30:38.131 Kadar CO di udara : BAIK
+18:30:40.133 CO Concentration (PPM): 0.66
+18:30:40.195 Kadar CO di udara : BAIK
+18:30:42.204 CO Concentration (PPM): 0.66
+18:30:42.245 Kadar CO di udara : BAIK
+18:30:44.263 CO Concentration (PPM): 0.66
+18:30:44.321 Kadar CO di udara : BAIK
+18:30:46.339 CO Concentration (PPM): 0.66
+18:30:46.370 Kadar CO di udara : BAIK
+18:30:48.392 CO Concentration (PPM): 0.66
+18:30:48.448 Kadar CO di udara : BAIK
+18:30:50.484 CO Concentration (PPM): 0.66
+18:30:50.502 Kadar CO di udara : BAIK
+18:30:52.535 CO Concentration (PPM): 0.66
+18:30:52.535 Kadar CO di udara : BAIK
+18:30:54.584 CO Concentration (PPM): 0.66
+18:30:54.584 Kadar CO di udara : BAIK
+18:30:56.664 CO Concentration (PPM): 0.66
+18:30:56.664 Kadar CO di udara : BAIK
+18:30:58.715 CO Concentration (PPM): 0.66
+18:30:58.715 Kadar CO di udara : BAIK
+18:31:00.785 CO Concentration (PPM): 0.66
+18:31:00.785 Kadar CO di udara : BAIK
+18:31:02.856 CO Concentration (PPM): 0.66
+18:31:02.856 Kadar CO di udara : BAIK
+18:31:04.914 CO Concentration (PPM): 0.66
+18:31:04.914 Kadar CO di udara : BAIK
+18:31:06.970 CO Concentration (PPM): 0.66
+18:31:06.970 Kadar CO di udara : BAIK
+18:31:09.038 CO Concentration (PPM): 0.66
+18:31:09.038 Kadar CO di udara : BAIK
+18:31:11.115 CO Concentration (PPM): 0.66
+18:31:11.115 Kadar CO di udara : BAIK
+18:31:13.188 CO Concentration (PPM): 0.66
+18:31:13.188 Kadar CO di udara : BAIK
+18:31:15.245 CO Concentration (PPM): 0.66
+18:31:15.245 Kadar CO di udara : BAIK
+18:31:17.295 CO Concentration (PPM): 0.66
+18:31:17.295 Kadar CO di udara : BAIK
+18:31:19.370 CO Concentration (PPM): 0.66
+18:31:19.370 Kadar CO di udara : BAIK
+18:31:21.440 CO Concentration (PPM): 0.66
+18:31:21.440 Kadar CO di udara : BAIK
+18:31:23.485 CO Concentration (PPM): 0.66
+18:31:23.485 Kadar CO di udara : BAIK
+18:31:25.561 CO Concentration (PPM): 0.66
+18:31:25.561 Kadar CO di udara : BAIK
+18:31:27.625 CO Concentration (PPM): 0.66
+18:31:27.625 Kadar CO di udara : BAIK
+18:31:29.684 CO Concentration (PPM): 0.66
+18:31:29.684 Kadar CO di udara : BAIK
+18:31:31.763 CO Concentration (PPM): 0.66
+18:31:31.763 Kadar CO di udara : BAIK
+18:31:33.825 CO Concentration (PPM): 0.66
+18:31:33.825 Kadar CO di udara : BAIK
+18:31:35.890 CO Concentration (PPM): 0.66
+18:31:35.890 Kadar CO di udara : BAIK
+18:31:37.941 CO Concentration (PPM): 0.66
+18:31:37.941 Kadar CO di udara : BAIK
+18:31:40.020 CO Concentration (PPM): 0.66
+18:31:40.020 Kadar CO di udara : BAIK
+18:31:42.087 CO Concentration (PPM): 0.66
+18:31:42.087 Kadar CO di udara : BAIK
+18:31:44.141 CO Concentration (PPM): 0.66
+18:31:44.141 Kadar CO di udara : BAIK
+18:31:46.204 CO Concentration (PPM): 0.66
+18:31:46.204 Kadar CO di udara : BAIK
+18:31:48.291 CO Concentration (PPM): 0.66
+18:31:48.291 Kadar CO di udara : BAIK
+18:31:50.340 CO Concentration (PPM): 0.66
+18:31:50.340 Kadar CO di udara : BAIK
+18:31:52.409 CO Concentration (PPM): 0.66
+18:31:52.409 Kadar CO di udara : BAIK
+18:31:54.488 CO Concentration (PPM): 0.66
+18:31:54.488 Kadar CO di udara : BAIK
+18:31:56.540 CO Concentration (PPM): 0.66
+18:31:56.540 Kadar CO di udara : BAIK
+18:31:58.590 CO Concentration (PPM): 0.66
+18:31:58.590 Kadar CO di udara : BAIK
+18:32:00.691 CO Concentration (PPM): 0.62
+18:32:00.691 Kadar CO di udara : BAIK
+18:32:02.732 CO Concentration (PPM): 0.66
+18:32:02.732 Kadar CO di udara : BAIK
+18:32:04.799 CO Concentration (PPM): 0.62
+18:32:04.799 Kadar CO di udara : BAIK
+18:32:06.854 CO Concentration (PPM): 0.66
+18:32:06.854 Kadar CO di udara : BAIK
+18:32:08.906 CO Concentration (PPM): 0.66
+18:32:08.906 Kadar CO di udara : BAIK
+18:32:10.991 CO Concentration (PPM): 0.66
+18:32:10.991 Kadar CO di udara : BAIK
+18:32:13.041 CO Concentration (PPM): 0.66
+18:32:13.041 Kadar CO di udara : BAIK
+18:32:15.111 CO Concentration (PPM): 0.66
+18:32:15.111 Kadar CO di udara : BAIK
+18:32:17.193 CO Concentration (PPM): 0.66
+18:32:17.193 Kadar CO di udara : BAIK
+18:32:19.237 CO Concentration (PPM): 0.66
+18:32:19.237 Kadar CO di udara : BAIK
+18:32:21.298 CO Concentration (PPM): 0.66
+18:32:21.298 Kadar CO di udara : BAIK
+18:32:23.390 CO Concentration (PPM): 0.62
+18:32:23.390 Kadar CO di udara : BAIK
+18:32:25.430 CO Concentration (PPM): 0.66
+18:32:25.430 Kadar CO di udara : BAIK
+18:32:27.506 CO Concentration (PPM): 0.66
+18:32:27.506 Kadar CO di udara : BAIK
+18:32:29.598 CO Concentration (PPM): 0.66
+18:32:29.598 Kadar CO di udara : BAIK
+18:32:31.638 CO Concentration (PPM): 0.66
+18:32:31.638 Kadar CO di udara : BAIK
+18:32:33.638 CO Concentration (PPM): 0.62
+18:32:33.697 Kadar CO di udara : BAIK
+18:32:35.711 CO Concentration (PPM): 0.66
+18:32:35.790 Kadar CO di udara : BAIK
+18:32:37.786 CO Concentration (PPM): 0.62
+18:32:37.843 Kadar CO di udara : BAIK
+18:32:39.835 CO Concentration (PPM): 0.62
+18:32:39.889 Kadar CO di udara : BAIK
+18:32:41.902 CO Concentration (PPM): 0.66
+18:32:41.957 Kadar CO di udara : BAIK
+18:32:43.972 CO Concentration (PPM): 0.62
+18:32:44.021 Kadar CO di udara : BAIK
+18:32:46.042 CO Concentration (PPM): 0.62
+18:32:46.090 Kadar CO di udara : BAIK
+18:32:48.104 CO Concentration (PPM): 0.62
+18:32:48.192 Kadar CO di udara : BAIK
+18:32:50.171 CO Concentration (PPM): 0.62
+18:32:50.223 Kadar CO di udara : BAIK
+18:32:52.219 CO Concentration (PPM): 0.66
+18:32:52.273 Kadar CO di udara : BAIK
+18:32:54.289 CO Concentration (PPM): 0.62
+18:32:54.354 Kadar CO di udara : BAIK
+18:32:56.366 CO Concentration (PPM): 0.62
+18:32:56.418 Kadar CO di udara : BAIK
+18:32:58.415 CO Concentration (PPM): 0.62
+18:32:58.470 Kadar CO di udara : BAIK
+18:33:00.489 CO Concentration (PPM): 0.62
+18:33:00.548 Kadar CO di udara : BAIK
+18:33:02.556 CO Concentration (PPM): 0.62
+18:33:02.598 Kadar CO di udara : BAIK
+18:33:04.615 CO Concentration (PPM): 0.62
+18:33:04.668 Kadar CO di udara : BAIK
+18:33:06.676 CO Concentration (PPM): 0.62
+18:33:06.744 Kadar CO di udara : BAIK
+18:33:08.736 CO Concentration (PPM): 0.62
+18:33:08.793 Kadar CO di udara : BAIK
+18:33:10.812 CO Concentration (PPM): 0.62
+18:33:10.868 Kadar CO di udara : BAIK
+18:33:12.882 CO Concentration (PPM): 0.62
+18:33:12.928 Kadar CO di udara : BAIK
+18:33:14.934 CO Concentration (PPM): 0.62
+18:33:14.993 Kadar CO di udara : BAIK
+18:33:17.004 CO Concentration (PPM): 0.62
+18:33:17.060 Kadar CO di udara : BAIK
+18:33:19.080 CO Concentration (PPM): 0.62
+18:33:19.118 Kadar CO di udara : BAIK
+18:33:21.144 CO Concentration (PPM): 0.62
+18:33:21.175 Kadar CO di udara : BAIK
+18:33:23.203 CO Concentration (PPM): 0.62
+18:33:23.284 Kadar CO di udara : BAIK
+18:33:25.256 CO Concentration (PPM): 0.62
+18:33:25.318 Kadar CO di udara : BAIK
+18:33:25.439 Disconnected

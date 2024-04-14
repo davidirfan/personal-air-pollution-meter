@@ -1,0 +1,256 @@
+ntration (PPM): 12.52
+16:47:16.647 Kadar CO di udara : TIDAK SEHAT
+16:47:18.674 CO Concentration (PPM): 13.85
+16:47:18.734 Kadar CO di udara : TIDAK SEHAT
+16:47:20.736 CO Concentration (PPM): 13.31
+16:47:20.795 Kadar CO di udara : TIDAK SEHAT
+16:47:22.840 CO Concentration (PPM): 12.34
+16:47:22.840 Kadar CO di udara : TIDAK SEHAT
+16:47:24.925 CO Concentration (PPM): 12.43
+16:47:24.925 Kadar CO di udara : TIDAK SEHAT
+16:47:26.980 CO Concentration (PPM): 13.05
+16:47:26.980 Kadar CO di udara : TIDAK SEHAT
+16:47:29.037 CO Concentration (PPM): 13.00
+16:47:29.097 Kadar CO di udara : TIDAK SEHAT
+16:47:31.099 CO Concentration (PPM): 12.34
+16:47:31.159 Kadar CO di udara : TIDAK SEHAT
+16:47:33.228 CO Concentration (PPM): 12.43
+16:47:33.228 Kadar CO di udara : TIDAK SEHAT
+16:47:35.288 CO Concentration (PPM): 12.47
+16:47:35.288 Kadar CO di udara : TIDAK SEHAT
+16:47:37.347 CO Concentration (PPM): 12.43
+16:47:37.347 Kadar CO di udara : TIDAK SEHAT
+16:47:39.428 CO Concentration (PPM): 12.60
+16:47:39.428 Kadar CO di udara : TIDAK SEHAT
+16:47:41.481 CO Concentration (PPM): 12.83
+16:47:41.543 Kadar CO di udara : TIDAK SEHAT
+16:47:43.544 CO Concentration (PPM): 12.74
+16:47:43.603 Kadar CO di udara : TIDAK SEHAT
+16:47:45.654 CO Concentration (PPM): 12.74
+16:47:45.654 Kadar CO di udara : TIDAK SEHAT
+16:47:47.717 CO Concentration (PPM): 12.56
+16:47:47.717 Kadar CO di udara : TIDAK SEHAT
+16:47:49.791 CO Concentration (PPM): 12.69
+16:47:49.791 Kadar CO di udara : TIDAK SEHAT
+16:47:51.853 CO Concentration (PPM): 12.52
+16:47:51.915 Kadar CO di udara : TIDAK SEHAT
+16:47:53.916 CO Concentration (PPM): 12.43
+16:47:53.975 Kadar CO di udara : TIDAK SEHAT
+16:47:55.992 CO Concentration (PPM): 12.65
+16:47:56.026 Kadar CO di udara : TIDAK SEHAT
+16:47:58.098 CO Concentration (PPM): 12.43
+16:47:58.098 Kadar CO di udara : TIDAK SEHAT
+16:48:00.158 CO Concentration (PPM): 13.54
+16:48:00.158 Kadar CO di udara : TIDAK SEHAT
+16:48:02.242 CO Concentration (PPM): 12.65
+16:48:02.242 Kadar CO di udara : TIDAK SEHAT
+16:48:04.300 CO Concentration (PPM): 13.18
+16:48:04.332 Kadar CO di udara : TIDAK SEHAT
+16:48:06.354 CO Concentration (PPM): 13.14
+16:48:06.414 Kadar CO di udara : TIDAK SEHAT
+16:48:08.424 CO Concentration (PPM): 12.74
+16:48:08.484 Kadar CO di udara : TIDAK SEHAT
+16:48:10.547 CO Concentration (PPM): 12.60
+16:48:10.547 Kadar CO di udara : TIDAK SEHAT
+16:48:12.604 CO Concentration (PPM): 12.69
+16:48:12.604 Kadar CO di udara : TIDAK SEHAT
+16:48:14.676 CO Concentration (PPM): 12.78
+16:48:14.676 Kadar CO di udara : TIDAK SEHAT
+16:48:16.724 CO Concentration (PPM): 12.60
+16:48:16.780 Kadar CO di udara : TIDAK SEHAT
+16:48:18.806 CO Concentration (PPM): 12.52
+16:48:18.866 Kadar CO di udara : TIDAK SEHAT
+16:48:20.868 CO Concentration (PPM): 12.52
+16:48:20.908 Kadar CO di udara : TIDAK SEHAT
+16:48:22.971 CO Concentration (PPM): 12.74
+16:48:22.971 Kadar CO di udara : TIDAK SEHAT
+16:48:25.032 CO Concentration (PPM): 12.65
+16:48:25.032 Kadar CO di udara : TIDAK SEHAT
+16:48:27.095 CO Concentration (PPM): 12.91
+16:48:27.152 Kadar CO di udara : TIDAK SEHAT
+16:48:29.169 CO Concentration (PPM): 13.45
+16:48:29.230 Kadar CO di udara : TIDAK SEHAT
+16:48:31.232 CO Concentration (PPM): 10.12
+16:48:31.289 Kadar CO di udara : TIDAK SEHAT
+16:48:33.354 CO Concentration (PPM): 10.87
+16:48:33.354 Kadar CO di udara : TIDAK SEHAT
+16:48:35.418 CO Concentration (PPM): 10.70
+16:48:35.418 Kadar CO di udara : TIDAK SEHAT
+16:48:37.487 CO Concentration (PPM): 11.41
+16:48:37.487 Kadar CO di udara : TIDAK SEHAT
+16:48:39.548 CO Concentration (PPM): 11.98
+16:48:39.603 Kadar CO di udara : TIDAK SEHAT
+16:48:41.604 CO Concentration (PPM): 12.34
+16:48:41.675 Kadar CO di udara : TIDAK SEHAT
+16:48:43.674 CO Concentration (PPM): 12.38
+16:48:43.732 Kadar CO di udara : TIDAK SEHAT
+16:48:45.787 CO Concentration (PPM): 11.09
+16:48:45.787 Kadar CO di udara : TIDAK SEHAT
+16:48:47.861 CO Concentration (PPM): 10.87
+16:48:47.861 Kadar CO di udara : TIDAK SEHAT
+16:48:49.917 CO Concentration (PPM): 12.20
+16:48:49.973 Kadar CO di udara : TIDAK SEHAT
+16:48:51.990 CO Concentration (PPM): 12.07
+16:48:52.020 Kadar CO di udara : TIDAK SEHAT
+16:48:54.058 CO Concentration (PPM): 12.38
+16:48:54.112 Kadar CO di udara : TIDAK SEHAT
+16:48:56.100 CO Concentration (PPM): 12.34
+16:48:56.156 Kadar CO di udara : TIDAK SEHAT
+16:48:58.229 CO Concentration (PPM): 12.34
+16:48:58.229 Kadar CO di udara : TIDAK SEHAT
+16:49:00.292 CO Concentration (PPM): 12.34
+16:49:00.292 Kadar CO di udara : TIDAK SEHAT
+16:49:02.399 CO Concentration (PPM): 12.34
+16:49:02.399 Kadar CO di udara : TIDAK SEHAT
+16:49:04.432 CO Concentration (PPM): 12.34
+16:49:04.463 Kadar CO di udara : TIDAK SEHAT
+16:49:06.551 CO Concentration (PPM): 12.34
+16:49:06.552 Kadar CO di udara : TIDAK SEHAT
+16:49:08.657 CO Concentration (PPM): 12.20
+16:49:08.657 Kadar CO di udara : TIDAK SEHAT
+16:49:10.712 CO Concentration (PPM): 12.20
+16:49:10.712 Kadar CO di udara : TIDAK SEHAT
+16:49:12.769 CO Concentration (PPM): 12.12
+16:49:12.769 Kadar CO di udara : TIDAK SEHAT
+16:49:14.853 CO Concentration (PPM): 12.12
+16:49:14.853 Kadar CO di udara : TIDAK SEHAT
+16:49:15.963 ^@^@^@^@^@^@^@^@CO Concentration (PPM): 12.65
+16:49:17.164 Kadar CO di udara �^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@CO Conc�^@CO Concentration (PPM): 11.67
+16:49:24.123 Kadar CO di udara : T�^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@^@CO Concentration (PPM): 11.85
+16:49:32.752 Kadar CO di udara : TIDAK SEHAT
+16:49:33.699 ^@^@^@CO Concentration (PPM): 12.25
+16:49:35.559 Kadar CO di udara : TIDAK SEHAT
+16:49:37.017 ^@^@CO Concentration (PPM): 12.12
+16:49:38.751 Kadar CO di udara : TIDAK SEHAT
+16:49:39.393 ^@CO Concentration (PPM): 12.12
+16:49:40.912 Kad�^@CO Concentration (PPM): 12.12
+16:49:42.461 Kadar CO di udara : TIDAK SEHAT
+16:49:44.538 CO Concentration (PPM): 12.12
+16:49:44.591 Kadar CO di udara : TIDAK SEHAT
+16:49:46.585 CO Concentration (PPM): 12.20
+16:49:46.651 Kadar CO di udara : TIDAK SEHAT
+16:49:48.710 CO Concentration (PPM): 12.20
+16:49:48.710 Kadar CO di udara : TIDAK SEHAT
+16:49:50.789 CO Concentration (PPM): 12.29
+16:49:50.789 Kadar CO di udara : TIDAK SEHAT
+16:49:52.833 CO Concentration (PPM): 12.34
+16:49:52.833 Kadar CO di udara : TIDAK SEHAT
+16:49:54.918 CO Concentration (PPM): 12.38
+16:49:54.946 Kadar CO di udara : TIDAK SEHAT
+16:49:56.975 CO Concentration (PPM): 12.43
+16:49:57.034 Kadar CO di udara : TIDAK SEHAT
+16:49:59.037 CO Concentration (PPM): 12.47
+16:49:59.100 Kadar CO di udara : TIDAK SEHAT
+16:50:01.159 CO Concentration (PPM): 12.52
+16:50:01.159 Kadar CO di udara : TIDAK SEHAT
+16:50:03.219 CO Concentration (PPM): 12.52
+16:50:03.219 Kadar CO di udara : TIDAK SEHAT
+16:50:05.276 CO Concentration (PPM): 12.47
+16:50:05.276 Kadar CO di udara : TIDAK SEHAT
+16:50:07.347 CO Concentration (PPM): 12.52
+16:50:07.403 Kadar CO di udara : TIDAK SEHAT
+16:50:09.399 CO Concentration (PPM): 12.56
+16:50:09.457 Kadar CO di udara : TIDAK SEHAT
+16:50:11.466 CO Concentration (PPM): 12.60
+16:50:11.530 Kadar CO di udara : TIDAK SEHAT
+16:50:13.587 CO Concentration (PPM): 12.60
+16:50:13.587 Kadar CO di udara : TIDAK SEHAT
+16:50:15.660 CO Concentration (PPM): 12.60
+16:50:15.660 Kadar CO di udara : TIDAK SEHAT
+16:50:17.716 CO Concentration (PPM): 12.56
+16:50:17.716 Kadar CO di udara : TIDAK SEHAT
+16:50:19.787 CO Concentration (PPM): 12.52
+16:50:19.842 Kadar CO di udara : TIDAK SEHAT
+16:50:21.840 CO Concentration (PPM): 12.47
+16:50:21.900 Kadar CO di udara : TIDAK SEHAT
+16:50:23.924 CO Concentration (PPM): 12.52
+16:50:23.957 Kadar CO di udara : TIDAK SEHAT
+16:50:26.031 CO Concentration (PPM): 12.52
+16:50:26.031 Kadar CO di udara : TIDAK SEHAT
+16:50:28.098 CO Concentration (PPM): 12.47
+16:50:28.098 Kadar CO di udara : TIDAK SEHAT
+16:50:30.147 CO Concentration (PPM): 12.47
+16:50:30.213 Kadar CO di udara : TIDAK SEHAT
+16:50:32.229 CO Concentration (PPM): 12.47
+16:50:32.284 Kadar CO di udara : TIDAK SEHAT
+16:50:34.278 CO Concentration (PPM): 12.47
+16:50:34.341 Kadar CO di udara : TIDAK SEHAT
+16:50:36.413 CO Concentration (PPM): 12.52
+16:50:36.413 Kadar CO di udara : TIDAK SEHAT
+16:50:38.467 CO Concentration (PPM): 12.56
+16:50:38.467 Kadar CO di udara : TIDAK SEHAT
+16:50:40.533 CO Concentration (PPM): 12.56
+16:50:40.533 Kadar CO di udara : TIDAK SEHAT
+16:50:42.607 CO Concentration (PPM): 12.52
+16:50:42.637 Kadar CO di udara : TIDAK SEHAT
+16:50:44.671 CO Concentration (PPM): 12.52
+16:50:44.723 Kadar CO di udara : TIDAK SEHAT
+16:50:46.720 CO Concentration (PPM): 12.47
+16:50:46.783 Kadar CO di udara : TIDAK SEHAT
+16:50:48.853 CO Concentration (PPM): 12.47
+16:50:48.853 Kadar CO di udara : TIDAK SEHAT
+16:50:50.901 CO Concentration (PPM): 12.52
+16:50:50.901 Kadar CO di udara : TIDAK SEHAT
+16:50:52.965 CO Concentration (PPM): 12.47
+16:50:52.965 Kadar CO di udara : TIDAK SEHAT
+16:50:55.042 CO Concentration (PPM): 12.47
+16:50:55.080 Kadar CO di udara : TIDAK SEHAT
+16:50:57.098 CO Concentration (PPM): 12.47
+16:50:57.158 Kadar CO di udara : TIDAK SEHAT
+16:50:59.170 CO Concentration (PPM): 12.47
+16:50:59.230 Kadar CO di udara : TIDAK SEHAT
+16:51:01.287 CO Concentration (PPM): 12.47
+16:51:01.287 Kadar CO di udara : TIDAK SEHAT
+16:51:03.360 CO Concentration (PPM): 12.52
+16:51:03.360 Kadar CO di udara : TIDAK SEHAT
+16:51:05.415 CO Concentration (PPM): 12.47
+16:51:05.415 Kadar CO di udara : TIDAK SEHAT
+16:51:07.485 CO Concentration (PPM): 11.98
+16:51:07.528 Kadar CO di udara : TIDAK SEHAT
+16:51:09.555 CO Concentration (PPM): 7.68
+16:51:09.598 Kadar CO di udara : SEDANG
+16:51:11.600 CO Concentration (PPM): 8.70
+16:51:11.660 Kadar CO di udara : TIDAK SEHAT
+16:51:13.687 CO Concentration (PPM): 9.41
+16:51:13.722 Kadar CO di udara : TIDAK SEHAT
+16:51:15.754 CO Concentration (PPM): 10.21
+16:51:15.792 Kadar CO di udara : TIDAK SEHAT
+16:51:17.854 CO Concentration (PPM): 8.43
+16:51:17.854 Kadar CO di udara : TIDAK SEHAT
+16:51:19.930 CO Concentration (PPM): 9.59
+16:51:19.930 Kadar CO di udara : TIDAK SEHAT
+16:51:21.994 CO Concentration (PPM): 7.99
+16:51:21.994 Kadar CO di udara : SEDANG
+16:51:24.048 CO Concentration (PPM): 7.06
+16:51:24.103 Kadar CO di udara : SEDANG
+16:51:26.123 CO Concentration (PPM): 5.10
+16:51:26.168 Kadar CO di udara : SEDANG
+16:51:28.193 CO Concentration (PPM): 10.96
+16:51:28.223 Kadar CO di udara : TIDAK SEHAT
+16:51:30.255 CO Concentration (PPM): 11.63
+16:51:30.289 Kadar CO di udara : TIDAK SEHAT
+16:51:32.318 CO Concentration (PPM): 11.18
+16:51:32.356 Kadar CO di udara : TIDAK SEHAT
+16:51:34.418 CO Concentration (PPM): 11.05
+16:51:34.418 Kadar CO di udara : TIDAK SEHAT
+16:51:36.481 CO Concentration (PPM): 11.32
+16:51:36.481 Kadar CO di udara : TIDAK SEHAT
+16:51:38.564 CO Concentration (PPM): 11.49
+16:51:38.564 Kadar CO di udara : TIDAK SEHAT
+16:51:40.612 CO Concentration (PPM): 11.67
+16:51:40.668 Kadar CO di udara : TIDAK SEHAT
+16:51:42.688 CO Concentration (PPM): 11.76
+16:51:42.747 Kadar CO di udara : TIDAK SEHAT
+16:51:44.795 CO Concentration (PPM): 11.81
+16:51:44.795 Kadar CO di udara : TIDAK SEHAT
+16:51:46.854 CO Concentration (PPM): 11.85
+16:51:46.854 Kadar CO di udara : TIDAK SEHAT
+16:51:48.917 CO Concentration (PPM): 11.89
+16:51:48.917 Kadar CO di udara : TIDAK SEHAT
+16:51:51.000 CO Concentration (PPM): 11.89
+16:51:51.035 Kadar CO di udara : TIDAK SEHAT
+16:51:53.048 CO Concentration (PPM): 11.89
+16:51:53.106 Kadar CO di udara : TIDAK SEHAT
+16:51:55.119 CO Concentration (PPM): 11.89
+16:51:55.175 Kadar CO di udara : TIDAK SEHAT
+16:51:56.521 Disconnected

@@ -1,0 +1,3852 @@
+05:49:48.418 CO Concentration (PPM): 12.83
+05:49:48.474 Kadar CO di udara : TIDAK SEHAT
+05:49:50.484 CO Concentration (PPM): 13.05
+05:49:50.545 Kadar CO di udara : TIDAK SEHAT
+05:49:52.547 CO Concentration (PPM): 12.69
+05:49:52.607 Kadar CO di udara : TIDAK SEHAT
+05:49:54.676 CO Concentration (PPM): 12.56
+05:49:54.676 Kadar CO di udara : TIDAK SEHAT
+05:49:56.738 CO Concentration (PPM): 12.47
+05:49:56.738 Kadar CO di udara : TIDAK SEHAT
+05:49:58.806 CO Concentration (PPM): 12.69
+05:49:58.806 Kadar CO di udara : TIDAK SEHAT
+05:50:00.870 CO Concentration (PPM): 11.45
+05:50:00.870 Kadar CO di udara : TIDAK SEHAT
+05:50:02.919 CO Concentration (PPM): 12.43
+05:50:02.974 Kadar CO di udara : TIDAK SEHAT
+05:50:04.985 CO Concentration (PPM): 11.05
+05:50:05.042 Kadar CO di udara : TIDAK SEHAT
+05:50:07.106 CO Concentration (PPM): 11.94
+05:50:07.106 Kadar CO di udara : TIDAK SEHAT
+05:50:09.181 CO Concentration (PPM): 11.36
+05:50:09.181 Kadar CO di udara : TIDAK SEHAT
+05:50:11.235 CO Concentration (PPM): 11.01
+05:50:11.235 Kadar CO di udara : TIDAK SEHAT
+05:50:13.299 CO Concentration (PPM): 11.09
+05:50:13.358 Kadar CO di udara : TIDAK SEHAT
+05:50:15.376 CO Concentration (PPM): 11.09
+05:50:15.409 Kadar CO di udara : TIDAK SEHAT
+05:50:17.436 CO Concentration (PPM): 11.05
+05:50:17.487 Kadar CO di udara : TIDAK SEHAT
+05:50:19.552 CO Concentration (PPM): 11.05
+05:50:19.552 Kadar CO di udara : TIDAK SEHAT
+05:50:21.605 CO Concentration (PPM): 10.96
+05:50:21.605 Kadar CO di udara : TIDAK SEHAT
+05:50:23.667 CO Concentration (PPM): 11.01
+05:50:23.667 Kadar CO di udara : TIDAK SEHAT
+05:50:25.738 CO Concentration (PPM): 10.87
+05:50:25.793 Kadar CO di udara : TIDAK SEHAT
+05:50:27.797 CO Concentration (PPM): 10.96
+05:50:27.855 Kadar CO di udara : TIDAK SEHAT
+05:50:29.874 CO Concentration (PPM): 10.87
+05:50:29.929 Kadar CO di udara : TIDAK SEHAT
+05:50:31.985 CO Concentration (PPM): 10.92
+05:50:31.985 Kadar CO di udara : TIDAK SEHAT
+05:50:34.054 CO Concentration (PPM): 10.92
+05:50:34.054 Kadar CO di udara : TIDAK SEHAT
+05:50:36.105 CO Concentration (PPM): 10.92
+05:50:36.105 Kadar CO di udara : TIDAK SEHAT
+05:50:38.190 CO Concentration (PPM): 10.87
+05:50:38.219 Kadar CO di udara : TIDAK SEHAT
+05:50:40.257 CO Concentration (PPM): 10.83
+05:50:40.288 Kadar CO di udara : TIDAK SEHAT
+05:50:42.302 CO Concentration (PPM): 10.74
+05:50:42.363 Kadar CO di udara : TIDAK SEHAT
+05:50:44.415 CO Concentration (PPM): 10.87
+05:50:44.415 Kadar CO di udara : TIDAK SEHAT
+05:50:46.490 CO Concentration (PPM): 10.78
+05:50:46.490 Kadar CO di udara : TIDAK SEHAT
+05:50:48.553 CO Concentration (PPM): 10.74
+05:50:48.553 Kadar CO di udara : TIDAK SEHAT
+05:50:50.621 CO Concentration (PPM): 10.70
+05:50:50.676 Kadar CO di udara : TIDAK SEHAT
+05:50:52.693 CO Concentration (PPM): 10.65
+05:50:52.726 Kadar CO di udara : TIDAK SEHAT
+05:50:54.750 CO Concentration (PPM): 10.61
+05:50:54.808 Kadar CO di udara : TIDAK SEHAT
+05:50:56.856 CO Concentration (PPM): 10.61
+05:50:56.856 Kadar CO di udara : TIDAK SEHAT
+05:50:58.935 CO Concentration (PPM): 10.61
+05:50:58.935 Kadar CO di udara : TIDAK SEHAT
+05:51:00.985 CO Concentration (PPM): 10.56
+05:51:00.985 Kadar CO di udara : TIDAK SEHAT
+05:51:03.059 CO Concentration (PPM): 10.47
+05:51:03.114 Kadar CO di udara : TIDAK SEHAT
+05:51:05.111 CO Concentration (PPM): 10.43
+05:51:05.173 Kadar CO di udara : TIDAK SEHAT
+05:51:07.190 CO Concentration (PPM): 10.43
+05:51:07.248 Kadar CO di udara : TIDAK SEHAT
+05:51:09.296 CO Concentration (PPM): 10.43
+05:51:09.296 Kadar CO di udara : TIDAK SEHAT
+05:51:11.373 CO Concentration (PPM): 10.38
+05:51:11.373 Kadar CO di udara : TIDAK SEHAT
+05:51:13.424 CO Concentration (PPM): 10.34
+05:51:13.424 Kadar CO di udara : TIDAK SEHAT
+05:51:15.504 CO Concentration (PPM): 10.30
+05:51:15.559 Kadar CO di udara : TIDAK SEHAT
+05:51:17.559 CO Concentration (PPM): 10.30
+05:51:17.616 Kadar CO di udara : TIDAK SEHAT
+05:51:19.633 CO Concentration (PPM): 10.34
+05:51:19.689 Kadar CO di udara : TIDAK SEHAT
+05:51:21.736 CO Concentration (PPM): 10.25
+05:51:21.736 Kadar CO di udara : TIDAK SEHAT
+05:51:23.798 CO Concentration (PPM): 10.25
+05:51:23.798 Kadar CO di udara : TIDAK SEHAT
+05:51:25.867 CO Concentration (PPM): 10.21
+05:51:25.867 Kadar CO di udara : TIDAK SEHAT
+05:51:27.940 CO Concentration (PPM): 10.16
+05:51:27.999 Kadar CO di udara : TIDAK SEHAT
+05:51:29.998 CO Concentration (PPM): 10.21
+05:51:30.055 Kadar CO di udara : TIDAK SEHAT
+05:51:32.074 CO Concentration (PPM): 10.16
+05:51:32.132 Kadar CO di udara : TIDAK SEHAT
+05:51:34.185 CO Concentration (PPM): 10.12
+05:51:34.185 Kadar CO di udara : TIDAK SEHAT
+05:51:36.256 CO Concentration (PPM): 10.07
+05:51:36.256 Kadar CO di udara : TIDAK SEHAT
+05:51:38.304 CO Concentration (PPM): 10.03
+05:51:38.304 Kadar CO di udara : TIDAK SEHAT
+05:51:40.371 CO Concentration (PPM): 10.07
+05:51:40.426 Kadar CO di udara : TIDAK SEHAT
+05:51:42.432 CO Concentration (PPM): 10.07
+05:51:42.490 Kadar CO di udara : TIDAK SEHAT
+05:51:44.506 CO Concentration (PPM): 10.07
+05:51:44.565 Kadar CO di udara : TIDAK SEHAT
+05:51:46.617 CO Concentration (PPM): 10.03
+05:51:46.617 Kadar CO di udara : TIDAK SEHAT
+05:51:48.684 CO Concentration (PPM): 9.94
+05:51:48.684 Kadar CO di udara : TIDAK SEHAT
+05:51:50.760 CO Concentration (PPM): 9.99
+05:51:50.760 Kadar CO di udara : TIDAK SEHAT
+05:51:52.809 CO Concentration (PPM): 9.99
+05:51:52.862 Kadar CO di udara : TIDAK SEHAT
+05:51:54.891 CO Concentration (PPM): 9.94
+05:51:54.923 Kadar CO di udara : TIDAK SEHAT
+05:51:56.952 CO Concentration (PPM): 9.90
+05:51:56.986 Kadar CO di udara : TIDAK SEHAT
+05:51:59.019 CO Concentration (PPM): 9.90
+05:51:59.053 Kadar CO di udara : TIDAK SEHAT
+05:52:01.136 CO Concentration (PPM): 9.90
+05:52:01.136 Kadar CO di udara : TIDAK SEHAT
+05:52:03.203 CO Concentration (PPM): 9.90
+05:52:03.203 Kadar CO di udara : TIDAK SEHAT
+05:52:05.254 CO Concentration (PPM): 9.81
+05:52:05.254 Kadar CO di udara : TIDAK SEHAT
+05:52:07.331 CO Concentration (PPM): 9.85
+05:52:07.365 Kadar CO di udara : TIDAK SEHAT
+05:52:09.387 CO Concentration (PPM): 9.85
+05:52:09.445 Kadar CO di udara : TIDAK SEHAT
+05:52:11.446 CO Concentration (PPM): 9.85
+05:52:11.505 Kadar CO di udara : TIDAK SEHAT
+05:52:13.562 CO Concentration (PPM): 9.63
+05:52:13.562 Kadar CO di udara : TIDAK SEHAT
+05:52:15.635 CO Concentration (PPM): 9.63
+05:52:15.635 Kadar CO di udara : TIDAK SEHAT
+05:52:17.704 CO Concentration (PPM): 9.45
+05:52:17.704 Kadar CO di udara : TIDAK SEHAT
+05:52:19.750 CO Concentration (PPM): 9.50
+05:52:19.750 Kadar CO di udara : TIDAK SEHAT
+05:52:21.825 CO Concentration (PPM): 9.54
+05:52:21.881 Kadar CO di udara : TIDAK SEHAT
+05:52:23.883 CO Concentration (PPM): 9.63
+05:52:23.935 Kadar CO di udara : TIDAK SEHAT
+05:52:25.946 CO Concentration (PPM): 9.72
+05:52:26.004 Kadar CO di udara : TIDAK SEHAT
+05:52:28.064 CO Concentration (PPM): 9.67
+05:52:28.064 Kadar CO di udara : TIDAK SEHAT
+05:52:30.136 CO Concentration (PPM): 9.63
+05:52:30.136 Kadar CO di udara : TIDAK SEHAT
+05:52:32.204 CO Concentration (PPM): 9.67
+05:52:32.204 Kadar CO di udara : TIDAK SEHAT
+05:52:34.252 CO Concentration (PPM): 9.72
+05:52:34.299 Kadar CO di udara : TIDAK SEHAT
+05:52:36.317 CO Concentration (PPM): 9.67
+05:52:36.377 Kadar CO di udara : TIDAK SEHAT
+05:52:38.397 CO Concentration (PPM): 9.63
+05:52:38.428 Kadar CO di udara : TIDAK SEHAT
+05:52:40.456 CO Concentration (PPM): 9.67
+05:52:40.525 Kadar CO di udara : TIDAK SEHAT
+05:52:42.568 CO Concentration (PPM): 9.67
+05:52:42.568 Kadar CO di udara : TIDAK SEHAT
+05:52:44.636 CO Concentration (PPM): 9.63
+05:52:44.636 Kadar CO di udara : TIDAK SEHAT
+05:52:46.706 CO Concentration (PPM): 9.59
+05:52:46.706 Kadar CO di udara : TIDAK SEHAT
+05:52:48.770 CO Concentration (PPM): 9.63
+05:52:48.823 Kadar CO di udara : TIDAK SEHAT
+05:52:50.818 CO Concentration (PPM): 9.59
+05:52:50.877 Kadar CO di udara : TIDAK SEHAT
+05:52:52.884 CO Concentration (PPM): 9.54
+05:52:52.943 Kadar CO di udara : TIDAK SEHAT
+05:52:54.952 CO Concentration (PPM): 9.54
+05:52:55.015 Kadar CO di udara : TIDAK SEHAT
+05:52:57.070 CO Concentration (PPM): 9.54
+05:52:57.070 Kadar CO di udara : TIDAK SEHAT
+05:52:59.133 CO Concentration (PPM): 9.54
+05:52:59.133 Kadar CO di udara : TIDAK SEHAT
+05:53:01.201 CO Concentration (PPM): 9.50
+05:53:01.201 Kadar CO di udara : TIDAK SEHAT
+05:53:03.265 CO Concentration (PPM): 9.50
+05:53:03.265 Kadar CO di udara : TIDAK SEHAT
+05:53:05.328 CO Concentration (PPM): 9.54
+05:53:05.389 Kadar CO di udara : TIDAK SEHAT
+05:53:07.404 CO Concentration (PPM): 9.50
+05:53:07.458 Kadar CO di udara : TIDAK SEHAT
+05:53:09.466 CO Concentration (PPM): 9.45
+05:53:09.525 Kadar CO di udara : TIDAK SEHAT
+05:53:11.589 CO Concentration (PPM): 9.41
+05:53:11.589 Kadar CO di udara : TIDAK SEHAT
+05:53:13.637 CO Concentration (PPM): 9.45
+05:53:13.637 Kadar CO di udara : TIDAK SEHAT
+05:53:15.717 CO Concentration (PPM): 9.45
+05:53:15.717 Kadar CO di udara : TIDAK SEHAT
+05:53:17.768 CO Concentration (PPM): 9.41
+05:53:17.768 Kadar CO di udara : TIDAK SEHAT
+05:53:19.855 CO Concentration (PPM): 9.41
+05:53:19.893 Kadar CO di udara : TIDAK SEHAT
+05:53:21.904 CO Concentration (PPM): 9.41
+05:53:21.959 Kadar CO di udara : TIDAK SEHAT
+05:53:23.969 CO Concentration (PPM): 9.41
+05:53:24.049 Kadar CO di udara : TIDAK SEHAT
+05:53:26.096 CO Concentration (PPM): 9.36
+05:53:26.096 Kadar CO di udara : TIDAK SEHAT
+05:53:28.150 CO Concentration (PPM): 9.36
+05:53:28.150 Kadar CO di udara : TIDAK SEHAT
+05:53:30.223 CO Concentration (PPM): 9.36
+05:53:30.223 Kadar CO di udara : TIDAK SEHAT
+05:53:32.285 CO Concentration (PPM): 9.36
+05:53:32.285 Kadar CO di udara : TIDAK SEHAT
+05:53:34.355 CO Concentration (PPM): 9.32
+05:53:34.393 Kadar CO di udara : TIDAK SEHAT
+05:53:36.426 CO Concentration (PPM): 9.32
+05:53:36.460 Kadar CO di udara : TIDAK SEHAT
+05:53:38.489 CO Concentration (PPM): 9.27
+05:53:38.522 Kadar CO di udara : TIDAK SEHAT
+05:53:40.602 CO Concentration (PPM): 9.32
+05:53:40.602 Kadar CO di udara : TIDAK SEHAT
+05:53:42.649 CO Concentration (PPM): 9.27
+05:53:42.649 Kadar CO di udara : TIDAK SEHAT
+05:53:44.714 CO Concentration (PPM): 9.27
+05:53:44.714 Kadar CO di udara : TIDAK SEHAT
+05:53:46.789 CO Concentration (PPM): 9.23
+05:53:46.789 Kadar CO di udara : TIDAK SEHAT
+05:53:48.854 CO Concentration (PPM): 9.27
+05:53:48.912 Kadar CO di udara : TIDAK SEHAT
+05:53:50.918 CO Concentration (PPM): 9.23
+05:53:50.971 Kadar CO di udara : TIDAK SEHAT
+05:53:52.986 CO Concentration (PPM): 9.23
+05:53:53.042 Kadar CO di udara : TIDAK SEHAT
+05:53:55.104 CO Concentration (PPM): 9.23
+05:53:55.104 Kadar CO di udara : TIDAK SEHAT
+05:53:57.166 CO Concentration (PPM): 9.23
+05:53:57.166 Kadar CO di udara : TIDAK SEHAT
+05:53:59.223 CO Concentration (PPM): 9.19
+05:53:59.223 Kadar CO di udara : TIDAK SEHAT
+05:54:01.286 CO Concentration (PPM): 9.19
+05:54:01.286 Kadar CO di udara : TIDAK SEHAT
+05:54:03.357 CO Concentration (PPM): 9.19
+05:54:03.411 Kadar CO di udara : TIDAK SEHAT
+05:54:05.414 CO Concentration (PPM): 9.19
+05:54:05.472 Kadar CO di udara : TIDAK SEHAT
+05:54:07.479 CO Concentration (PPM): 9.14
+05:54:07.537 Kadar CO di udara : TIDAK SEHAT
+05:54:09.612 CO Concentration (PPM): 9.14
+05:54:09.612 Kadar CO di udara : TIDAK SEHAT
+05:54:11.668 CO Concentration (PPM): 9.14
+05:54:11.668 Kadar CO di udara : TIDAK SEHAT
+05:54:13.740 CO Concentration (PPM): 9.14
+05:54:13.740 Kadar CO di udara : TIDAK SEHAT
+05:54:15.804 CO Concentration (PPM): 9.14
+05:54:15.837 Kadar CO di udara : TIDAK SEHAT
+05:54:17.873 CO Concentration (PPM): 9.14
+05:54:17.902 Kadar CO di udara : TIDAK SEHAT
+05:54:19.921 CO Concentration (PPM): 9.14
+05:54:19.976 Kadar CO di udara : TIDAK SEHAT
+05:54:22.003 CO Concentration (PPM): 9.10
+05:54:22.046 Kadar CO di udara : TIDAK SEHAT
+05:54:24.100 CO Concentration (PPM): 9.10
+05:54:24.100 Kadar CO di udara : TIDAK SEHAT
+05:54:26.175 CO Concentration (PPM): 9.10
+05:54:26.175 Kadar CO di udara : TIDAK SEHAT
+05:54:28.238 CO Concentration (PPM): 9.10
+05:54:28.238 Kadar CO di udara : TIDAK SEHAT
+05:54:30.307 CO Concentration (PPM): 9.10
+05:54:30.337 Kadar CO di udara : TIDAK SEHAT
+05:54:32.366 CO Concentration (PPM): 9.05
+05:54:32.427 Kadar CO di udara : TIDAK SEHAT
+05:54:34.438 CO Concentration (PPM): 9.05
+05:54:34.469 Kadar CO di udara : TIDAK SEHAT
+05:54:36.552 CO Concentration (PPM): 9.05
+05:54:36.552 Kadar CO di udara : TIDAK SEHAT
+05:54:38.602 CO Concentration (PPM): 9.05
+05:54:38.602 Kadar CO di udara : TIDAK SEHAT
+05:54:40.671 CO Concentration (PPM): 9.05
+05:54:40.671 Kadar CO di udara : TIDAK SEHAT
+05:54:42.735 CO Concentration (PPM): 9.01
+05:54:42.735 Kadar CO di udara : TIDAK SEHAT
+05:54:44.801 CO Concentration (PPM): 9.01
+05:54:44.856 Kadar CO di udara : TIDAK SEHAT
+05:54:46.872 CO Concentration (PPM): 9.01
+05:54:46.931 Kadar CO di udara : TIDAK SEHAT
+05:54:48.934 CO Concentration (PPM): 9.05
+05:54:48.992 Kadar CO di udara : TIDAK SEHAT
+05:54:51.053 CO Concentration (PPM): 9.01
+05:54:51.053 Kadar CO di udara : TIDAK SEHAT
+05:54:53.120 CO Concentration (PPM): 9.01
+05:54:53.120 Kadar CO di udara : TIDAK SEHAT
+05:54:55.165 CO Concentration (PPM): 9.01
+05:54:55.165 Kadar CO di udara : TIDAK SEHAT
+05:54:57.252 CO Concentration (PPM): 8.96
+05:54:57.252 Kadar CO di udara : TIDAK SEHAT
+05:54:59.299 CO Concentration (PPM): 8.96
+05:54:59.353 Kadar CO di udara : TIDAK SEHAT
+05:55:01.374 CO Concentration (PPM): 8.96
+05:55:01.428 Kadar CO di udara : TIDAK SEHAT
+05:55:03.435 CO Concentration (PPM): 9.01
+05:55:03.498 Kadar CO di udara : TIDAK SEHAT
+05:55:05.549 CO Concentration (PPM): 8.96
+05:55:05.549 Kadar CO di udara : TIDAK SEHAT
+05:55:07.615 CO Concentration (PPM): 8.96
+05:55:07.615 Kadar CO di udara : TIDAK SEHAT
+05:55:09.684 CO Concentration (PPM): 8.96
+05:55:09.684 Kadar CO di udara : TIDAK SEHAT
+05:55:11.757 CO Concentration (PPM): 8.92
+05:55:11.790 Kadar CO di udara : TIDAK SEHAT
+05:55:13.815 CO Concentration (PPM): 8.92
+05:55:13.861 Kadar CO di udara : TIDAK SEHAT
+05:55:15.866 CO Concentration (PPM): 8.92
+05:55:15.930 Kadar CO di udara : TIDAK SEHAT
+05:55:17.934 CO Concentration (PPM): 8.92
+05:55:17.991 Kadar CO di udara : TIDAK SEHAT
+05:55:20.050 CO Concentration (PPM): 8.92
+05:55:20.050 Kadar CO di udara : TIDAK SEHAT
+05:55:22.122 CO Concentration (PPM): 8.92
+05:55:22.122 Kadar CO di udara : TIDAK SEHAT
+05:55:24.176 CO Concentration (PPM): 8.92
+05:55:24.176 Kadar CO di udara : TIDAK SEHAT
+05:55:26.250 CO Concentration (PPM): 8.88
+05:55:26.250 Kadar CO di udara : TIDAK SEHAT
+05:55:28.315 CO Concentration (PPM): 8.88
+05:55:28.377 Kadar CO di udara : TIDAK SEHAT
+05:55:30.391 CO Concentration (PPM): 8.88
+05:55:30.421 Kadar CO di udara : TIDAK SEHAT
+05:55:32.458 CO Concentration (PPM): 8.88
+05:55:32.492 Kadar CO di udara : TIDAK SEHAT
+05:55:34.567 CO Concentration (PPM): 8.88
+05:55:34.567 Kadar CO di udara : TIDAK SEHAT
+05:55:36.615 CO Concentration (PPM): 8.83
+05:55:36.615 Kadar CO di udara : TIDAK SEHAT
+05:55:38.681 CO Concentration (PPM): 8.88
+05:55:38.681 Kadar CO di udara : TIDAK SEHAT
+05:55:40.748 CO Concentration (PPM): 8.83
+05:55:40.811 Kadar CO di udara : TIDAK SEHAT
+05:55:42.824 CO Concentration (PPM): 8.83
+05:55:42.880 Kadar CO di udara : TIDAK SEHAT
+05:55:44.888 CO Concentration (PPM): 8.83
+05:55:44.944 Kadar CO di udara : TIDAK SEHAT
+05:55:46.961 CO Concentration (PPM): 8.83
+05:55:46.993 Kadar CO di udara : TIDAK SEHAT
+05:55:49.074 CO Concentration (PPM): 8.83
+05:55:49.074 Kadar CO di udara : TIDAK SEHAT
+05:55:51.130 CO Concentration (PPM): 8.83
+05:55:51.130 Kadar CO di udara : TIDAK SEHAT
+05:55:53.204 CO Concentration (PPM): 8.83
+05:55:53.204 Kadar CO di udara : TIDAK SEHAT
+05:55:55.247 CO Concentration (PPM): 8.83
+05:55:55.314 Kadar CO di udara : TIDAK SEHAT
+05:55:57.320 CO Concentration (PPM): 8.83
+05:55:57.378 Kadar CO di udara : TIDAK SEHAT
+05:55:59.381 CO Concentration (PPM): 8.79
+05:55:59.440 Kadar CO di udara : TIDAK SEHAT
+05:56:01.503 CO Concentration (PPM): 8.79
+05:56:01.503 Kadar CO di udara : TIDAK SEHAT
+05:56:03.575 CO Concentration (PPM): 8.79
+05:56:03.575 Kadar CO di udara : TIDAK SEHAT
+05:56:05.631 CO Concentration (PPM): 8.79
+05:56:05.631 Kadar CO di udara : TIDAK SEHAT
+05:56:07.700 CO Concentration (PPM): 8.79
+05:56:07.700 Kadar CO di udara : TIDAK SEHAT
+05:56:09.773 CO Concentration (PPM): 8.79
+05:56:09.801 Kadar CO di udara : TIDAK SEHAT
+05:56:11.820 CO Concentration (PPM): 8.79
+05:56:11.879 Kadar CO di udara : TIDAK SEHAT
+05:56:13.879 CO Concentration (PPM): 8.79
+05:56:13.937 Kadar CO di udara : TIDAK SEHAT
+05:56:15.998 CO Concentration (PPM): 8.79
+05:56:15.998 Kadar CO di udara : TIDAK SEHAT
+05:56:18.062 CO Concentration (PPM): 8.74
+05:56:18.062 Kadar CO di udara : TIDAK SEHAT
+05:56:20.137 CO Concentration (PPM): 8.74
+05:56:20.137 Kadar CO di udara : TIDAK SEHAT
+05:56:22.208 CO Concentration (PPM): 8.74
+05:56:22.208 Kadar CO di udara : TIDAK SEHAT
+05:56:24.271 CO Concentration (PPM): 8.74
+05:56:24.329 Kadar CO di udara : TIDAK SEHAT
+05:56:26.331 CO Concentration (PPM): 8.74
+05:56:26.386 Kadar CO di udara : TIDAK SEHAT
+05:56:28.406 CO Concentration (PPM): 8.74
+05:56:28.461 Kadar CO di udara : TIDAK SEHAT
+05:56:30.516 CO Concentration (PPM): 8.74
+05:56:30.516 Kadar CO di udara : TIDAK SEHAT
+05:56:32.567 CO Concentration (PPM): 8.74
+05:56:32.567 Kadar CO di udara : TIDAK SEHAT
+05:56:34.643 CO Concentration (PPM): 8.74
+05:56:34.643 Kadar CO di udara : TIDAK SEHAT
+05:56:36.694 CO Concentration (PPM): 8.74
+05:56:36.749 Kadar CO di udara : TIDAK SEHAT
+05:56:38.769 CO Concentration (PPM): 8.70
+05:56:38.821 Kadar CO di udara : TIDAK SEHAT
+05:56:40.827 CO Concentration (PPM): 8.70
+05:56:40.885 Kadar CO di udara : TIDAK SEHAT
+05:56:42.892 CO Concentration (PPM): 8.70
+05:56:42.959 Kadar CO di udara : TIDAK SEHAT
+05:56:45.017 CO Concentration (PPM): 8.74
+05:56:45.017 Kadar CO di udara : TIDAK SEHAT
+05:56:47.093 CO Concentration (PPM): 8.70
+05:56:47.093 Kadar CO di udara : TIDAK SEHAT
+05:56:49.154 CO Concentration (PPM): 8.70
+05:56:49.154 Kadar CO di udara : TIDAK SEHAT
+05:56:51.205 CO Concentration (PPM): 8.70
+05:56:51.205 Kadar CO di udara : TIDAK SEHAT
+05:56:53.285 CO Concentration (PPM): 8.65
+05:56:53.339 Kadar CO di udara : TIDAK SEHAT
+05:56:55.331 CO Concentration (PPM): 8.65
+05:56:55.396 Kadar CO di udara : TIDAK SEHAT
+05:56:57.403 CO Concentration (PPM): 8.65
+05:56:57.462 Kadar CO di udara : TIDAK SEHAT
+05:56:59.521 CO Concentration (PPM): 8.70
+05:56:59.521 Kadar CO di udara : TIDAK SEHAT
+05:57:01.588 CO Concentration (PPM): 8.65
+05:57:01.588 Kadar CO di udara : TIDAK SEHAT
+05:57:03.651 CO Concentration (PPM): 8.65
+05:57:03.651 Kadar CO di udara : TIDAK SEHAT
+05:57:05.719 CO Concentration (PPM): 8.65
+05:57:05.719 Kadar CO di udara : TIDAK SEHAT
+05:57:07.777 CO Concentration (PPM): 8.65
+05:57:07.835 Kadar CO di udara : TIDAK SEHAT
+05:57:09.853 CO Concentration (PPM): 8.65
+05:57:09.910 Kadar CO di udara : TIDAK SEHAT
+05:57:11.919 CO Concentration (PPM): 8.65
+05:57:11.969 Kadar CO di udara : TIDAK SEHAT
+05:57:14.016 CO Concentration (PPM): 8.65
+05:57:14.016 Kadar CO di udara : TIDAK SEHAT
+05:57:16.088 CO Concentration (PPM): 8.65
+05:57:16.088 Kadar CO di udara : TIDAK SEHAT
+05:57:18.165 CO Concentration (PPM): 8.65
+05:57:18.165 Kadar CO di udara : TIDAK SEHAT
+05:57:20.217 CO Concentration (PPM): 8.65
+05:57:20.272 Kadar CO di udara : TIDAK SEHAT
+05:57:22.278 CO Concentration (PPM): 8.65
+05:57:22.343 Kadar CO di udara : TIDAK SEHAT
+05:57:24.357 CO Concentration (PPM): 8.61
+05:57:24.415 Kadar CO di udara : TIDAK SEHAT
+05:57:26.422 CO Concentration (PPM): 8.61
+05:57:26.480 Kadar CO di udara : TIDAK SEHAT
+05:57:28.535 CO Concentration (PPM): 8.61
+05:57:28.535 Kadar CO di udara : TIDAK SEHAT
+05:57:30.609 CO Concentration (PPM): 8.61
+05:57:30.609 Kadar CO di udara : TIDAK SEHAT
+05:57:32.668 CO Concentration (PPM): 8.61
+05:57:32.668 Kadar CO di udara : TIDAK SEHAT
+05:57:34.716 CO Concentration (PPM): 8.61
+05:57:34.716 Kadar CO di udara : TIDAK SEHAT
+05:57:36.789 CO Concentration (PPM): 8.65
+05:57:36.847 Kadar CO di udara : TIDAK SEHAT
+05:57:38.850 CO Concentration (PPM): 8.61
+05:57:38.902 Kadar CO di udara : TIDAK SEHAT
+05:57:40.927 CO Concentration (PPM): 8.61
+05:57:40.964 Kadar CO di udara : TIDAK SEHAT
+05:57:43.034 CO Concentration (PPM): 8.61
+05:57:43.034 Kadar CO di udara : TIDAK SEHAT
+05:57:45.107 CO Concentration (PPM): 8.61
+05:57:45.107 Kadar CO di udara : TIDAK SEHAT
+05:57:47.167 CO Concentration (PPM): 8.61
+05:57:47.167 Kai udara : TIDAK SEHAT
+05:57:49.234 CO Concentration (PPM): 8.61
+05:57:49.234 Kadar CO di udara : TIDAK SEHAT
+05:57:51.309 CO Concentration (PPM): 8.61
+05:57:51.351 Kadar CO di udara : TIDAK SEHAT
+05:57:53.373 CO Concentration (PPM): 8.56
+05:57:53.402 Kadar CO di udara : TIDAK SEHAT
+05:57:55.415 CO Concentration (PPM): 8.56
+05:57:55.473 Kadar CO di udara : TIDAK SEHAT
+05:57:57.540 CO Concentration (PPM): 8.56
+05:57:57.540 Kadar CO di udara : TIDAK SEHAT
+05:57:59.596 CO Concentration (PPM): 8.61
+05:57:59.596 Kadar CO di udara : TIDAK SEHAT
+05:58:01.674 CO Concentration (PPM): 8.56
+05:58:01.674 Kadar CO di udara : TIDAK SEHAT
+05:58:03.744 CO Concentration (PPM): 8.56
+05:58:03.774 Kadar CO di udara : TIDAK SEHAT
+05:58:05.807 CO Concentration (PPM): 8.56
+05:58:05.865 Kadar CO di udara : TIDAK SEHAT
+05:58:07.857 CO Concentration (PPM): 8.56
+05:58:07.911 Kadar CO di udara : TIDAK SEHAT
+05:58:09.935 CO Concentration (PPM): 8.56
+05:58:09.994 Kadar CO di udara : TIDAK SEHAT
+05:58:12.059 CO Concentration (PPM): 8.56
+05:58:12.059 Kadar CO di udara : TIDAK SEHAT
+05:58:14.117 CO Concentration (PPM): 8.56
+05:58:14.117 Kadar CO di udara : TIDAK SEHAT
+05:58:16.166 CO Concentration (PPM): 8.52
+05:58:16.166 Kadar CO di udara : TIDAK SEHAT
+05:58:18.243 CO Concentration (PPM): 8.52
+05:58:18.298 Kadar CO di udara : TIDAK SEHAT
+05:58:20.298 CO Concentration (PPM): 8.52
+05:58:20.355 Kadar CO di udara : TIDAK SEHAT
+05:58:22.372 CO Concentration (PPM): 8.52
+05:58:22.412 Kadar CO di udara : TIDAK SEHAT
+05:58:24.484 CO Concentration (PPM): 8.52
+05:58:24.484 Kadar CO di udara : TIDAK SEHAT
+05:58:26.546 CO Concentration (PPM): 8.52
+05:58:26.546 Kadar CO di udara : TIDAK SEHAT
+05:58:28.620 CO Concentration (PPM): 8.52
+05:58:28.620 Kadar CO di udara : TIDAK SEHAT
+05:58:30.691 CO Concentration (PPM): 8.52
+05:58:30.691 Kadar CO di udara : TIDAK SEHAT
+05:58:32.736 CO Concentration (PPM): 8.52
+05:58:32.790 Kadar CO di udara : TIDAK SEHAT
+05:58:34.810 CO Concentration (PPM): 8.52
+05:58:34.868 Kadar CO di udara : TIDAK SEHAT
+05:58:36.863 CO Concentration (PPM): 8.52
+05:58:36.925 Kadar CO di udara : TIDAK SEHAT
+05:58:38.983 CO Concentration (PPM): 8.52
+05:58:38.983 Kadar CO di udara : TIDAK SEHAT
+05:58:41.047 CO Concentration (PPM): 8.48
+05:58:41.047 Kadar CO di udara : TIDAK SEHAT
+05:58:43.127 CO Concentration (PPM): 8.48
+05:58:43.127 Kadar CO di udara : TIDAK SEHAT
+05:58:45.190 CO Concentration (PPM): 8.48
+05:58:45.190 Kadar CO di udara : TIDAK SEHAT
+05:58:47.253 CO Concentration (PPM): 8.48
+05:58:47.307 Kadar CO di udara : TIDAK SEHAT
+05:58:49.327 CO Concentration (PPM): 8.48
+05:58:49.360 Kadar CO di udara : TIDAK SEHAT
+05:58:51.382 CO Concentration (PPM): 8.52
+05:58:51.442 Kadar CO di udara : TIDAK SEHAT
+05:58:53.507 CO Concentration (PPM): 8.48
+05:58:53.507 Kadar CO di udara : TIDAK SEHAT
+05:58:55.561 CO Concentration (PPM): 8.48
+05:58:55.561 Kadar CO di udara : TIDAK SEHAT
+05:58:57.624 CO Concentration (PPM): 8.48
+05:58:57.624 Kadar CO di udara : TIDAK SEHAT
+05:58:59.691 CO Concentration (PPM): 8.48
+05:58:59.691 Kadar CO di udara : TIDAK SEHAT
+05:59:01.744 CO Concentration (PPM): 8.48
+05:59:01.799 Kadar CO di udara : TIDAK SEHAT
+05:59:03.815 CO Concentration (PPM): 8.48
+05:59:03.870 Kadar CO di udara : TIDAK SEHAT
+05:59:05.888 CO Concentration (PPM): 8.48
+05:59:05.946 Kadar CO di udara : TIDAK SEHAT
+05:59:08.002 CO Concentration (PPM): 8.48
+05:59:08.002 Kadar CO di udara : TIDAK SEHAT
+05:59:10.079 CO Concentration (PPM): 8.48
+05:59:10.079 Kadar CO di udara : TIDAK SEHAT
+05:59:12.121 CO Concentration (PPM): 8.48
+05:59:12.121 Kadar CO di udara : TIDAK SEHAT
+05:59:14.206 CO Concentration (PPM): 8.48
+05:59:14.206 Kadar CO di udara : TIDAK SEHAT
+05:59:16.254 CO Concentration (PPM): 8.43
+05:59:16.311 Kadar CO di udara : TIDAK SEHAT
+05:59:18.315 CO Concentration (PPM): 8.43
+05:59:18.379 Kadar CO di udara : TIDAK SEHAT
+05:59:20.390 CO Concentration (PPM): 8.43
+05:59:20.439 Kadar CO di udara : TIDAK SEHAT
+05:59:22.505 CO Concentration (PPM): 8.43
+05:59:22.505 Kadar CO di udara : TIDAK SEHAT
+05:59:24.579 CO Concentration (PPM): 8.43
+05:59:24.579 Kadar CO di udara : TIDAK SEHAT
+05:59:26.637 CO Concentration (PPM): 8.43
+05:59:26.637 Kadar CO di udara : TIDAK SEHAT
+05:59:28.696 CO Concentration (PPM): 8.43
+05:59:28.696 Kadar CO di udara : TIDAK SEHAT
+05:59:30.768 CO Concentration (PPM): 8.43
+05:59:30.826 Kadar CO di udara : TIDAK SEHAT
+05:59:32.839 CO Concentration (PPM): 8.43
+05:59:32.873 Kadar CO di udara : TIDAK SEHAT
+05:59:34.883 CO Concentration (PPM): 8.43
+05:59:34.942 Kadar CO di udara : TIDAK SEHAT
+05:59:37.004 CO Concentration (PPM): 8.43
+05:59:37.004 Kadar CO di udara : TIDAK SEHAT
+05:59:39.068 CO Concentration (PPM): 8.43
+05:59:39.068 Kadar CO di udara : TIDAK SEHAT
+05:59:41.136 CO Concentration (PPM): 8.43
+05:59:41.136 Kadar CO di udara : TIDAK SEHAT
+05:59:43.197 CO Concentration (PPM): 8.39
+05:59:43.258 Kadar CO di udara : TIDAK SEHAT
+05:59:45.274 CO Concentration (PPM): 8.39
+05:59:45.309 Kadar CO di udara : TIDAK SEHAT
+05:59:47.321 CO Concentration (PPM): 8.39
+05:59:47.376 Kadar CO di udara : TIDAK SEHAT
+05:59:49.408 CO Concentration (PPM): 8.39
+05:59:49.439 Kadar CO di udara : TIDAK SEHAT
+05:59:51.535 CO Concentration (PPM): 8.39
+05:59:51.535 Kadar CO di udara : TIDAK SEHAT
+05:59:53.618 CO Concentration (PPM): 8.39
+05:59:53.618 Kadar CO di udara : TIDAK SEHAT
+05:59:55.680 CO Concentration (PPM): 8.39
+05:59:55.680 Kadar CO di udara : TIDAK SEHAT
+05:59:57.758 CO Concentration (PPM): 8.39
+05:59:57.768 Kadar CO di udara : TIDAK SEHAT
+05:59:59.813 CO Concentration (PPM): 8.39
+05:59:59.827 Kadar CO di udara : TIDAK SEHAT
+06:00:01.833 CO Concentration (PPM): 8.39
+06:00:01.890 Kadar CO di udara : TIDAK SEHAT
+06:00:04.006 CO Concentration (PPM): 8.39
+06:00:04.006 Kadar CO di udara : TIDAK SEHAT
+06:00:06.068 CO Concentration (PPM): 8.39
+06:00:06.068 Kadar CO di udara : TIDAK SEHAT
+06:00:08.127 CO Concentration (PPM): 8.39
+06:00:08.127 Kadar CO di udara : TIDAK SEHAT
+06:00:10.182 CO Concentration (PPM): 8.39
+06:00:10.182 Kadar CO di udara : TIDAK SEHAT
+06:00:12.263 CO Concentration (PPM): 8.39
+06:00:12.271 Kadar CO di udara : TIDAK SEHAT
+06:00:14.325 CO Concentration (PPM): 8.34
+06:00:14.332 Kadar CO di udara : TIDAK SEHAT
+06:00:16.387 CO Concentration (PPM): 8.34
+06:00:16.395 Kadar CO di udara : TIDAK SEHAT
+06:00:18.516 CO Concentration (PPM): 8.34
+06:00:18.516 Kadar CO di udara : TIDAK SEHAT
+06:00:20.576 CO Concentration (PPM): 8.39
+06:00:20.576 Kadar CO di udara : TIDAK SEHAT
+06:00:22.640 CO Concentration (PPM): 8.34
+06:00:22.640 Kadar CO di udara : TIDAK SEHAT
+06:00:24.692 CO Concentration (PPM): 8.34
+06:00:24.692 Kadar CO di udara : TIDAK SEHAT
+06:00:26.777 CO Concentration (PPM): 8.34
+06:00:26.778 Kadar CO di udara : TIDAK SEHAT
+06:00:28.835 CO Concentration (PPM): 8.34
+06:00:28.841 Kadar CO di udara : TIDAK SEHAT
+06:00:30.891 CO Concentration (PPM): 8.34
+06:00:30.898 Kadar CO di udara : TIDAK SEHAT
+06:00:33.004 CO Concentration (PPM): 8.34
+06:00:33.004 Kadar CO di udara : TIDAK SEHAT
+06:00:35.084 CO Concentration (PPM): 8.39
+06:00:35.084 Kadar CO di udara : TIDAK SEHAT
+06:00:37.144 CO Concentration (PPM): 8.34
+06:00:37.144 Kadar CO di udara : TIDAK SEHAT
+06:00:39.148 CO Concentration (PPM): 8.34
+06:00:39.148 Kadar CO di udara : TIDAK SEHAT
+06:00:41.258 CO Concentration (PPM): 8.34
+06:00:41.262 Kadar CO di udara : TIDAK SEHAT
+06:00:43.346 CO Concentration (PPM): 8.30
+06:00:43.346 Kadar CO di udara : TIDAK SEHAT
+06:00:45.405 CO Concentration (PPM): 8.34
+06:00:45.411 Kadar CO di udara : TIDAK SEHAT
+06:00:47.511 CO Concentration (PPM): 8.34
+06:00:47.511 Kadar CO di udara : TIDAK SEHAT
+06:00:49.592 CO Concentration (PPM): 8.34
+06:00:49.592 Kadar CO di udara : TIDAK SEHAT
+06:00:51.649 CO Concentration (PPM): 8.34
+06:00:51.649 Kadar CO di udara : TIDAK SEHAT
+06:00:53.707 CO Concentration (PPM): 8.34
+06:00:53.707 Kadar CO di udara : TIDAK SEHAT
+06:00:55.786 CO Concentration (PPM): 8.34
+06:00:55.787 Kadar CO di udara : TIDAK SEHAT
+06:00:57.852 CO Concentration (PPM): 8.30
+06:00:57.852 Kadar CO di udara : TIDAK SEHAT
+06:00:59.908 CO Concentration (PPM): 8.34
+06:00:59.915 Kadar CO di udara : TIDAK SEHAT
+06:01:02.022 CO Concentration (PPM): 8.30
+06:01:02.022 Kadar CO di udara : TIDAK SEHAT
+06:01:04.096 CO Concentration (PPM): 8.34
+06:01:04.096 Kadar CO di udara : TIDAK SEHAT
+06:01:06.163 CO Concentration (PPM): 8.30
+06:01:06.163 Kadar CO di udara : TIDAK SEHAT
+06:01:08.218 CO Concentration (PPM): 8.30
+06:01:08.218 Kadar CO di udara : TIDAK SEHAT
+06:01:10.270 CO Concentration (PPM): 8.30
+06:01:10.271 Kadar CO di udara : TIDAK SEHAT
+06:01:12.352 CO Concentration (PPM): 8.30
+06:01:12.354 Kadar CO di udara : TIDAK SEHAT
+06:01:14.410 CO Concentration (PPM): 8.34
+06:01:14.416 Kadar CO di udara : TIDAK SEHAT
+06:01:16.527 CO Concentration (PPM): 8.30
+06:01:16.527 Kadar CO di udara : TIDAK SEHAT
+06:01:18.582 CO Concentration (PPM): 8.30
+06:01:18.582 Kadar CO di udara : TIDAK SEHAT
+06:01:20.661 CO Concentration (PPM): 8.30
+06:01:20.661 Kadar CO di udara : TIDAK SEHAT
+06:01:22.718 CO Concentration (PPM): 8.30
+06:01:22.726 Kadar CO di udara : TIDAK SEHAT
+06:01:24.784 CO Concentration (PPM): 8.30
+06:01:24.789 Kadar CO di udara : TIDAK SEHAT
+06:01:26.864 CO Concentration (PPM): 8.25
+06:01:26.864 Kadar CO di udara : TIDAK SEHAT
+06:01:28.922 CO Concentration (PPM): 8.30
+06:01:28.925 Kadar CO di udara : TIDAK SEHAT
+06:01:31.026 CO Concentration (PPM): 8.25
+06:01:31.026 Kadar CO di udara : TIDAK SEHAT
+06:01:33.087 CO Concentration (PPM): 8.30
+06:01:33.087 Kadar CO di udara : TIDAK SEHAT
+06:01:35.172 CO Concentration (PPM): 8.25
+06:01:35.172 Kadar CO di udara : TIDAK SEHAT
+06:01:37.226 CO Concentration (PPM): 8.25
+06:01:37.227 Kadar CO di udara : TIDAK SEHAT
+06:01:39.282 CO Concentration (PPM): 8.25
+06:01:39.288 Kadar CO di udara : TIDAK SEHAT
+06:01:41.366 CO Concentration (PPM): 8.25
+06:01:41.366 Kadar CO di udara : TIDAK SEHAT
+06:01:43.426 CO Concentration (PPM): 8.25
+06:01:43.427 Kadar CO di udara : TIDAK SEHAT
+06:01:45.538 CO Concentration (PPM): 8.25
+06:01:45.538 Kadar CO di udara : TIDAK SEHAT
+06:01:47.613 CO Concentration (PPM): 8.25
+06:01:47.613 Kadar CO di udara : TIDAK SEHAT
+06:01:49.680 CO Concentration (PPM): 8.25
+06:01:49.680 Kadar CO di udara : TIDAK SEHAT
+06:01:51.734 CO Concentration (PPM): 8.25
+06:01:51.734 Kadar CO di udara : TIDAK SEHAT
+06:01:53.791 CO Concentration (PPM): 8.25
+06:01:53.792 Kadar CO di udara : TIDAK SEHAT
+06:01:55.873 CO Concentration (PPM): 8.25
+06:01:55.873 Kadar CO di udara : TIDAK SEHAT
+06:01:57.930 CO Concentration (PPM): 8.25
+06:01:57.932 Kadar CO di udara : TIDAK SEHAT
+06:02:00.044 CO Concentration (PPM): 8.25
+06:02:00.044 Kadar CO di udara : TIDAK SEHAT
+06:02:02.123 CO Concentration (PPM): 8.25
+06:02:02.123 Kadar CO di udara : TIDAK SEHAT
+06:02:04.180 CO Concentration (PPM): 8.25
+06:02:04.180 Kadar CO di udara : TIDAK SEHAT
+06:02:06.237 CO Concentration (PPM): 8.25
+06:02:06.237 Kadar CO di udara : TIDAK SEHAT
+06:02:08.295 CO Concentration (PPM): 8.25
+06:02:08.296 Kadar CO di udara : TIDAK SEHAT
+06:02:10.385 CO Concentration (PPM): 8.25
+06:02:10.385 Kadar CO di udara : TIDAK SEHAT
+06:02:12.440 CO Concentration (PPM): 8.25
+06:02:12.443 Kadar CO di udara : TIDAK SEHAT
+06:02:14.545 CO Concentration (PPM): 8.25
+06:02:14.545 Kadar CO di udara : TIDAK SEHAT
+06:02:16.607 CO Concentration (PPM): 8.25
+06:02:16.607 Kadar CO di udara : TIDAK SEHAT
+06:02:18.686 CO Concentration (PPM): 8.21
+06:02:18.686 Kadar CO di udara : TIDAK SEHAT
+06:02:20.747 CO Concentration (PPM): 8.21
+06:02:20.747 Kadar CO di udara : TIDAK SEHAT
+06:02:22.801 CO Concentration (PPM): 8.21
+06:02:22.805 Kadar CO di udara : TIDAK SEHAT
+06:02:24.886 CO Concentration (PPM): 8.25
+06:02:24.893 Kadar CO di udara : TIDAK SEHAT
+06:02:26.946 CO Concentration (PPM): 8.21
+06:02:26.950 Kadar CO di udara : TIDAK SEHAT
+06:02:29.061 CO Concentration (PPM): 8.21
+06:02:29.061 Kadar CO di udara : TIDAK SEHAT
+06:02:31.113 CO Concentration (PPM): 8.21
+06:02:31.113 Kadar CO di udara : TIDAK SEHAT
+06:02:33.196 CO Concentration (PPM): 8.21
+06:02:33.196 Kadar CO di udara : TIDAK SEHAT
+06:02:35.254 CO Concentration (PPM): 8.21
+06:02:35.254 Kadar CO di udara : TIDAK SEHAT
+06:02:37.312 CO Concentration (PPM): 8.21
+06:02:37.323 Kadar CO di udara : TIDAK SEHAT
+06:02:39.371 CO Concentration (PPM): 8.25
+06:02:39.372 Kadar CO di udara : TIDAK SEHAT
+06:02:41.452 CO Concentration (PPM): 8.21
+06:02:41.454 Kadar CO di udara : TIDAK SEHAT
+06:02:43.564 CO Concentration (PPM): 8.21
+06:02:43.564 Kadar CO di udara : TIDAK SEHAT
+06:02:45.617 CO Concentration (PPM): 8.21
+06:02:45.617 Kadar CO di udara : TIDAK SEHAT
+06:02:47.701 CO Concentration (PPM): 8.21
+06:02:47.701 Kadar CO di udara : TIDAK SEHAT
+06:02:49.755 CO Concentration (PPM): 8.21
+06:02:49.756 Kadar CO di udara : TIDAK SEHAT
+06:02:51.817 CO Concentration (PPM): 8.21
+06:02:51.817 Kadar CO di udara : TIDAK SEHAT
+06:02:53.877 CO Concentration (PPM): 8.21
+06:02:53.878 Kadar CO di udara : TIDAK SEHAT
+06:02:55.990 CO Concentration (PPM): 8.21
+06:02:55.990 Kadar CO di udara : TIDAK SEHAT
+06:02:58.068 CO Concentration (PPM): 8.21
+06:02:58.068 Kadar CO di udara : TIDAK SEHAT
+06:03:00.126 CO Concentration (PPM): 8.21
+06:03:00.126 Kadar CO di udara : TIDAK SEHAT
+06:03:02.205 CO Concentration (PPM): 8.21
+06:03:02.205 Kadar CO di udara : TIDAK SEHAT
+06:03:04.267 CO Concentration (PPM): 8.21
+06:03:04.267 Kadar CO di udara : TIDAK SEHAT
+06:03:06.322 CO Concentration (PPM): 8.21
+06:03:06.323 Kadar CO di udara : TIDAK SEHAT
+06:03:08.378 CO Concentration (PPM): 8.21
+06:03:08.381 Kadar CO di udara : TIDAK SEHAT
+06:03:10.517 CO Concentration (PPM): 8.17
+06:03:10.517 Kadar CO di udara : TIDAK SEHAT
+06:03:12.571 CO Concentration (PPM): 8.17
+06:03:12.571 Kadar CO di udara : TIDAK SEHAT
+06:03:14.719 CO Concentration (PPM): 8.17
+06:03:14.719 Kadar CO di udara : TIDAK SEHAT
+06:03:16.694 CO Concentration (PPM): 8.21
+06:03:16.694 Kadar CO di udara : TIDAK SEHAT
+06:03:18.749 CO Concentration (PPM): 8.17
+06:03:18.754 Kadar CO di udara : TIDAK SEHAT
+06:03:20.835 CO Concentration (PPM): 8.17
+06:03:20.841 Kadar CO di udara : TIDAK SEHAT
+06:03:22.884 CO Concentration (PPM): 8.17
+06:03:22.887 Kadar CO di udara : TIDAK SEHAT
+06:03:25.020 CO Concentration (PPM): 8.17
+06:03:25.020 Kadar CO di udara : TIDAK SEHAT
+06:03:27.079 CO Concentration (PPM): 8.17
+06:03:27.079 Kadar CO di udara : TIDAK SEHAT
+06:03:29.135 CO Concentration (PPM): 8.17
+06:03:29.135 Kadar CO di udara : TIDAK SEHAT
+06:03:31.218 CO Concentration (PPM): 8.17
+06:03:31.218 Kadar CO di udara : TIDAK SEHAT
+06:03:33.260 CO Concentration (PPM): 8.17
+06:03:33.260 Kadar CO di udara : TIDAK SEHAT
+06:03:35.332 CO Concentration (PPM): 8.17
+06:03:35.332 Kadar CO di udara : TIDAK SEHAT
+06:03:37.400 CO Concentration (PPM): 8.17
+06:03:37.401 Kadar CO di udara : TIDAK SEHAT
+06:03:39.524 CO Concentration (PPM): 8.17
+06:03:39.524 Kadar CO di udara : TIDAK SEHAT
+06:03:41.583 CO Concentration (PPM): 8.17
+06:03:41.583 Kadar CO di udara : TIDAK SEHAT
+06:03:43.647 CO Concentration (PPM): 8.17
+06:03:43.647 Kadar CO di udara : TIDAK SEHAT
+06:03:45.700 CO Concentration (PPM): 8.17
+06:03:45.700 Kadar CO di udara : TIDAK SEHAT
+06:03:47.726 CO Concentration (PPM): 8.17
+06:03:47.761 Kadar CO di udara : TIDAK SEHAT
+06:03:49.843 CO Concentration (PPM): 8.17
+06:03:49.847 Kadar CO di udara : TIDAK SEHAT
+06:03:51.897 CO Concentration (PPM): 8.17
+06:03:51.905 Kadar CO di udara : TIDAK SEHAT
+06:03:54.018 CO Concentration (PPM): 8.17
+06:03:54.018 Kadar CO di udara : TIDAK SEHAT
+06:03:56.099 CO Concentration (PPM): 8.17
+06:03:56.099 Kadar CO di udara : TIDAK SEHAT
+06:03:58.142 CO Concentration (PPM): 8.17
+06:03:58.142 Kadar CO di udara : TIDAK SEHAT
+06:04:00.201 CO Concentration (PPM): 8.17
+06:04:00.215 Kadar CO di udara : TIDAK SEHAT
+06:04:02.262 CO Concentration (PPM): 8.12
+06:04:02.272 Kadar CO di udara : TIDAK SEHAT
+06:04:04.342 CO Concentration (PPM): 8.17
+06:04:04.350 Kadar CO di udara : TIDAK SEHAT
+06:04:06.396 CO Concentration (PPM): 8.12
+06:04:06.406 Kadar CO di udara : TIDAK SEHAT
+06:04:08.508 CO Concentration (PPM): 8.17
+06:04:08.508 Kadar CO di udara : TIDAK SEHAT
+06:04:10.591 CO Concentration (PPM): 8.12
+06:04:10.591 Kadar CO di udara : TIDAK SEHAT
+06:04:12.645 CO Concentration (PPM): 8.12
+06:04:12.645 Kadar CO di udara : TIDAK SEHAT
+06:04:14.703 CO Concentration (PPM): 8.12
+06:04:14.709 Kadar CO di udara : TIDAK SEHAT
+06:04:16.765 CO Concentration (PPM): 8.12
+06:04:16.775 Kadar CO di udara : TIDAK SEHAT
+06:04:18.843 CO Concentration (PPM): 8.12
+06:04:18.854 Kadar CO di udara : TIDAK SEHAT
+06:04:20.912 CO Concentration (PPM): 8.12
+06:04:20.921 Kadar CO di udara : TIDAK SEHAT
+06:04:23.017 CO Concentration (PPM): 8.12
+06:04:23.017 Kadar CO di udara : TIDAK SEHAT
+06:04:25.098 CO Concentration (PPM): 8.12
+06:04:25.098 Kadar CO di udara : TIDAK SEHAT
+06:04:27.159 CO Concentration (PPM): 8.12
+06:04:27.159 Kadar CO di udara : TIDAK SEHAT
+06:04:29.213 CO Concentration (PPM): 8.12
+06:04:29.222 Kadar CO di udara : TIDAK SEHAT
+06:04:31.273 CO Concentration (PPM): 8.17
+06:04:31.279 Kadar CO di udara : TIDAK SEHAT
+06:04:33.302 CO Concentration (PPM): 8.12
+06:04:33.360 Kadar CO di udara : TIDAK SEHAT
+06:04:35.465 CO Concentration (PPM): 8.12
+06:04:35.465 Kadar CO di udara : TIDAK SEHAT
+06:04:37.523 CO Concentration (PPM): 8.12
+06:04:37.523 Kadar CO di udara : TIDAK SEHAT
+06:04:39.582 CO Concentration (PPM): 8.12
+06:04:39.582 Kadar CO di udara : TIDAK SEHAT
+06:04:41.660 CO Concentration (PPM): 8.12
+06:04:41.667 Kadar CO di udara : TIDAK SEHAT
+06:04:43.718 CO Concentration (PPM): 8.12
+06:04:43.725 Kadar CO di udara : TIDAK SEHAT
+06:04:45.780 CO Concentration (PPM): 8.12
+06:04:45.783 Kadar CO di udara : TIDAK SEHAT
+06:04:47.843 CO Concentration (PPM): 8.12
+06:04:47.843 Kadar CO di udara : TIDAK SEHAT
+06:04:49.970 CO Concentration (PPM): 8.12
+06:04:49.970 Kadar CO di udara : TIDAK SEHAT
+06:04:52.026 CO Concentration (PPM): 8.12
+06:04:52.026 Kadar CO di udara : TIDAK SEHAT
+06:04:54.090 CO Concentration (PPM): 8.12
+06:04:54.090 Kadar CO di udara : TIDAK SEHAT
+06:04:56.168 CO Concentration (PPM): 8.12
+06:04:56.169 Kadar CO di udara : TIDAK SEHAT
+06:04:58.225 CO Concentration (PPM): 8.12
+06:04:58.232 Kadar CO di udara : TIDAK SEHAT
+06:05:00.287 CO Concentration (PPM): 8.12
+06:05:00.292 Kadar CO di udara : TIDAK SEHAT
+06:05:02.350 CO Concentration (PPM): 8.08
+06:05:02.356 Kadar CO di udara : TIDAK SEHAT
+06:05:04.428 CO Concentration (PPM): 8.08
+06:05:04.428 Kadar CO di udara : TIDAK SEHAT
+06:05:06.533 CO Concentration (PPM): 8.08
+06:05:06.533 Kadar CO di udara : TIDAK SEHAT
+06:05:08.594 CO Concentration (PPM): 8.12
+06:05:08.594 Kadar CO di udara : TIDAK SEHAT
+06:05:10.655 CO Concentration (PPM): 8.08
+06:05:10.657 Kadar CO di udara : TIDAK SEHAT
+06:05:12.741 CO Concentration (PPM): 8.08
+06:05:12.741 Kadar CO di udara : TIDAK SEHAT
+06:05:14.795 CO Concentration (PPM): 8.08
+06:05:14.795 Kadar CO di udara : TIDAK SEHAT
+06:05:16.849 CO Concentration (PPM): 8.08
+06:05:16.852 Kadar CO di udara : TIDAK SEHAT
+06:05:18.986 CO Concentration (PPM): 8.08
+06:05:18.986 Kadar CO di udara : TIDAK SEHAT
+06:05:21.046 CO Concentration (PPM): 8.08
+06:05:21.046 Kadar CO di udara : TIDAK SEHAT
+06:05:23.113 CO Concentration (PPM): 8.12
+06:05:23.113 Kadar CO di udara : TIDAK SEHAT
+06:05:25.157 CO Concentration (PPM): 8.08
+06:05:25.161 Kadar CO di udara : TIDAK SEHAT
+06:05:27.221 CO Concentration (PPM): 8.08
+06:05:27.222 Kadar CO di udara : TIDAK SEHAT
+06:05:29.306 CO Concentration (PPM): 8.08
+06:05:29.310 Kadar CO di udara : TIDAK SEHAT
+06:05:31.362 CO Concentration (PPM): 8.03
+06:05:31.362 Kadar CO di udara : TIDAK SEHAT
+06:05:33.491 CO Concentration (PPM): 8.08
+06:05:33.491 Kadar CO di udara : TIDAK SEHAT
+06:05:35.547 CO Concentration (PPM): 8.08
+06:05:35.547 Kadar CO di udara : TIDAK SEHAT
+06:05:37.612 CO Concentration (PPM): 8.12
+06:05:37.612 Kadar CO di udara : TIDAK SEHAT
+06:05:39.671 CO Concentration (PPM): 8.08
+06:05:39.674 Kadar CO di udara : TIDAK SEHAT
+06:05:41.729 CO Concentration (PPM): 8.08
+06:05:41.734 Kadar CO di udara : TIDAK SEHAT
+06:05:43.813 CO Concentration (PPM): 8.08
+06:05:43.814 Kadar CO di udara : TIDAK SEHAT
+06:05:45.919 CO Concentration (PPM): 8.03
+06:05:45.919 Kadar CO di udara : TIDAK SEHAT
+06:05:47.979 CO Concentration (PPM): 8.08
+06:05:47.979 Kadar CO di udara : TIDAK SEHAT
+06:05:50.052 CO Concentration (PPM): 8.08
+06:05:50.052 Kadar CO di udara : TIDAK SEHAT
+06:05:52.114 CO Concentration (PPM): 8.08
+06:05:52.114 Kadar CO di udara : TIDAK SEHAT
+06:05:54.175 CO Concentration (PPM): 8.08
+06:05:54.175 Kadar CO di udara : TIDAK SEHAT
+06:05:56.254 CO Concentration (PPM): 8.08
+06:05:56.256 Kadar CO di udara : TIDAK SEHAT
+06:05:58.315 CO Concentration (PPM): 8.08
+06:05:58.322 Kadar CO di udara : TIDAK SEHAT
+06:06:00.430 CO Concentration (PPM): 8.03
+06:06:00.430 Kadar CO di udara : TIDAK SEHAT
+06:06:02.479 CO Concentration (PPM): 8.08
+06:06:02.479 Kadar CO di udara : TIDAK SEHAT
+06:06:04.542 CO Concentration (PPM): 8.08
+06:06:04.542 Kadar CO di udara : TIDAK SEHAT
+06:06:06.621 CO Concentration (PPM): 8.08
+06:06:06.622 Kadar CO di udara : TIDAK SEHAT
+06:06:08.681 CO Concentration (PPM): 8.08
+06:06:08.682 Kadar CO di udara : TIDAK SEHAT
+06:06:10.735 CO Concentration (PPM): 8.08
+06:06:10.735 Kadar CO di udara : TIDAK SEHAT
+06:06:12.824 CO Concentration (PPM): 8.08
+06:06:12.824 Kadar CO di udara : TIDAK SEHAT
+06:06:14.932 CO Concentration (PPM): 8.03
+06:06:14.932 Kadar CO di udara : TIDAK SEHAT
+06:06:16.985 CO Concentration (PPM): 8.08
+06:06:16.985 Kadar CO di udara : TIDAK SEHAT
+06:06:19.047 CO Concentration (PPM): 8.08
+06:06:19.047 Kadar CO di udara : TIDAK SEHAT
+06:06:21.130 CO Concentration (PPM): 8.08
+06:06:21.130 Kadar CO di udara : TIDAK SEHAT
+06:06:23.177 CO Concentration (PPM): 8.08
+06:06:23.185 Kadar CO di udara : TIDAK SEHAT
+06:06:25.246 CO Concentration (PPM): 8.03
+06:06:25.246 Kadar CO di udara : TIDAK SEHAT
+06:06:27.356 CO Concentration (PPM): 8.08
+06:06:27.356 Kadar CO di udara : TIDAK SEHAT
+06:06:29.435 CO Concentration (PPM): 8.03
+06:06:29.435 Kadar CO di udara : TIDAK SEHAT
+06:06:31.496 CO Concentration (PPM): 8.03
+06:06:31.496 Kadar CO di udara : TIDAK SEHAT
+06:06:33.550 CO Concentration (PPM): 8.03
+06:06:33.550 Kadar CO di udara : TIDAK SEHAT
+06:06:35.635 CO Concentration (PPM): 8.08
+06:06:35.635 Kadar CO di udara : TIDAK SEHAT
+06:06:37.694 CO Concentration (PPM): 8.03
+06:06:37.695 Kadar CO di udara : TIDAK SEHAT
+06:06:39.754 CO Concentration (PPM): 8.03
+06:06:39.757 Kadar CO di udara : TIDAK SEHAT
+06:06:41.860 CO Concentration (PPM): 8.08
+06:06:41.860 Kadar CO di udara : TIDAK SEHAT
+06:06:43.943 CO Concentration (PPM): 8.03
+06:06:43.943 Kadar CO di udara : TIDAK SEHAT
+06:06:46.000 CO Concentration (PPM): 8.03
+06:06:46.000 Kadar CO di udara : TIDAK SEHAT
+06:06:48.059 CO Concentration (PPM): 8.03
+06:06:48.059 Kadar CO di udara : TIDAK SEHAT
+06:06:50.115 CO Concentration (PPM): 8.08
+06:06:50.116 Kadar CO di udara : TIDAK SEHAT
+06:06:52.200 CO Concentration (PPM): 8.03
+06:06:52.200 Kadar CO di udara : TIDAK SEHAT
+06:06:54.252 CO Concentration (PPM): 8.03
+06:06:54.254 Kadar CO di udara : TIDAK SEHAT
+06:06:56.367 CO Concentration (PPM): 8.03
+06:06:56.367 Kadar CO di udara : TIDAK SEHAT
+06:06:58.449 CO Concentration (PPM): 8.03
+06:06:58.449 Kadar CO di udara : TIDAK SEHAT
+06:07:00.505 CO Concentration (PPM): 8.03
+06:07:00.505 Kadar CO di udara : TIDAK SEHAT
+06:07:02.566 CO Concentration (PPM): 8.03
+06:07:02.566 Kadar CO di udara : TIDAK SEHAT
+06:07:04.622 CO Concentration (PPM): 8.08
+06:07:04.624 Kadar CO di udara : TIDAK SEHAT
+06:07:06.708 CO Concentration (PPM): 8.03
+06:07:06.708 Kadar CO di udara : TIDAK SEHAT
+06:07:08.765 CO Concentration (PPM): 8.03
+06:07:08.766 Kadar CO di udara : TIDAK SEHAT
+06:07:10.878 CO Concentration (PPM): 8.03
+06:07:10.878 Kadar CO di udara : TIDAK SEHAT
+06:07:12.934 CO Concentration (PPM): 8.03
+06:07:12.934 Kadar CO di udara : TIDAK SEHAT
+06:07:15.014 CO Concentration (PPM): 8.03
+06:07:15.014 Kadar CO di udara : TIDAK SEHAT
+06:07:17.070 CO Concentration (PPM): 8.03
+06:07:17.070 Kadar CO di udara : TIDAK SEHAT
+06:07:19.130 CO Concentration (PPM): 8.08
+06:07:19.130 Kadar CO di udara : TIDAK SEHAT
+06:07:21.214 CO Concentration (PPM): 8.03
+06:07:21.214 Kadar CO di udara : TIDAK SEHAT
+06:07:23.269 CO Concentration (PPM): 8.03
+06:07:23.269 Kadar CO di udara : TIDAK SEHAT
+06:07:25.379 CO Concentration (PPM): 8.03
+06:07:25.379 Kadar CO di udara : TIDAK SEHAT
+06:07:27.457 CO Concentration (PPM): 8.03
+06:07:27.457 Kadar CO di udara : TIDAK SEHAT
+06:07:29.519 CO Concentration (PPM): 8.03
+06:07:29.519 Kadar CO di udara : TIDAK SEHAT
+06:07:31.583 CO Concentration (PPM): 8.03
+06:07:31.583 Kadar CO di udara : TIDAK SEHAT
+06:07:33.639 CO Concentration (PPM): 8.03
+06:07:33.639 Kadar CO di udara : TIDAK SEHAT
+06:07:35.720 CO Concentration (PPM): 8.03
+06:07:35.720 Kadar CO di udara : TIDAK SEHAT
+06:07:37.772 CO Concentration (PPM): 8.03
+06:07:37.780 Kadar CO di udara : TIDAK SEHAT
+06:07:39.886 CO Concentration (PPM): 8.03
+06:07:39.886 Kadar CO di udara : TIDAK SEHAT
+06:07:41.944 CO Concentration (PPM): 7.99
+06:07:41.944 Kadar CO di udara : SEDANG
+06:07:44.022 CO Concentration (PPM): 8.03
+06:07:44.022 Kadar CO di udara : TIDAK SEHAT
+06:07:46.083 CO Concentration (PPM): 8.03
+06:07:46.083 Kadar CO di udara : TIDAK SEHAT
+06:07:48.142 CO Concentration (PPM): 8.03
+06:07:48.142 Kadar CO di udara : TIDAK SEHAT
+06:07:50.241 CO Concentration (PPM): 8.03
+06:07:50.242 Kadar CO di udara : TIDAK SEHAT
+06:07:52.284 CO Concentration (PPM): 8.03
+06:07:52.285 Kadar CO di udara : TIDAK SEHAT
+06:07:54.336 CO Concentration (PPM): 7.99
+06:07:54.342 Kadar CO di udara : SEDANG
+06:07:56.452 CO Concentration (PPM): 8.03
+06:07:56.452 Kadar CO di udara : TIDAK SEHAT
+06:07:58.532 CO Concentration (PPM): 8.03
+06:07:58.532 Kadar CO di udara : TIDAK SEHAT
+06:08:00.586 CO Concentration (PPM): 8.03
+06:08:00.586 Kadar CO di udara : TIDAK SEHAT
+06:08:02.658 CO Concentration (PPM): 8.03
+06:08:02.658 Kadar CO di udara : TIDAK SEHAT
+06:08:04.707 CO Concentration (PPM): 8.03
+06:08:04.708 Kadar CO di udara : TIDAK SEHAT
+06:08:06.787 CO Concentration (PPM): 7.99
+06:08:06.788 Kadar CO di udara : SEDANG
+06:08:08.849 CO Concentration (PPM): 8.03
+06:08:08.849 Kadar CO di udara : TIDAK SEHAT
+06:08:10.917 CO Concentration (PPM): 8.03
+06:08:10.917 Kadar CO di udara : TIDAK SEHAT
+06:08:13.029 CO Concentration (PPM): 8.03
+06:08:13.029 Kadar CO di udara : TIDAK SEHAT
+06:08:15.088 CO Concentration (PPM): 8.03
+06:08:15.088 Kadar CO di udara : TIDAK SEHAT
+06:08:17.143 CO Concentration (PPM): 8.03
+06:08:17.143 Kadar CO di udara : TIDAK SEHAT
+06:08:19.229 CO Concentration (PPM): 7.99
+06:08:19.229 Kadar CO di udara : SEDANG
+06:08:21.287 CO Concentration (PPM): 8.03
+06:08:21.297 Kadar CO di udara : TIDAK SEHAT
+06:08:23.346 CO Concentration (PPM): 8.03
+06:08:23.355 Kadar CO di udara : TIDAK SEHAT
+06:08:25.403 CO Concentration (PPM): 8.03
+06:08:25.413 Kadar CO di udara : TIDAK SEHAT
+06:08:27.532 CO Concentration (PPM): 7.99
+06:08:27.532 Kadar CO di udara : SEDANG
+06:08:29.593 CO Concentration (PPM): 7.99
+06:08:29.593 Kadar CO di udara : SEDANG
+06:08:31.656 CO Concentration (PPM): 7.99
+06:08:31.656 Kadar CO di udara : SEDANG
+06:08:33.717 CO Concentration (PPM): 7.99
+06:08:33.717 Kadar CO di udara : SEDANG
+06:08:35.777 CO Concentration (PPM): 7.99
+06:08:35.777 Kadar CO di udara : SEDANG
+06:08:37.848 CO Concentration (PPM): 7.99
+06:08:37.848 Kadar CO di udara : SEDANG
+06:08:39.911 CO Concentration (PPM): 8.03
+06:08:39.911 Kadar CO di udara : TIDAK SEHAT
+06:08:41.970 CO Concentration (PPM): 7.99
+06:08:41.970 Kadar CO di udara : SEDANG
+06:08:43.985 CO Concentration (PPM): 7.99
+06:08:43.985 Kadar CO di udara : SEDANG
+06:08:46.111 CO Concentration (PPM): 7.99
+06:08:46.118 Kadar CO di udara : SEDANG
+06:08:48.169 CO Concentration (PPM): 8.03
+06:08:48.173 Kadar CO di udara : TIDAK SEHAT
+06:08:50.236 CO Concentration (PPM): 7.99
+06:08:50.240 Kadar CO di udara : SEDANG
+06:08:52.290 CO Concentration (PPM): 7.99
+06:08:52.296 Kadar CO di udara : SEDANG
+06:08:54.373 CO Concentration (PPM): 7.99
+06:08:54.385 Kadar CO di udara : SEDANG
+06:08:56.425 CO Concentration (PPM): 8.03
+06:08:56.432 Kadar CO di udara : TIDAK SEHAT
+06:08:58.487 CO Concentration (PPM): 7.99
+06:08:58.487 Kadar CO di udara : SEDANG
+06:09:00.622 CO Concentration (PPM): 7.99
+06:09:00.622 Kadar CO di udara : SEDANG
+06:09:02.678 CO Concentration (PPM): 7.99
+06:09:02.678 Kadar CO di udara : SEDANG
+06:09:04.732 CO Concentration (PPM): 8.03
+06:09:04.732 Kadar CO di udara : TIDAK SEHAT
+06:09:06.793 CO Concentration (PPM): 7.99
+06:09:06.793 Kadar CO di udara : SEDANG
+06:09:08.878 CO Concentration (PPM): 7.99
+06:09:08.878 Kadar CO di udara : SEDANG
+06:09:10.931 CO Concentration (PPM): 7.99
+06:09:10.931 Kadar CO di udara : SEDANG
+06:09:12.990 CO Concentration (PPM): dar CO di udara : TIDAK SEHAT
+06:09:15.051 CO Concentration (PPM): 7.99
+06:09:15.054 Kadar CO di udara : SEDANG
+06:09:17.134 CO Concentration (PPM): 7.99
+06:09:17.135 Kadar CO di udara : SEDANG
+06:09:19.190 CO Concentration (PPM): 7.99
+06:09:19.192 Kadar CO di udara : SEDANG
+06:09:21.253 CO Concentration (PPM): 8.03
+06:09:21.257 Kadar CO di udara : TIDAK SEHAT
+06:09:23.309 CO Concentration (PPM): 7.99
+06:09:23.315 Kadar CO di udara : SEDANG
+06:09:25.383 CO Concentration (PPM): 7.99
+06:09:25.387 Kadar CO di udara : SEDANG
+06:09:27.499 CO Concentration (PPM): 7.99
+06:09:27.499 Kadar CO di udara : SEDANG
+06:09:29.558 CO Concentration (PPM): 8.03
+06:09:29.558 Kadar CO di udara : TIDAK SEHAT
+06:09:31.632 CO Concentration (PPM): 7.99
+06:09:31.632 Kadar CO di udara : SEDANG
+06:09:33.639 CO Concentration (PPM): 7.99
+06:09:33.639 Kadar CO di udara : SEDANG
+06:09:35.753 CO Concentration (PPM): 7.99
+06:09:35.753 Kadar CO di udara : SEDANG
+06:09:37.820 CO Concentration (PPM): 8.03
+06:09:37.820 Kadar CO di udara : TIDAK SEHAT
+06:09:39.893 CO Concentration (PPM): 7.99
+06:09:39.893 Kadar CO di udara : SEDANG
+06:09:41.951 CO Concentration (PPM): 7.99
+06:09:41.951 Kadar CO di udara : SEDANG
+06:09:44.012 CO Concentration (PPM): 7.99
+06:09:44.013 Kadar CO di udara : SEDANG
+06:09:46.095 CO Concentration (PPM): 7.99
+06:09:46.095 Kadar CO di udara : SEDANG
+06:09:48.153 CO Concentration (PPM): 7.99
+06:09:48.154 Kadar CO di udara : SEDANG
+06:09:50.208 CO Concentration (PPM): 7.94
+06:09:50.209 Kadar CO di udara : SEDANG
+06:09:52.216 CO Concentration (PPM): 7.99
+06:09:52.270 Kadar CO di udara : SEDANG
+06:09:54.333 CO Concentration (PPM): 7.99
+06:09:54.337 Kadar CO di udara : SEDANG
+06:09:56.410 CO Concentration (PPM): 7.99
+06:09:56.410 Kadar CO di udara : SEDANG
+06:09:58.468 CO Concentration (PPM): 7.99
+06:09:58.471 Kadar CO di udara : SEDANG
+06:10:00.551 CO Concentration (PPM): 7.99
+06:10:00.551 Kadar CO di udara : SEDANG
+06:10:02.617 CO Concentration (PPM): 7.99
+06:10:02.617 Kadar CO di udara : SEDANG
+06:10:04.803 CO Concentration (PPM): 7.94
+06:10:04.803 Kadar CO di udara : SEDANG
+06:10:06.723 CO Concentration (PPM): 7.99
+06:10:06.727 Kadar CO di udara : SEDANG
+06:10:08.839 CO Concentration (PPM): 7.99
+06:10:08.839 Kadar CO di udara : SEDANG
+06:10:10.916 CO Concentration (PPM): 7.99
+06:10:10.916 Kadar CO di udara : SEDANG
+06:10:12.972 CO Concentration (PPM): 7.99
+06:10:12.972 Kadar CO di udara : SEDANG
+06:10:15.027 CO Concentration (PPM): 7.99
+06:10:15.027 Kadar CO di udara : SEDANG
+06:10:17.114 CO Concentration (PPM): 7.99
+06:10:17.114 Kadar CO di udara : SEDANG
+06:10:19.178 CO Concentration (PPM): 7.94
+06:10:19.178 Kadar CO di udara : SEDANG
+06:10:21.228 CO Concentration (PPM): 7.99
+06:10:21.228 Kadar CO di udara : SEDANG
+06:10:23.294 CO Concentration (PPM): 7.99
+06:10:23.294 Kadar CO di udara : SEDANG
+06:10:25.375 CO Concentration (PPM): 7.99
+06:10:25.375 Kadar CO di udara : SEDANG
+06:10:27.430 CO Concentration (PPM): 7.99
+06:10:27.430 Kadar CO di udara : SEDANG
+06:10:29.490 CO Concentration (PPM): 7.99
+06:10:29.491 Kadar CO di udara : SEDANG
+06:10:31.545 CO Concentration (PPM): 7.99
+06:10:31.545 Kadar CO di udara : SEDANG
+06:10:33.630 CO Concentration (PPM): 7.94
+06:10:33.631 Kadar CO di udara : SEDANG
+06:10:35.693 CO Concentration (PPM): 7.99
+06:10:35.693 Kadar CO di udara : SEDANG
+06:10:37.692 CO Concentration (PPM): 7.99
+06:10:37.747 Kadar CO di udara : SEDANG
+06:10:39.806 CO Concentration (PPM): 7.99
+06:10:39.806 Kadar CO di udara : SEDANG
+06:10:41.882 CO Concentration (PPM): 7.99
+06:10:41.882 Kadar CO di udara : SEDANG
+06:10:43.942 CO Concentration (PPM): 7.99
+06:10:43.943 Kadar CO di udara : SEDANG
+06:10:46.005 CO Concentration (PPM): 7.99
+06:10:46.006 Kadar CO di udara : SEDANG
+06:10:48.070 CO Concentration (PPM): 7.94
+06:10:48.070 Kadar CO di udara : SEDANG
+06:10:50.142 CO Concentration (PPM): 7.99
+06:10:50.145 Kadar CO di udara : SEDANG
+06:10:52.250 CO Concentration (PPM): 7.99
+06:10:52.250 Kadar CO di udara : SEDANG
+06:10:54.310 CO Concentration (PPM): 7.99
+06:10:54.310 Kadar CO di udara : SEDANG
+06:10:56.371 CO Concentration (PPM): 7.94
+06:10:56.371 Kadar CO di udara : SEDANG
+06:10:58.450 CO Concentration (PPM): 7.99
+06:10:58.450 Kadar CO di udara : SEDANG
+06:11:00.506 CO Concentration (PPM): 7.94
+06:11:00.506 Kadar CO di udara : SEDANG
+06:11:02.587 CO Concentration (PPM): 7.94
+06:11:02.587 Kadar CO di udara : SEDANG
+06:11:04.653 CO Concentration (PPM): 7.94
+06:11:04.653 Kadar CO di udara : SEDANG
+06:11:06.710 CO Concentration (PPM): 7.94
+06:11:06.710 Kadar CO di udara : SEDANG
+06:11:08.765 CO Concentration (PPM): 7.99
+06:11:08.765 Kadar CO di udara : SEDANG
+06:11:10.846 CO Concentration (PPM): 7.94
+06:11:10.846 Kadar CO di udara : SEDANG
+06:11:12.910 CO Concentration (PPM): 7.94
+06:11:12.910 Kadar CO di udara : SEDANG
+06:11:14.961 CO Concentration (PPM): 7.94
+06:11:14.961 Kadar CO di udara : SEDANG
+06:11:17.021 CO Concentration (PPM): 7.94
+06:11:17.022 Kadar CO di udara : SEDANG
+06:11:19.103 CO Concentration (PPM): 7.94
+06:11:19.103 Kadar CO di udara : SEDANG
+06:11:21.161 CO Concentration (PPM): 7.94
+06:11:21.162 Kadar CO di udara : SEDANG
+06:11:23.225 CO Concentration (PPM): 7.94
+06:11:23.226 Kadar CO di udara : SEDANG
+06:11:25.282 CO Concentration (PPM): 7.94
+06:11:25.282 Kadar CO di udara : SEDANG
+06:11:27.365 CO Concentration (PPM): 7.99
+06:11:27.365 Kadar CO di udara : SEDANG
+06:11:29.429 CO Concentration (PPM): 7.94
+06:11:29.429 Kadar CO di udara : SEDANG
+06:11:31.478 CO Concentration (PPM): 7.94
+06:11:31.478 Kadar CO di udara : SEDANG
+06:11:33.537 CO Concentration (PPM): 7.94
+06:11:33.544 Kadar CO di udara : SEDANG
+06:11:35.622 CO Concentration (PPM): 7.94
+06:11:35.631 Kadar CO di udara : SEDANG
+06:11:37.726 CO Concentration (PPM): 7.94
+06:11:37.726 Kadar CO di udara : SEDANG
+06:11:39.793 CO Concentration (PPM): 7.94
+06:11:39.793 Kadar CO di udara : SEDANG
+06:11:41.847 CO Concentration (PPM): 7.94
+06:11:41.847 Kadar CO di udara : SEDANG
+06:11:43.933 CO Concentration (PPM): 7.94
+06:11:43.933 Kadar CO di udara : SEDANG
+06:11:45.983 CO Concentration (PPM): 7.99
+06:11:45.983 Kadar CO di udara : SEDANG
+06:11:48.043 CO Concentration (PPM): 7.94
+06:11:48.043 Kadar CO di udara : SEDANG
+06:11:50.130 CO Concentration (PPM): 7.94
+06:11:50.130 Kadar CO di udara : SEDANG
+06:11:52.182 CO Concentration (PPM): 7.94
+06:11:52.182 Kadar CO di udara : SEDANG
+06:11:54.240 CO Concentration (PPM): 7.94
+06:11:54.240 Kadar CO di udara : SEDANG
+06:11:56.297 CO Concentration (PPM): 7.94
+06:11:56.297 Kadar CO di udara : SEDANG
+06:11:58.388 CO Concentration (PPM): 7.94
+06:11:58.388 Kadar CO di udara : SEDANG
+06:12:00.444 CO Concentration (PPM): 7.99
+06:12:00.444 Kadar CO di udara : SEDANG
+06:12:02.500 CO Concentration (PPM): 7.94
+06:12:02.500 Kadar CO di udara : SEDANG
+06:12:04.582 CO Concentration (PPM): 7.94
+06:12:04.582 Kadar CO di udara : SEDANG
+06:12:06.644 CO Concentration (PPM): 7.94
+06:12:06.644 Kadar CO di udara : SEDANG
+06:12:08.695 CO Concentration (PPM): 7.94
+06:12:08.696 Kadar CO di udara : SEDANG
+06:12:10.761 CO Concentration (PPM): 7.94
+06:12:10.762 Kadar CO di udara : SEDANG
+06:12:12.840 CO Concentration (PPM): 7.94
+06:12:12.841 Kadar CO di udara : SEDANG
+06:12:14.898 CO Concentration (PPM): 7.94
+06:12:14.898 Kadar CO di udara : SEDANG
+06:12:16.957 CO Concentration (PPM): 7.94
+06:12:16.958 Kadar CO di udara : SEDANG
+06:12:19.008 CO Concentration (PPM): 7.94
+06:12:19.017 Kadar CO di udara : SEDANG
+06:12:21.074 CO Concentration (PPM): 7.94
+06:12:21.083 Kadar CO di udara : SEDANG
+06:12:23.152 CO Concentration (PPM): 7.94
+06:12:23.153 Kadar CO di udara : SEDANG
+06:12:25.213 CO Concentration (PPM): 7.94
+06:12:25.217 Kadar CO di udara : SEDANG
+06:12:27.327 CO Concentration (PPM): 7.94
+06:12:27.327 Kadar CO di udara : SEDANG
+06:12:29.399 CO Concentration (PPM): 7.94
+06:12:29.399 Kadar CO di udara : SEDANG
+06:12:31.451 CO Concentration (PPM): 7.94
+06:12:31.451 Kadar CO di udara : SEDANG
+06:12:33.507 CO Concentration (PPM): 7.99
+06:12:33.507 Kadar CO di udara : SEDANG
+06:12:35.569 CO Concentration (PPM): 7.94
+06:12:35.569 Kadar CO di udara : SEDANG
+06:12:37.633 CO Concentration (PPM): 7.94
+06:12:37.633 Kadar CO di udara : SEDANG
+06:12:39.707 CO Concentration (PPM): 7.94
+06:12:39.707 Kadar CO di udara : SEDANG
+06:12:41.759 CO Concentration (PPM): 7.94
+06:12:41.759 Kadar CO di udara : SEDANG
+06:12:43.827 CO Concentration (PPM): 7.94
+06:12:43.827 Kadar CO di udara : SEDANG
+06:12:45.912 CO Concentration (PPM): 7.94
+06:12:45.912 Kadar CO di udara : SEDANG
+06:12:47.968 CO Concentration (PPM): 7.99
+06:12:47.968 Kadar CO di udara : SEDANG
+06:12:50.026 CO Concentration (PPM): 7.94
+06:12:50.033 Kadar CO di udara : SEDANG
+06:12:52.111 CO Concentration (PPM): 7.94
+06:12:52.111 Kadar CO di udara : SEDANG
+06:12:54.172 CO Concentration (PPM): 7.94
+06:12:54.173 Kadar CO di udara : SEDANG
+06:12:56.234 CO Concentration (PPM): 7.94
+06:12:56.240 Kadar CO di udara : SEDANG
+06:12:58.283 CO Concentration (PPM): 7.94
+06:12:58.287 Kadar CO di udara : SEDANG
+06:13:00.373 CO Concentration (PPM): 7.94
+06:13:00.373 Kadar CO di udara : SEDANG
+06:13:02.424 CO Concentration (PPM): 7.94
+06:13:02.427 Kadar CO di udara : SEDANG
+06:13:04.485 CO Concentration (PPM): 7.94
+06:13:04.490 Kadar CO di udara : SEDANG
+06:13:06.545 CO Concentration (PPM): 7.99
+06:13:06.552 Kadar CO di udara : SEDANG
+06:13:08.622 CO Concentration (PPM): 7.94
+06:13:08.631 Kadar CO di udara : SEDANG
+06:13:10.686 CO Concentration (PPM): 7.94
+06:13:10.693 Kadar CO di udara : SEDANG
+06:13:12.753 CO Concentration (PPM): 7.94
+06:13:12.760 Kadar CO di udara : SEDANG
+06:13:14.825 CO Concentration (PPM): 7.94
+06:13:14.825 Kadar CO di udara : SEDANG
+06:13:16.930 CO Concentration (PPM): 7.94
+06:13:16.930 Kadar CO di udara : SEDANG
+06:13:18.994 CO Concentration (PPM): 7.94
+06:13:18.994 Kadar CO di udara : SEDANG
+06:13:21.051 CO Concentration (PPM): 7.94
+06:13:21.051 Kadar CO di udara : SEDANG
+06:13:23.129 CO Concentration (PPM): 7.94
+06:13:23.129 Kadar CO di udara : SEDANG
+06:13:25.192 CO Concentration (PPM): 7.94
+06:13:25.192 Kadar CO di udara : SEDANG
+06:13:27.254 CO Concentration (PPM): 7.94
+06:13:27.254 Kadar CO di udara : SEDANG
+06:13:29.306 CO Concentration (PPM): 7.94
+06:13:29.306 Kadar CO di udara : SEDANG
+06:13:31.390 CO Concentration (PPM): 7.94
+06:13:31.390 Kadar CO di udara : SEDANG
+06:13:33.445 CO Concentration (PPM): 7.94
+06:13:33.445 Kadar CO di udara : SEDANG
+06:13:35.506 CO Concentration (PPM): 7.94
+06:13:35.506 Kadar CO di udara : SEDANG
+06:13:37.567 CO Concentration (PPM): 7.94
+06:13:37.567 Kadar CO di udara : SEDANG
+06:13:39.643 CO Concentration (PPM): 7.99
+06:13:39.643 Kadar CO di udara : SEDANG
+06:13:41.707 CO Concentration (PPM): 7.94
+06:13:41.712 Kadar CO di udara : SEDANG
+06:13:43.761 CO Concentration (PPM): 7.94
+06:13:43.765 Kadar CO di udara : SEDANG
+06:13:45.847 CO Concentration (PPM): 7.94
+06:13:45.847 Kadar CO di udara : SEDANG
+06:13:47.908 CO Concentration (PPM): 7.94
+06:13:47.908 Kadar CO di udara : SEDANG
+06:13:49.964 CO Concentration (PPM): 7.94
+06:13:49.964 Kadar CO di udara : SEDANG
+06:13:52.046 CO Concentration (PPM): 7.94
+06:13:52.046 Kadar CO di udara : SEDANG
+06:13:54.106 CO Concentration (PPM): 7.94
+06:13:54.107 Kadar CO di udara : SEDANG
+06:13:56.158 CO Concentration (PPM): 7.94
+06:13:56.163 Kadar CO di udara : SEDANG
+06:13:58.222 CO Concentration (PPM): 7.94
+06:13:58.222 Kadar CO di udara : SEDANG
+06:14:00.299 CO Concentration (PPM): 7.94
+06:14:00.303 Kadar CO di udara : SEDANGCO Concentration (PPM): 7.90
+06:14:02.366 Kadar CO di udara : SEDANG
+06:14:04.424 CO Concentration (PPM): 7.94
+06:14:04.428 Kadar CO di udara : SEDANG
+06:14:06.500 CO Concentration (PPM): 7.94
+06:14:06.500 Kadar CO di udara : SEDANG
+06:14:08.617 CO Concentration (PPM): 7.94
+06:14:08.617 Kadar CO di udara : SEDANG
+06:14:10.665 CO Concentration (PPM): 7.94
+06:14:10.665 Kadar CO di udara : SEDANG
+06:14:12.729 CO Concentration (PPM): 7.94
+06:14:12.729 Kadar CO di udara : SEDANG
+06:14:14.814 CO Concentration (PPM): 7.94
+06:14:14.814 Kadar CO di udara : SEDANG
+06:14:16.871 CO Concentration (PPM): 7.94
+06:14:16.871 Kadar CO di udara : SEDANG
+06:14:18.931 CO Concentration (PPM): 7.94
+06:14:18.931 Kadar CO di udara : SEDANG
+06:14:20.980 CO Concentration (PPM): 7.94
+06:14:20.980 Kadar CO di udara : SEDANG
+06:14:23.065 CO Concentration (PPM): 7.94
+06:14:23.065 Kadar CO di udara : SEDANG
+06:14:25.130 CO Concentration (PPM): 7.94
+06:14:25.130 Kadar CO di udara : SEDANG
+06:14:27.180 CO Concentration (PPM): 7.94
+06:14:27.180 Kadar CO di udara : SEDANG
+06:14:29.239 CO Concentration (PPM): 7.94
+06:14:29.239 Kadar CO di udara : SEDANG
+06:14:31.324 CO Concentration (PPM): 7.94
+06:14:31.324 Kadar CO di udara : SEDANG
+06:14:33.378 CO Concentration (PPM): 7.94
+06:14:33.380 Kadar CO di udara : SEDANG
+06:14:35.441 CO Concentration (PPM): 7.90
+06:14:35.442 Kadar CO di udara : SEDANG
+06:14:37.520 CO Concentration (PPM): 7.94
+06:14:37.521 Kadar CO di udara : SEDANG
+06:14:39.582 CO Concentration (PPM): 7.94
+06:14:39.582 Kadar CO di udara : SEDANG
+06:14:41.642 CO Concentration (PPM): 7.94
+06:14:41.643 Kadar CO di udara : SEDANG
+06:14:43.694 CO Concentration (PPM): 7.94
+06:14:43.694 Kadar CO di udara : SEDANG
+06:14:45.755 CO Concentration (PPM): 7.94
+06:14:45.760 Kadar CO di udara : SEDANG
+06:14:47.818 CO Concentration (PPM): 7.94
+06:14:47.821 Kadar CO di udara : SEDANG
+06:14:49.894 CO Concentration (PPM): 7.94
+06:14:49.902 Kadar CO di udara : SEDANG
+06:14:51.955 CO Concentration (PPM): 7.94
+06:14:51.965 Kadar CO di udara : SEDANG
+06:14:54.069 CO Concentration (PPM): 7.94
+06:14:54.069 Kadar CO di udara : SEDANG
+06:14:56.147 CO Concentration (PPM): 7.90
+06:14:56.147 Kadar CO di udara : SEDANG
+06:14:58.210 CO Concentration (PPM): 7.90
+06:14:58.210 Kadar CO di udara : SEDANG
+06:15:00.268 CO Concentration (PPM): 7.90
+06:15:00.268 Kadar CO di udara : SEDANG
+06:15:02.346 CO Concentration (PPM): 7.90
+06:15:02.346 Kadar CO di udara : SEDANG
+06:15:04.401 CO Concentration (PPM): 7.94
+06:15:04.401 Kadar CO di udara : SEDANG
+06:15:06.457 CO Concentration (PPM): 7.90
+06:15:06.457 Kadar CO di udara : SEDANG
+06:15:08.523 CO Concentration (PPM): 7.90
+06:15:08.523 Kadar CO di udara : SEDANG
+06:15:10.604 CO Concentration (PPM): 7.90
+06:15:10.604 Kadar CO di udara : SEDANG
+06:15:12.660 CO Concentration (PPM): 7.90
+06:15:12.660 Kadar CO di udara : SEDANG
+06:15:14.713 CO Concentration (PPM): 7.90
+06:15:14.713 Kadar CO di udara : SEDANG
+06:15:16.798 CO Concentration (PPM): 7.90
+06:15:16.798 Kadar CO di udara : SEDANG
+06:15:18.860 CO Concentration (PPM): 7.90
+06:15:18.860 Kadar CO di udara : SEDANG
+06:15:20.904 CO Concentration (PPM): 7.90
+06:15:20.912 Kadar CO di udara : SEDANG
+06:15:22.974 CO Concentration (PPM): 7.90
+06:15:22.975 Kadar CO di udara : SEDANG
+06:15:25.034 CO Concentration (PPM): 7.90
+06:15:25.035 Kadar CO di udara : SEDANG
+06:15:27.115 CO Concentration (PPM): 7.90
+06:15:27.115 Kadar CO di udara : SEDANG
+06:15:29.174 CO Concentration (PPM): 7.90
+06:15:29.175 Kadar CO di udara : SEDANG
+06:15:31.231 CO Concentration (PPM): 7.90
+06:15:31.232 Kadar CO di udara : SEDANG
+06:15:33.315 CO Concentration (PPM): 7.90
+06:15:33.316 Kadar CO di udara : SEDANG
+06:15:35.375 CO Concentration (PPM): 7.90
+06:15:35.376 Kadar CO di udara : SEDANG
+06:15:37.429 CO Concentration (PPM): 7.94
+06:15:37.432 Kadar CO di udara : SEDANG
+06:15:39.516 CO Concentration (PPM): 7.90
+06:15:39.517 Kadar CO di udara : SEDANG
+06:15:41.576 CO Concentration (PPM): 7.90
+06:15:41.580 Kadar CO di udara : SEDANG
+06:15:43.630 CO Concentration (PPM): 7.90
+06:15:43.635 Kadar CO di udara : SEDANG
+06:15:45.743 CO Concentration (PPM): 7.90
+06:15:45.743 Kadar CO di udara : SEDANG
+06:15:47.823 CO Concentration (PPM): 7.90
+06:15:47.823 Kadar CO di udara : SEDANG
+06:15:49.880 CO Concentration (PPM): 7.90
+06:15:49.880 Kadar CO di udara : SEDANG
+06:15:51.941 CO Concentration (PPM): 7.90
+06:15:51.941 Kadar CO di udara : SEDANG
+06:15:53.997 CO Concentration (PPM): 7.90
+06:15:53.997 Kadar CO di udara : SEDANG
+06:15:56.078 CO Concentration (PPM): 7.90
+06:15:56.078 Kadar CO di udara : SEDANG
+06:15:58.133 CO Concentration (PPM): 7.90
+06:15:58.133 Kadar CO di udara : SEDANG
+06:16:00.194 CO Concentration (PPM): 7.90
+06:16:00.194 Kadar CO di udara : SEDANG
+06:16:02.278 CO Concentration (PPM): 7.90
+06:16:02.278 Kadar CO di udara : SEDANG
+06:16:04.332 CO Concentration (PPM): 7.90
+06:16:04.332 Kadar CO di udara : SEDANG
+06:16:06.393 CO Concentration (PPM): 7.90
+06:16:06.393 Kadar CO di udara : SEDANG
+06:16:08.472 CO Concentration (PPM): 7.90
+06:16:08.472 Kadar CO di udara : SEDANG
+06:16:10.534 CO Concentration (PPM): 7.90
+06:16:10.534 Kadar CO di udara : SEDANG
+06:16:12.595 CO Concentration (PPM): 7.90
+06:16:12.595 Kadar CO di udara : SEDANG
+06:16:14.648 CO Concentration (PPM): 7.90
+06:16:14.648 Kadar CO di udara : SEDANG
+06:16:16.708 CO Concentration (PPM): 7.90
+06:16:16.708 Kadar CO di udara : SEDANG
+06:16:18.794 CO Concentration (PPM): 7.90
+06:16:18.794 Kadar CO di udara : SEDANG
+06:16:20.849 CO Concentration (PPM): 7.90
+06:16:20.849 Kadar CO di udara : SEDANG
+06:16:22.924 CO Concentration (PPM): 7.90
+06:16:22.924 Kadar CO di udara : SEDANG
+06:16:24.987 CO Concentration (PPM): 7.90
+06:16:24.987 Kadar CO di udara : SEDANG
+06:16:27.050 CO Concentration (PPM): 7.90
+06:16:27.054 Kadar CO di udara : SEDANG
+06:16:29.110 CO Concentration (PPM): 7.90
+06:16:29.118 Kadar CO di udara : SEDANG
+06:16:31.165 CO Concentration (PPM): 7.90
+06:16:31.166 Kadar CO di udara : SEDANG
+06:16:33.250 CO Concentration (PPM): 7.90
+06:16:33.251 Kadar CO di udara : SEDANG
+06:16:35.352 CO Concentration (PPM): 7.90
+06:16:35.352 Kadar CO di udara : SEDANG
+06:16:37.411 CO Concentration (PPM): 7.90
+06:16:37.411 Kadar CO di udara : SEDANG
+06:16:39.486 CO Concentration (PPM): 7.90
+06:16:39.486 Kadar CO di udara : SEDANG
+06:16:41.540 CO Concentration (PPM): 7.90
+06:16:41.540 Kadar CO di udara : SEDANG
+06:16:43.604 CO Concentration (PPM): 7.90
+06:16:43.604 Kadar CO di udara : SEDANG
+06:16:45.663 CO Concentration (PPM): 7.90
+06:16:45.663 Kadar CO di udara : SEDANG
+06:16:47.726 CO Concentration (PPM): 7.85
+06:16:47.726 Kadar CO di udara : SEDANG
+06:16:49.804 CO Concentration (PPM): 7.90
+06:16:49.804 Kadar CO di udara : SEDANG
+06:16:51.863 CO Concentration (PPM): 7.90
+06:16:51.863 Kadar CO di udara : SEDANG
+06:16:53.917 CO Concentration (PPM): 7.90
+06:16:53.917 Kadar CO di udara : SEDANG
+06:16:55.979 CO Concentration (PPM): 7.90
+06:16:55.983 Kadar CO di udara : SEDANG
+06:16:58.061 CO Concentration (PPM): 7.90
+06:16:58.062 Kadar CO di udara : SEDANG
+06:17:00.117 CO Concentration (PPM): 7.90
+06:17:00.124 Kadar CO di udara : SEDANG
+06:17:02.174 CO Concentration (PPM): 7.90
+06:17:02.180 Kadar CO di udara : SEDANG
+06:17:04.260 CO Concentration (PPM): 7.90
+06:17:04.260 Kadar CO di udara : SEDANG
+06:17:06.322 CO Concentration (PPM): 7.90
+06:17:06.324 Kadar CO di udara : SEDANG
+06:17:08.378 CO Concentration (PPM): 7.90
+06:17:08.385 Kadar CO di udara : SEDANG
+06:17:10.436 CO Concentration (PPM): 7.90
+06:17:10.443 Kadar CO di udara : SEDANG
+06:17:12.523 CO Concentration (PPM): 7.90
+06:17:12.524 Kadar CO di udara : SEDANG
+06:17:14.561 CO Concentration (PPM): 7.90
+06:17:14.567 Kadar CO di udara : SEDANG
+06:17:16.646 CO Concentration (PPM): 7.90
+06:17:16.646 Kadar CO di udara : SEDANG
+06:17:18.744 CO Concentration (PPM): 7.90
+06:17:18.744 Kadar CO di udara : SEDANG
+06:17:20.828 CO Concentration (PPM): 7.85
+06:17:20.828 Kadar CO di udara : SEDANG
+06:17:22.888 CO Concentration (PPM): 7.90
+06:17:22.888 Kadar CO di udara : SEDANG
+06:17:24.948 CO Concentration (PPM): 7.90
+06:17:24.948 Kadar CO di udara : SEDANG
+06:17:27.003 CO Concentration (PPM): 7.90
+06:17:27.003 Kadar CO di udara : SEDANG
+06:17:29.078 CO Concentration (PPM): 7.90
+06:17:29.078 Kadar CO di udara : SEDANG
+06:17:31.139 CO Concentration (PPM): 7.90
+06:17:31.139 Kadar CO di udara : SEDANG
+06:17:33.200 CO Concentration (PPM): 7.90
+06:17:33.200 Kadar CO di udara : SEDANG
+06:17:35.263 CO Concentration (PPM): 7.90
+06:17:35.263 Kadar CO di udara : SEDANG
+06:17:37.344 CO Concentration (PPM): 7.90
+06:17:37.344 Kadar CO di udara : SEDANG
+06:17:39.406 CO Concentration (PPM): 7.85
+06:17:39.406 Kadar CO di udara : SEDANG
+06:17:41.457 CO Concentration (PPM): 7.90
+06:17:41.463 Kadar CO di udara : SEDANG
+06:17:43.527 CO Concentration (PPM): 7.90
+06:17:43.529 Kadar CO di udara : SEDANG
+06:17:45.597 CO Concentration (PPM): 7.90
+06:17:45.597 Kadar CO di udara : SEDANG
+06:17:47.656 CO Concentration (PPM): 7.90
+06:17:47.662 Kadar CO di udara : SEDANG
+06:17:49.717 CO Concentration (PPM): 7.90
+06:17:49.719 Kadar CO di udara : SEDANG
+06:17:51.797 CO Concentration (PPM): 7.90
+06:17:51.798 Kadar CO di udara : SEDANG
+06:17:53.859 CO Concentration (PPM): 7.85
+06:17:53.859 Kadar CO di udara : SEDANG
+06:17:55.917 CO Concentration (PPM): 7.90
+06:17:55.921 Kadar CO di udara : SEDANG
+06:17:57.979 CO Concentration (PPM): 7.90
+06:17:57.983 Kadar CO di udara : SEDANG
+06:18:00.039 CO Concentration (PPM): 7.90
+06:18:00.040 Kadar CO di udara : SEDANG
+06:18:02.110 CO Concentration (PPM): 7.90
+06:18:02.116 Kadar CO di udara : SEDANG
+06:18:04.173 CO Concentration (PPM): 7.90
+06:18:04.178 Kadar CO di udara : SEDANG
+06:18:06.248 CO Concentration (PPM): 7.90
+06:18:06.256 Kadar CO di udara : SEDANG
+06:18:08.316 CO Concentration (PPM): 7.90
+06:18:08.320 Kadar CO di udara : SEDANG
+06:18:10.423 CO Concentration (PPM): 7.90
+06:18:10.423 Kadar CO di udara : SEDANG
+06:18:12.480 CO Concentration (PPM): 7.85
+06:18:12.480 Kadar CO di udara : SEDANG
+06:18:14.563 CO Concentration (PPM): 7.90
+06:18:14.563 Kadar CO di udara : SEDANG
+06:18:16.623 CO Concentration (PPM): 7.90
+06:18:16.623 Kadar CO di udara : SEDANG
+06:18:18.680 CO Concentration (PPM): 7.90
+06:18:18.680 Kadar CO di udara : SEDANG
+06:18:20.758 CO Concentration (PPM): 7.90
+06:18:20.758 Kadar CO di udara : SEDANG
+06:18:22.822 CO Concentration (PPM): 7.90
+06:18:22.822 Kadar CO di udara : SEDANG
+06:18:24.877 CO Concentration (PPM): 7.90
+06:18:24.877 Kadar CO di udara : SEDANG
+06:18:26.934 CO Concentration (PPM): 7.85
+06:18:26.934 Kadar CO di udara : SEDANG
+06:18:29.005 CO Concentration (PPM): 7.85
+06:18:29.005 Kadar CO di udara : SEDANG
+06:18:31.079 CO Concentration (PPM): 7.85
+06:18:31.079 Kadar CO di udara : SEDANG
+06:18:33.130 CO Concentration (PPM): 7.85
+06:18:33.135 Kadar CO di udara : SEDANG
+06:18:35.197 CO Concentration (PPM): 7.85
+06:18:35.198 Kadar CO di udara : SEDANG
+06:18:37.259 CO Concentration (PPM): 7.90
+06:18:37.259 Kadar CO di udara : SEDANG
+06:18:39.335 CO Concentration (PPM): 7.85
+06:18:39.335 Kadar CO di udara : SEDANG
+06:18:41.388 CO Concentration (PPM): 7.90
+06:18:41.390 Kadar CO di udara : SEDANG
+06:18:43.453 CO Concentration (PPM): 7.85
+06:18:43.453 Kadar CO di udara : SEDANG
+06:18:45.528 CO Concentration (PPM): 7.85
+06:18:45.530 Kadar CO di udara : SEDANG
+06:18:47.590 CO Concentration (PPM): 7.85
+06:18:47.591 Kadar CO di udara : SEDANG
+06:18:49.594 CO Concentration (PPM): 7.85
+06:18:49.652 Kadar CO di udara : SEDANG
+06:18:51.731 CO Concentration (PPM): 7.85
+06:18:51.731 Kadar CO di udara : SEDANG
+06:18:53.843 CO Concentration (PPM): 7.85
+06:18:53.843 Kadar CO di udara : SEDANG
+06:18:55.896 CO Concentration (PPM): 7.90
+06:18:55.896 Kadar CO di udara : SEDANG
+06:18:57.952 CO Concentration (PPM): 7.90
+06:18:57.952 Kadar CO di udara : SEDANG
+06:19:00.041 CO Concentration (PPM): 7.90
+06:19:00.041 Kadar CO di udara : SEDANG
+06:19:02.095 CO Concentration (PPM): 7.90
+06:19:02.095 Kadar CO di udara : SEDANG
+06:19:04.160 CO Concentration (PPM): 7.85
+06:19:04.160 Kadar CO di udara : SEDANG
+06:19:06.217 CO Concentration (PPM): 7.90
+06:19:06.217 Kadar CO di udara : SEDANG
+06:19:08.296 CO Concentration (PPM): 7.90
+06:19:08.296 Kadar CO di udara : SEDANG
+06:19:10.362 CO Concentration (PPM): 7.90
+06:19:10.362 Kadar CO di udara : SEDANG
+06:19:12.589 CO Concentration (PPM): 7.90
+06:19:12.589 Kadar CO di udara : SEDANG
+06:19:14.472 CO Concentration (PPM): 7.90
+06:19:14.472 Kadar CO di udara : SEDANG
+06:19:16.549 CO Concentration (PPM): 7.90
+06:19:16.550 Kadar CO di udara : SEDANG
+06:19:18.608 CO Concentration (PPM): 7.85
+06:19:18.609 Kadar CO di udara : SEDANG
+06:19:20.671 CO Concentration (PPM): 7.85
+06:19:20.671 Kadar CO di udara : SEDANG
+06:19:22.734 CO Concentration (PPM): 7.85
+06:19:22.734 Kadar CO di udara : SEDANG
+06:19:24.810 CO Concentration (PPM): 7.90
+06:19:24.811 Kadar CO di udara : SEDANG
+06:19:26.865 CO Concentration (PPM): 7.90
+06:19:26.871 Kadar CO di udara : SEDANG
+06:19:28.924 CO Concentration (PPM): 7.90
+06:19:28.924 Kadar CO di udara : SEDANG
+06:19:31.010 CO Concentration (PPM): 7.90
+06:19:31.011 Kadar CO di udara : SEDANG
+06:19:33.008 CO Concentration (PPM): 7.90
+06:19:33.063 Kadar CO di udara : SEDANG
+06:19:35.073 CO Concentration (PPM): 7.85
+06:19:35.131 Kadar CO di udara : SEDANG
+06:19:37.130 CO Concentration (PPM): 7.85
+06:19:37.188 Kadar CO di udara : SEDANG
+06:19:39.491 CO Concentration (PPM): 7.85
+06:19:39.498 Kadar CO di udara : SEDANG
+06:19:41.378 CO Concentration (PPM): 7.85
+06:19:41.378 Kadar CO di udara : SEDANG
+06:19:43.432 CO Concentration (PPM): 7.85
+06:19:43.432 Kadar CO di udara : SEDANG
+06:19:45.492 CO Concentration (PPM): 7.85
+06:19:45.492 Kadar CO di udara : SEDANG
+06:19:47.578 CO Concentration (PPM): 7.85
+06:19:47.578 Kadar CO di udara : SEDANG
+06:19:49.630 CO Concentration (PPM): 7.85
+06:19:49.630 Kadar CO di udara : SEDANG
+06:19:51.691 CO Concentration (PPM): 7.90
+06:19:51.691 Kadar CO di udara : SEDANG
+06:19:53.769 CO Concentration (PPM): 7.85
+06:19:53.769 Kadar CO di udara : SEDANG
+06:19:55.827 CO Concentration (PPM): 7.90
+06:19:55.827 Kadar CO di udara : SEDANG
+06:19:57.894 CO Concentration (PPM): 7.85
+06:19:57.894 Kadar CO di udara : SEDANG
+06:19:59.947 CO Concentration (PPM): 7.85
+06:19:59.947 Kadar CO di udara : SEDANG
+06:20:02.005 CO Concentration (PPM): 7.85
+06:20:02.005 Kadar CO di udara : SEDANG
+06:20:04.090 CO Concentration (PPM): 7.85
+06:20:04.090 Kadar CO di udara : SEDANG
+06:20:06.142 CO Concentration (PPM): 7.90
+06:20:06.142 Kadar CO di udara : SEDANG
+06:20:08.204 CO Concentration (PPM): 7.85
+06:20:08.211 Kadar CO di udara : SEDANG
+06:20:10.281 CO Concentration (PPM): 7.90
+06:20:10.281 Kadar CO di udara : SEDANG
+06:20:12.341 CO Concentration (PPM): 7.85
+06:20:12.342 Kadar CO di udara : SEDANG
+06:20:14.405 CO Concentration (PPM): 7.90
+06:20:14.405 Kadar CO di udara : SEDANG
+06:20:16.426 CO Concentration (PPM): 7.85
+06:20:16.455 Kadar CO di udara : SEDANG
+06:20:18.542 CO Concentration (PPM): 7.85
+06:20:18.543 Kadar CO di udara : SEDANG
+06:20:20.599 CO Concentration (PPM): 7.85
+06:20:20.600 Kadar CO di udara : SEDANG
+06:20:22.660 CO Concentration (PPM): 7.85
+06:20:22.663 Kadar CO di udara : SEDANG
+06:20:24.721 CO Concentration (PPM): 7.90
+06:20:24.723 Kadar CO di udara : SEDANG
+06:20:26.806 CO Concentration (PPM): 7.90
+06:20:26.806 Kadar CO di udara : SEDANG
+06:20:28.855 CO Concentration (PPM): 7.90
+06:20:28.858 Kadar CO di udara : SEDANG
+06:20:30.919 CO Concentration (PPM): 7.85
+06:20:30.928 Kadar CO di udara : SEDANG
+06:20:32.997 CO Concentration (PPM): 7.85
+06:20:32.997 Kadar CO di udara : SEDANG
+06:20:35.057 CO Concentration (PPM): 7.85
+06:20:35.065 Kadar CO di udara : SEDANG
+06:20:37.189 CO Concentration (PPM): 7.85
+06:20:37.189 Kadar CO di udara : SEDANG
+06:20:39.248 CO Concentration (PPM): 7.85
+06:20:39.248 Kadar CO di udara : SEDANG
+06:20:41.313 CO Concentration (PPM): 7.85
+06:20:41.313 Kadar CO di udara : SEDANG
+06:20:43.368 CO Concentration (PPM): 7.85
+06:20:43.368 Kadar CO di udara : SEDANG
+06:20:45.446 CO Concentration (PPM): 7.85
+06:20:45.446 Kadar CO di udara : SEDANG
+06:20:47.501 CO Concentration (PPM): 7.90
+06:20:47.501 Kadar CO di udara : SEDANG
+06:20:49.562 CO Concentration (PPM): 7.85
+06:20:49.562 Kadar CO di udara : SEDANG
+06:20:51.565 CO Concentration (PPM): 7.90
+06:20:51.565 Kadar CO di udara : SEDANG
+06:20:53.685 CO Concentration (PPM): 7.85
+06:20:53.685 Kadar CO di udara : SEDANG
+06:20:55.764 CO Concentration (PPM): 7.85
+06:20:55.764 Kadar CO di udara : SEDANG
+06:20:57.823 CO Concentration (PPM): 7.85
+06:20:57.823 Kadar CO di udara : SEDANG
+06:20:59.867 CO Concentration (PPM): 7.85
+06:20:59.874 Kadar CO di udara : SEDANG
+06:21:01.927 CO Concentration (PPM): 7.85
+06:21:01.937 Kadar CO di udara : SEDANG
+06:21:04.005 CO Concentration (PPM): 7.85
+06:21:04.014 Kadar CO di udara : SEDANG
+06:21:06.065 CO Concentration (PPM): 7.85
+06:21:06.075 Kadar CO di udara : SEDANG
+06:21:08.127 CO Concentration (PPM): 7.85
+06:21:08.137 Kadar CO di udara : SEDANG
+06:21:10.208 CO Concentration (PPM): 7.90
+06:21:10.214 Kadar CO di udara : SEDANG
+06:21:12.271 CO Concentration (PPM): 7.85
+06:21:12.279 Kadar CO di udara : SEDANG
+06:21:14.325 CO Concentration (PPM): 7.85
+06:21:14.335 Kadar CO di udara : SEDANG
+06:21:16.385 CO Concentration (PPM): 7.85
+06:21:16.406 Kadar CO di udara : SEDANG
+06:21:18.468 CO Concentration (PPM): 7.85
+06:21:18.469 Kadar CO di udara : SEDANG
+06:21:20.582 CO Concentration (PPM): 7.85
+06:21:20.582 Kadar CO di udara : SEDANG
+06:21:22.633 CO Concentration (PPM): 7.85
+06:21:22.633 Kadar CO di udara : SEDANG
+06:21:24.825 CO Concentration (PPM): 7.85
+06:21:24.825 Kadar CO di udara : SEDANG
+06:21:26.778 CO Concentration (PPM): 7.85
+06:21:26.778 Kadar CO di udara : SEDANG
+06:21:28.839 CO Concentration (PPM): 7.90
+06:21:28.839 Kadar CO di udara : SEDANG
+06:21:30.895 CO Concentration (PPM): 7.85
+06:21:30.895 Kadar CO di udara : SEDANG
+06:21:32.954 CO Concentration (PPM): 7.85
+06:21:32.954 Kadar CO di udara : SEDANG
+06:21:35.046 CO Concentration (PPM): 7.85
+06:21:35.046 Kadar CO di udara : SEDANG
+06:21:37.096 CO Concentration (PPM): 7.85
+06:21:37.096 Kadar CO di udara : SEDANG
+06:21:39.153 CO Concentration (PPM): 7.85
+06:21:39.153 Kadar CO di udara : SEDANG
+06:21:41.228 CO Concentration (PPM): 7.85
+06:21:41.228 Kadar CO di udara : SEDANG
+06:21:43.290 CO Concentration (PPM): 7.85
+06:21:43.299 Kadar CO di udara : SEDANG
+06:21:45.349 CO Concentration (PPM): 7.85
+06:21:45.357 Kadar CO di udara : SEDANG
+06:21:47.418 CO Concentration (PPM): 7.85
+06:21:47.426 Kadar CO di udara : SEDANG
+06:21:49.440 CO Concentration (PPM): 7.85
+06:21:49.469 Kadar CO di udara : SEDANG
+06:21:51.551 CO Concentration (PPM): 7.85
+06:21:51.553 Kadar CO di udara : SEDANG
+06:21:53.613 CO Concentration (PPM): 7.85
+06:21:53.615 Kadar CO di udara : SEDANG
+06:21:55.669 CO Concentration (PPM): 7.81
+06:21:55.673 Kadar CO di udara : SEDANG
+06:21:57.749 CO Concentration (PPM): 7.85
+06:21:57.752 Kadar CO di udara : SEDANG
+06:21:59.806 CO Concentration (PPM): 7.85
+06:21:59.812 Kadar CO di udara : SEDANG
+06:22:01.866 CO Concentration (PPM): 7.85
+06:22:01.875 Kadar CO di udara : SEDANG
+06:22:03.931 CO Concentration (PPM): 7.85
+06:22:03.935 Kadar CO di udara : SEDANG
+06:22:06.008 CO Concentration (PPM): 7.85
+06:22:06.013 Kadar CO di udara : SEDANG
+06:22:08.069 CO Concentration (PPM): 7.90
+06:22:08.073 Kadar CO di udara : SEDANG
+06:22:10.198 CO Concentration (PPM): 7.85
+06:22:10.199 Kadar CO di udara : SEDANG
+06:22:12.209 CO Concentration (PPM): 7.85
+06:22:12.209 Kadar CO di udara : SEDANG
+06:22:14.310 CO Concentration (PPM): 7.81
+06:22:14.310 Kadar CO di udara : SEDANG
+06:22:16.374 CO Concentration (PPM): 7.85
+06:22:16.374 Kadar CO di udara : SEDANG
+06:22:18.458 CO Concentration (PPM): 7.85
+06:22:18.458 Kadar CO di udara : SEDANG
+06:22:20.512 CO Concentration (PPM): 7.85
+06:22:20.512 Kadar CO di udara : SEDANG
+06:22:22.573 CO Concentration (PPM): 7.85
+06:22:22.573 Kadar CO di udara : SEDANG
+06:22:24.636 CO Concentration (PPM): 7.85
+06:22:24.636 Kadar CO di udara : SEDANG
+06:22:26.710 CO Concentration (PPM): 7.85
+06:22:26.710 Kadar CO di udara : SEDANG
+06:22:28.773 CO Concentration (PPM): 7.85
+06:22:28.773 Kadar CO di udara : SEDANG
+06:22:30.835 CO Concentration (PPM): 7.85
+06:22:30.835 Kadar CO di udara : SEDANG
+06:22:32.911 CO Concentration (PPM): 7.85
+06:22:32.911 Kadar CO di udara : SEDANG
+06:22:34.965 CO Concentration (PPM): 7.85
+06:22:34.965 Kadar CO di udara : SEDANG
+06:22:37.029 CO Concentration (PPM): 7.81
+06:22:37.029 Kadar CO di udara : SEDANG
+06:22:39.091 CO Concentration (PPM): 7.85
+06:22:39.091 Kadar CO di udara : SEDANG
+06:22:41.169 CO Concentration (PPM): 7.85
+06:22:41.169 Kadar CO di udara : SEDANG
+06:22:43.230 CO Concentration (PPM): 7.85
+06:22:43.230 Kadar CO di udara : SEDANG
+06:22:45.283 CO Concentration (PPM): 7.85
+06:22:45.283 Kadar CO di udara : SEDANG
+06:22:47.371 CO Concentration (PPM): 7.85
+06:22:47.380 Kadar CO di udara : SEDANG
+06:22:49.432 CO Concentration (PPM): 7.85
+06:22:49.432 Kadar CO di udara : SEDANG
+06:22:51.481 CO Concentration (PPM): 7.85
+06:22:51.482 Kadar CO di udara : SEDANG
+06:22:53.542 CO Concentration (PPM): 7.85
+06:22:53.542 Kadar CO di udara : SEDANG
+06:22:55.633 CO Concentration (PPM): 7.81
+06:22:55.633 Kadar CO di udara : SEDANG
+06:22:57.686 CO Concentration (PPM): 7.85
+06:22:57.687 Kadar CO di udara : SEDANG
+06:22:59.741 CO Concentration (PPM): 7.85
+06:22:59.747 Kadar CO di udara : SEDANG
+06:23:01.819 CO Concentration (PPM): 7.85
+06:23:01.823 Kadar CO di udara : SEDANG
+06:23:03.884 CO Concentration (PPM): 7.85
+06:23:03.886 Kadar CO di udara : SEDANG
+06:23:05.942 CO Concentration (PPM): 7.85
+06:23:05.947 Kadar CO di udara : SEDANG
+06:23:08.005 CO Concentration (PPM): 7.85
+06:23:08.012 Kadar CO di udara : SEDANG
+06:23:10.081 CO Concentration (PPM): 7.85
+06:23:10.082 Kadar CO di udara : SEDANG
+06:23:12.193 CO Concentration (PPM): 7.85
+06:23:12.193 Kadar CO di udara : SEDANG
+06:23:14.247 CO Concentration (PPM): 7.81
+06:23:14.247 Kadar CO di udara : SEDANG
+06:23:16.310 CO Concentration (PPM): 7.85
+06:23:16.310 Kadar CO di udara : SEDANG
+06:23:18.388 CO Concentration (PPM): 7.81
+06:23:18.388 Kadar CO di udara : SEDANG
+06:23:20.447 CO Concentration (PPM): 7.85
+06:23:20.447 Kadar CO di udara : SEDANG
+06:23:22.511 CO Concentration (PPM): 7.85
+06:23:22.511 Kadar CO di udara : SEDANG
+06:23:24.589 CO Concentration (PPM): 7.85
+06:23:24.589 Kadar CO di udara : SEDANG
+06:23:26.650 CO Concentration (PPM): 7.85
+06:23:26.650 Kadar CO di udara : SEDANG
+06:23:28.713 CO Concentration (PPM): 7.85
+06:23:28.713 Kadar CO di udara : SEDANG
+06:23:30.763 CO Concentration (PPM): 7.85
+06:23:30.763 Kadar CO di udara : SEDANG
+06:23:32.846 CO Concentration (PPM): 7.85
+06:23:32.846 Kadar CO di udara : SEDANG
+06:23:34.910 CO Concentration (PPM): 7.85
+06:23:34.911 Kadar CO di udara : SEDANG
+06:23:36.963 CO Concentration (PPM): 7.81
+06:23:36.964 Kadar CO di udara : SEDANG
+06:23:39.017 CO Concentration7.85
+06:23:39.017 Kadar CO di udara : SEDANG
+06:23:41.097 CO Concentration (PPM): 7.81
+06:23:41.098 Kadar CO di udara : SEDANG
+06:23:43.162 CO Concentration (PPM): 7.85
+06:23:43.162 Kadar CO di udara : SEDANG
+06:23:45.214 CO Concentration (PPM): 7.85
+06:23:45.214 Kadar CO di udara : SEDANG
+06:23:47.279 CO Concentration (PPM): 7.85
+06:23:47.279 Kadar CO di udara : SEDANG
+06:23:49.363 CO Concentration (PPM): 7.85
+06:23:49.364 Kadar CO di udara : SEDANG
+06:23:51.603 CO Concentration (PPM): 7.85
+06:23:51.603 Kadar CO di udara : SEDANG
+06:23:53.477 CO Concentration (PPM): 7.85
+06:23:53.477 Kadar CO di udara : SEDANG
+06:23:55.536 CO Concentration (PPM): 7.81
+06:23:55.543 Kadar CO di udara : SEDANG
+06:23:57.664 CO Concentration (PPM): 7.85
+06:23:57.664 Kadar CO di udara : SEDANG
+06:23:59.728 CO Concentration (PPM): 7.81
+06:23:59.728 Kadar CO di udara : SEDANG
+06:24:01.786 CO Concentration (PPM): 7.85
+06:24:01.786 Kadar CO di udara : SEDANG
+06:24:03.867 CO Concentration (PPM): 7.81
+06:24:03.867 Kadar CO di udara : SEDANG
+06:24:05.922 CO Concentration (PPM): 7.85
+06:24:05.922 Kadar CO di udara : SEDANG
+06:24:07.980 CO Concentration (PPM): 7.81
+06:24:07.980 Kadar CO di udara : SEDANG
+06:24:10.065 CO Concentration (PPM): 7.85
+06:24:10.065 Kadar CO di udara : SEDANG
+06:24:12.122 CO Concentration (PPM): 7.85
+06:24:12.122 Kadar CO di udara : SEDANG
+06:24:14.181 CO Concentration (PPM): 7.85
+06:24:14.181 Kadar CO di udara : SEDANG
+06:24:16.240 CO Concentration (PPM): 7.85
+06:24:16.240 Kadar CO di udara : SEDANG
+06:24:18.317 CO Concentration (PPM): 7.85
+06:24:18.317 Kadar CO di udara : SEDANG
+06:24:20.380 CO Concentration (PPM): 7.85
+06:24:20.380 Kadar CO di udara : SEDANG
+06:24:22.441 CO Concentration (PPM): 7.81
+06:24:22.441 Kadar CO di udara : SEDANG
+06:24:24.499 CO Concentration (PPM): 7.85
+06:24:24.499 Kadar CO di udara : SEDANG
+06:24:26.580 CO Concentration (PPM): 7.85
+06:24:26.581 Kadar CO di udara : SEDANG
+06:24:28.633 CO Concentration (PPM): 7.85
+06:24:28.634 Kadar CO di udara : SEDANG
+06:24:30.694 CO Concentration (PPM): 7.85
+06:24:30.694 Kadar CO di udara : SEDANG
+06:24:32.774 CO Concentration (PPM): 7.85
+06:24:32.774 Kadar CO di udara : SEDANG
+06:24:34.840 CO Concentration (PPM): 7.85
+06:24:34.840 Kadar CO di udara : SEDANG
+06:24:36.895 CO Concentration (PPM): 7.85
+06:24:36.898 Kadar CO di udara : SEDANG
+06:24:38.954 CO Concentration (PPM): 7.85
+06:24:38.957 Kadar CO di udara : SEDANG
+06:24:41.010 CO Concentration (PPM): 7.81
+06:24:41.010 Kadar CO di udara : SEDANG
+06:24:43.095 CO Concentration (PPM): 7.85
+06:24:43.103 Kadar CO di udara : SEDANG
+06:24:45.150 CO Concentration (PPM): 7.81
+06:24:45.155 Kadar CO di udara : SEDANG
+06:24:47.263 CO Concentration (PPM): 7.85
+06:24:47.263 Kadar CO di udara : SEDANG
+06:24:49.338 CO Concentration (PPM): 7.85
+06:24:49.338 Kadar CO di udara : SEDANG
+06:24:51.404 CO Concentration (PPM): 7.85
+06:24:51.404 Kadar CO di udara : SEDANG
+06:24:53.461 CO Concentration (PPM): 7.85
+06:24:53.461 Kadar CO di udara : SEDANG
+06:24:55.527 CO Concentration (PPM): 7.85
+06:24:55.527 Kadar CO di udara : SEDANG
+06:24:57.600 CO Concentration (PPM): 7.85
+06:24:57.600 Kadar CO di udara : SEDANG
+06:24:59.653 CO Concentration (PPM): 7.85
+06:24:59.653 Kadar CO di udara : SEDANG
+06:25:01.724 CO Concentration (PPM): 7.85
+06:25:01.724 Kadar CO di udara : SEDANG
+06:25:03.799 CO Concentration (PPM): 7.81
+06:25:03.799 Kadar CO di udara : SEDANG
+06:25:05.857 CO Concentration (PPM): 7.85
+06:25:05.857 Kadar CO di udara : SEDANG
+06:25:07.913 CO Concentration (PPM): 7.81
+06:25:07.913 Kadar CO di udara : SEDANG
+06:25:09.998 CO Concentration (PPM): 7.85
+06:25:09.998 Kadar CO di udara : SEDANG
+06:25:12.045 CO Concentration (PPM): 7.85
+06:25:12.045 Kadar CO di udara : SEDANG
+06:25:14.103 CO Concentration (PPM): 7.85
+06:25:14.103 Kadar CO di udara : SEDANG
+06:25:16.158 CO Concentration (PPM): 7.85
+06:25:16.167 Kadar CO di udara : SEDANG
+06:25:18.243 CO Concentration (PPM): 7.85
+06:25:18.243 Kadar CO di udara : SEDANG
+06:25:20.306 CO Concentration (PPM): 7.85
+06:25:20.313 Kadar CO di udara : SEDANG
+06:25:22.362 CO Concentration (PPM): 7.85
+06:25:22.368 Kadar CO di udara : SEDANG
+06:25:24.420 CO Concentration (PPM): 7.85
+06:25:24.431 Kadar CO di udara : SEDANG
+06:25:26.500 CO Concentration (PPM): 7.81
+06:25:26.500 Kadar CO di udara : SEDANG
+06:25:28.559 CO Concentration (PPM): 7.85
+06:25:28.569 Kadar CO di udara : SEDANG
+06:25:30.619 CO Concentration (PPM): 7.81
+06:25:30.629 Kadar CO di udara : SEDANG
+06:25:32.686 CO Concentration (PPM): 7.81
+06:25:32.696 Kadar CO di udara : SEDANG
+06:25:34.761 CO Concentration (PPM): 7.85
+06:25:34.769 Kadar CO di udara : SEDANG
+06:25:36.823 CO Concentration (PPM): 7.81
+06:25:36.826 Kadar CO di udara : SEDANG
+06:25:38.933 CO Concentration (PPM): 7.85
+06:25:38.933 Kadar CO di udara : SEDANG
+06:25:41.013 CO Concentration (PPM): 7.81
+06:25:41.013 Kadar CO di udara : SEDANG
+06:25:43.068 CO Concentration (PPM): 7.85
+06:25:43.068 Kadar CO di udara : SEDANG
+06:25:45.127 CO Concentration (PPM): 7.81
+06:25:45.127 Kadar CO di udara : SEDANG
+06:25:47.187 CO Concentration (PPM): 7.85
+06:25:47.187 Kadar CO di udara : SEDANG
+06:25:49.270 CO Concentration (PPM): 7.81
+06:25:49.270 Kadar CO di udara : SEDANG
+06:25:51.328 CO Concentration (PPM): 7.85
+06:25:51.328 Kadar CO di udara : SEDANG
+06:25:53.380 CO Concentration (PPM): 7.81
+06:25:53.380 Kadar CO di udara : SEDANG
+06:25:55.467 CO Concentration (PPM): 7.85
+06:25:55.467 Kadar CO di udara : SEDANG
+06:25:57.528 CO Concentration (PPM): 7.81
+06:25:57.528 Kadar CO di udara : SEDANG
+06:25:59.684 CO Concentration (PPM): 7.81
+06:25:59.684 Kadar CO di udara : SEDANG
+06:26:01.642 CO Concentration (PPM): 7.81
+06:26:01.642 Kadar CO di udara : SEDANG
+06:26:03.702 CO Concentration (PPM): 7.81
+06:26:03.707 Kadar CO di udara : SEDANG
+06:26:05.766 CO Concentration (PPM): 7.81
+06:26:05.772 Kadar CO di udara : SEDANG
+06:26:07.846 CO Concentration (PPM): 7.81
+06:26:07.847 Kadar CO di udara : SEDANG
+06:26:09.901 CO Concentration (PPM): 7.81
+06:26:09.901 Kadar CO di udara : SEDANG
+06:26:11.983 CO Concentration (PPM): 7.81
+06:26:11.983 Kadar CO di udara : SEDANG
+06:26:14.044 CO Concentration (PPM): 7.81
+06:26:14.044 Kadar CO di udara : SEDANG
+06:26:16.099 CO Concentration (PPM): 7.81
+06:26:16.101 Kadar CO di udara : SEDANG
+06:26:18.160 CO Concentration (PPM): 7.81
+06:26:18.166 Kadar CO di udara : SEDANG
+06:26:20.219 CO Concentration (PPM): 7.85
+06:26:20.222 Kadar CO di udara : SEDANG
+06:26:22.297 CO Concentration (PPM): 7.81
+06:26:22.304 Kadar CO di udara : SEDANG
+06:26:24.409 CO Concentration (PPM): 7.81
+06:26:24.409 Kadar CO di udara : SEDANG
+06:26:26.459 CO Concentration (PPM): 7.81
+06:26:26.459 Kadar CO di udara : SEDANG
+06:26:28.554 CO Concentration (PPM): 7.81
+06:26:28.554 Kadar CO di udara : SEDANG
+06:26:30.610 CO Concentration (PPM): 7.81
+06:26:30.610 Kadar CO di udara : SEDANG
+06:26:32.667 CO Concentration (PPM): 7.81
+06:26:32.667 Kadar CO di udara : SEDANG
+06:26:34.749 CO Concentration (PPM): 7.81
+06:26:34.749 Kadar CO di udara : SEDANG
+06:26:36.801 CO Concentration (PPM): 7.81
+06:26:36.801 Kadar CO di udara : SEDANG
+06:26:38.862 CO Concentration (PPM): 7.81
+06:26:38.862 Kadar CO di udara : SEDANG
+06:26:40.922 CO Concentration (PPM): 7.81
+06:26:40.922 Kadar CO di udara : SEDANG
+06:26:43.004 CO Concentration (PPM): 7.81
+06:26:43.004 Kadar CO di udara : SEDANG
+06:26:45.063 CO Concentration (PPM): 7.81
+06:26:45.063 Kadar CO di udara : SEDANG
+06:26:47.125 CO Concentration (PPM): 7.81
+06:26:47.125 Kadar CO di udara : SEDANG
+06:26:49.182 CO Concentration (PPM): 7.81
+06:26:49.182 Kadar CO di udara : SEDANG
+06:26:51.264 CO Concentration (PPM): 7.85
+06:26:51.264 Kadar CO di udara : SEDANG
+06:26:53.327 CO Concentration (PPM): 7.81
+06:26:53.327 Kadar CO di udara : SEDANG
+06:26:55.376 CO Concentration (PPM): 7.85
+06:26:55.378 Kadar CO di udara : SEDANG
+06:26:57.467 CO Concentration (PPM): 7.81
+06:26:57.468 Kadar CO di udara : SEDANG
+06:26:59.522 CO Concentration (PPM): 7.85
+06:26:59.522 Kadar CO di udara : SEDANG
+06:27:01.577 CO Concentration (PPM): 7.81
+06:27:01.578 Kadar CO di udara : SEDANG
+06:27:03.662 CO Concentration (PPM): 7.81
+06:27:03.663 Kadar CO di udara : SEDANG
+06:27:05.718 CO Concentration (PPM): 7.81
+06:27:05.719 Kadar CO di udara : SEDANG
+06:27:07.779 CO Concentration (PPM): 7.81
+06:27:07.779 Kadar CO di udara : SEDANG
+06:27:09.836 CO Concentration (PPM): 7.81
+06:27:09.836 Kadar CO di udara : SEDANG
+06:27:11.921 CO Concentration (PPM): 7.81
+06:27:11.921 Kadar CO di udara : SEDANG
+06:27:13.978 CO Concentration (PPM): 7.81
+06:27:13.984 Kadar CO di udara : SEDANG
+06:27:16.031 CO Concentration (PPM): 7.81
+06:27:16.034 Kadar CO di udara : SEDANG
+06:27:18.095 CO Concentration (PPM): 7.81
+06:27:18.097 Kadar CO di udara : SEDANG
+06:27:20.208 CO Concentration (PPM): 7.81
+06:27:20.208 Kadar CO di udara : SEDANG
+06:27:22.278 CO Concentration (PPM): 7.81
+06:27:22.278 Kadar CO di udara : SEDANG
+06:27:24.343 CO Concentration (PPM): 7.81
+06:27:24.343 Kadar CO di udara : SEDANG
+06:27:26.398 CO Concentration (PPM): 7.81
+06:27:26.398 Kadar CO di udara : SEDANG
+06:27:28.481 CO Concentration (PPM): 7.81
+06:27:28.481 Kadar CO di udara : SEDANG
+06:27:30.536 CO Concentration (PPM): 7.81
+06:27:30.536 Kadar CO di udara : SEDANG
+06:27:32.595 CO Concentration (PPM): 7.81
+06:27:32.595 Kadar CO di udara : SEDANG
+06:27:34.658 CO Concentration (PPM): 7.81
+06:27:34.658 Kadar CO di udara : SEDANG
+06:27:36.742 CO Concentration (PPM): 7.81
+06:27:36.742 Kadar CO di udara : SEDANG
+06:27:38.797 CO Concentration (PPM): 7.81
+06:27:38.797 Kadar CO di udara : SEDANG
+06:27:40.852 CO Concentration (PPM): 7.81
+06:27:40.852 Kadar CO di udara : SEDANG
+06:27:42.936 CO Concentration (PPM): 7.81
+06:27:42.937 Kadar CO di udara : SEDANG
+06:27:44.998 CO Concentration (PPM): 7.77
+06:27:44.998 Kadar CO di udara : SEDANG
+06:27:47.050 CO Concentration (PPM): 7.81
+06:27:47.051 Kadar CO di udara : SEDANG
+06:27:49.111 CO Concentration (PPM): 7.81
+06:27:49.111 Kadar CO di udara : SEDANG
+06:27:51.190 CO Concentration (PPM): 7.81
+06:27:51.191 Kadar CO di udara : SEDANG
+06:27:53.259 CO Concentration (PPM): 7.81
+06:27:53.259 Kadar CO di udara : SEDANG
+06:27:55.309 CO Concentration (PPM): 7.85
+06:27:55.309 Kadar CO di udara : SEDANG
+06:27:57.395 CO Concentration (PPM): 7.81
+06:27:57.395 Kadar CO di udara : SEDANG
+06:27:59.449 CO Concentration (PPM): 7.85
+06:27:59.449 Kadar CO di udara : SEDANG
+06:28:01.518 CO Concentration (PPM): 7.81
+06:28:01.518 Kadar CO di udara : SEDANG
+06:28:03.621 CO Concentration (PPM): 7.85
+06:28:03.621 Kadar CO di udara : SEDANG
+06:28:05.702 CO Concentration (PPM): 7.81
+06:28:05.702 Kadar CO di udara : SEDANG
+06:28:07.756 CO Concentration (PPM): 7.85
+06:28:07.756 Kadar CO di udara : SEDANG
+06:28:09.814 CO Concentration (PPM): 7.81
+06:28:09.814 Kadar CO di udara : SEDANG
+06:28:11.875 CO Concentration (PPM): 7.81
+06:28:11.875 Kadar CO di udara : SEDANG
+06:28:13.956 CO Concentration (PPM): 7.81
+06:28:13.956 Kadar CO di udara : SEDANG
+06:28:16.014 CO Concentration (PPM): 7.81
+06:28:16.014 Kadar CO di udara : SEDANG
+06:28:18.071 CO Concentration (PPM): 7.85
+06:28:18.071 Kadar CO di udara : SEDANG
+06:28:20.129 CO Concentration (PPM): 7.81
+06:28:20.129 Kadar CO di udara : SEDANG
+06:28:22.192 CO Concentration (PPM): 7.85
+06:28:22.192 Kadar CO di udara : SEDANG
+06:28:24.273 CO Concentration (PPM): 7.81
+06:28:24.273 Kadar CO di udara : SEDANG
+06:28:26.327 CO Concentration (PPM): 7.85
+06:28:26.328 Kadar CO di udara : SEDANG
+06:28:28.392 CO Concentration (PPM): 7.81
+06:28:28.392 Kadar CO di udara : SEDANG
+06:28:30.472 CO Concentration (PPM): 7.85
+06:28:30.473 Kadar CO di udara : SEDANG
+06:28:32.532 CO Concentration7.81
+06:28:32.532 Kadar CO di udara : SEDANG
+06:28:34.584 CO Concentration (PPM): 7.85
+06:28:34.584 Kadar CO di udara : SEDANG
+06:28:36.646 CO Concentration (PPM): 7.77
+06:28:36.646 Kadar CO di udara : SEDANG
+06:28:38.732 CO Concentration (PPM): 7.85
+06:28:38.732 Kadar CO di udara : SEDANG
+06:28:40.785 CO Concentration (PPM): 7.77
+06:28:40.791 Kadar CO di udara : SEDANG
+06:28:42.849 CO Concentration (PPM): 7.85
+06:28:42.850 Kadar CO di udara : SEDANG
+06:28:44.906 CO Concentration (PPM): 7.81
+06:28:44.907 Kadar CO di udara : SEDANG
+06:28:47.156 CO Concentration (PPM): 7.81
+06:28:47.156 Kadar CO di udara : SEDANG
+06:28:49.046 CO Concentration (PPM): 7.81
+06:28:49.049 Kadar CO di udara : SEDANG
+06:28:51.101 CO Concentration (PPM): 7.85
+06:28:51.101 Kadar CO di udara : SEDANG
+06:28:53.184 CO Concentration (PPM): 7.81
+06:28:53.186 Kadar CO di udara : SEDANG
+06:28:55.299 CO Concentration (PPM): 7.85
+06:28:55.299 Kadar CO di udara : SEDANG
+06:28:57.358 CO Concentration (PPM): 7.85
+06:28:57.358 Kadar CO di udara : SEDANG
+06:28:59.434 CO Concentration (PPM): 7.81
+06:28:59.434 Kadar CO di udara : SEDANG
+06:29:01.490 CO Concentration (PPM): 7.85
+06:29:01.490 Kadar CO di udara : SEDANG
+06:29:03.547 CO Concentration (PPM): 7.81
+06:29:03.547 Kadar CO di udara : SEDANG
+06:29:05.616 CO Concentration (PPM): 7.85
+06:29:05.616 Kadar CO di udara : SEDANG
+06:29:07.673 CO Concentration (PPM): 7.81
+06:29:07.673 Kadar CO di udara : SEDANG
+06:29:09.751 CO Concentration (PPM): 7.85
+06:29:09.751 Kadar CO di udara : SEDANG
+06:29:11.805 CO Concentration (PPM): 7.85
+06:29:11.805 Kadar CO di udara : SEDANG
+06:29:13.890 CO Concentration (PPM): 7.85
+06:29:13.890 Kadar CO di udara : SEDANG
+06:29:15.941 CO Concentration (PPM): 7.81
+06:29:15.941 Kadar CO di udara : SEDANG
+06:29:18.003 CO Concentration (PPM): 7.81
+06:29:18.003 Kadar CO di udara : SEDANG
+06:29:20.057 CO Concentration (PPM): 7.81
+06:29:20.057 Kadar CO di udara : SEDANG
+06:29:22.137 CO Concentration (PPM): 7.81
+06:29:22.138 Kadar CO di udara : SEDANG
+06:29:24.194 CO Concentration (PPM): 7.81
+06:29:24.204 Kadar CO di udara : SEDANG
+06:29:26.256 CO Concentration (PPM): 7.81
+06:29:26.265 Kadar CO di udara : SEDANG
+06:29:28.312 CO Concentration (PPM): 7.81
+06:29:28.319 Kadar CO di udara : SEDANG
+06:29:30.397 CO Concentration (PPM): 7.81
+06:29:30.397 Kadar CO di udara : SEDANG
+06:29:32.455 CO Concentration (PPM): 7.81
+06:29:32.461 Kadar CO di udara : SEDANG
+06:29:34.510 CO Concentration (PPM): 7.85
+06:29:34.521 Kadar CO di udara : SEDANG
+06:29:36.564 CO Concentration (PPM): 7.81
+06:29:36.601 Kadar CO di udara : SEDANG
+06:29:38.650 CO Concentration (PPM): 7.85
+06:29:38.657 Kadar CO di udara : SEDANG
+06:29:40.712 CO Concentration (PPM): 7.81
+06:29:40.721 Kadar CO di udara : SEDANG
+06:29:42.771 CO Concentration (PPM): 7.85
+06:29:42.778 Kadar CO di udara : SEDANG
+06:29:44.838 CO Concentration (PPM): 7.81
+06:29:44.842 Kadar CO di udara : SEDANG
+06:29:46.963 CO Concentration (PPM): 7.85
+06:29:46.963 Kadar CO di udara : SEDANG
+06:29:49.028 CO Concentration (PPM): 7.81
+06:29:49.028 Kadar CO di udara : SEDANG
+06:29:51.086 CO Concentration (PPM): 7.81
+06:29:51.086 Kadar CO di udara : SEDANG
+06:29:53.165 CO Concentration (PPM): 7.77
+06:29:53.165 Kadar CO di udara : SEDANG
+06:29:55.222 CO Concentration (PPM): 7.81
+06:29:55.222 Kadar CO di udara : SEDANG
+06:29:57.278 CO Concentration (PPM): 7.77
+06:29:57.278 Kadar CO di udara : SEDANG
+06:29:59.364 CO Concentration (PPM): 7.81
+06:29:59.364 Kadar CO di udara : SEDANG
+06:30:01.410 CO Concentration (PPM): 7.81
+06:30:01.410 Kadar CO di udara : SEDANG
+06:30:03.425 CO Concentration (PPM): 7.81
+06:30:03.425 Kadar CO di udara : SEDANG
+06:30:05.537 CO Concentration (PPM): 7.81
+06:30:05.537 Kadar CO di udara : SEDANG
+06:30:07.613 CO Concentration (PPM): 7.81
+06:30:07.613 Kadar CO di udara : SEDANG
+06:30:09.679 CO Concentration (PPM): 7.81
+06:30:09.682 Kadar CO di udara : SEDANG
+06:30:11.738 CO Concentration (PPM): 7.81
+06:30:11.743 Kadar CO di udara : SEDANG
+06:30:13.795 CO Concentration (PPM): 7.81
+06:30:13.797 Kadar CO di udara : SEDANG
+06:30:15.878 CO Concentration (PPM): 7.81
+06:30:15.878 Kadar CO di udara : SEDANG
+06:30:17.930 CO Concentration (PPM): 7.81
+06:30:17.936 Kadar CO di udara : SEDANG
+06:30:19.996 CO Concentration (PPM): 7.77
+06:30:19.996 Kadar CO di udara : SEDANG
+06:30:22.073 CO Concentration (PPM): 7.81
+06:30:22.074 Kadar CO di udara : SEDANG
+06:30:24.137 CO Concentration (PPM): 7.77
+06:30:24.137 Kadar CO di udara : SEDANG
+06:30:26.193 CO Concentration (PPM): 7.81
+06:30:26.197 Kadar CO di udara : SEDANG
+06:30:28.253 CO Concentration (PPM): 7.81
+06:30:28.266 Kadar CO di udara : SEDANG
+06:30:30.323 CO Concentration (PPM): 7.81
+06:30:30.324 Kadar CO di udara : SEDANG
+06:30:32.356 CO Concentration (PPM): 7.81
+06:30:32.399 Kadar CO di udara : SEDANG
+06:30:34.450 CO Concentration (PPM): 7.81
+06:30:34.454 Kadar CO di udara : SEDANG
+06:30:36.510 CO Concentration (PPM): 7.81
+06:30:36.521 Kadar CO di udara : SEDANG
+06:30:38.535 CO Concentration (PPM): 7.81
+06:30:38.592 Kadar CO di udara : SEDANG
+06:30:40.882 CO Concentration (PPM): 7.81
+06:30:40.882 Kadar CO di udara : SEDANG
+06:30:42.762 CO Concentration (PPM): 7.81
+06:30:42.762 Kadar CO di udara : SEDANG
+06:30:44.846 CO Concentration (PPM): 7.81
+06:30:44.846 Kadar CO di udara : SEDANG
+06:30:46.900 CO Concentration (PPM): 7.81
+06:30:46.900 Kadar CO di udara : SEDANG
+06:30:48.951 CO Concentration (PPM): 7.81
+06:30:48.951 Kadar CO di udara : SEDANG
+06:30:51.037 CO Concentration (PPM): 7.81
+06:30:51.037 Kadar CO di udara : SEDANG
+06:30:53.099 CO Concentration (PPM): 7.81
+06:30:53.099 Kadar CO di udara : SEDANG
+06:30:55.154 CO Concentration (PPM): 7.81
+06:30:55.154 Kadar CO di udara : SEDANG
+06:30:57.214 CO Concentration (PPM): 7.81
+06:30:57.214 Kadar CO di udara : SEDANG
+06:30:59.294 CO Concentration (PPM): 7.81
+06:30:59.294 Kadar CO di udara : SEDANG
+06:31:01.341 CO Concentration (PPM): 7.81
+06:31:01.341 Kadar CO di udara : SEDANG
+06:31:03.414 CO Concentration (PPM): 7.81
+06:31:03.414 Kadar CO di udara : SEDANG
+06:31:05.454 CO Concentration (PPM): 7.81
+06:31:05.489 Kadar CO di udara : SEDANG
+06:31:07.554 CO Concentration (PPM): 7.85
+06:31:07.554 Kadar CO di udara : SEDANG
+06:31:09.612 CO Concentration (PPM): 7.81
+06:31:09.613 Kadar CO di udara : SEDANG
+06:31:11.695 CO Concentration (PPM): 7.85
+06:31:11.695 Kadar CO di udara : SEDANG
+06:31:13.755 CO Concentration (PPM): 7.77
+06:31:13.756 Kadar CO di udara : SEDANG
+06:31:15.817 CO Concentration (PPM): 7.81
+06:31:15.817 Kadar CO di udara : SEDANG
+06:31:17.869 CO Concentration (PPM): 7.81
+06:31:17.870 Kadar CO di udara : SEDANG
+06:31:19.951 CO Concentration (PPM): 7.81
+06:31:19.951 Kadar CO di udara : SEDANG
+06:31:22.008 CO Concentration (PPM): 7.85
+06:31:22.008 Kadar CO di udara : SEDANG
+06:31:24.069 CO Concentration (PPM): 7.81
+06:31:24.069 Kadar CO di udara : SEDANG
+06:31:26.146 CO Concentration (PPM): 7.81
+06:31:26.146 Kadar CO di udara : SEDANG
+06:31:28.205 CO Concentration (PPM): 7.81
+06:31:28.206 Kadar CO di udara : SEDANG
+06:31:30.269 CO Concentration (PPM): 7.85
+06:31:30.271 Kadar CO di udara : SEDANG
+06:31:32.334 CO Concentration (PPM): 7.81
+06:31:32.337 Kadar CO di udara : SEDANG
+06:31:34.407 CO Concentration (PPM): 7.81
+06:31:34.411 Kadar CO di udara : SEDANG
+06:31:36.465 CO Concentration (PPM): 7.81
+06:31:36.469 Kadar CO di udara : SEDANG
+06:31:38.528 CO Concentration (PPM): 7.81
+06:31:38.533 Kadar CO di udara : SEDANG
+06:31:40.634 CO Concentration (PPM): 7.81
+06:31:40.634 Kadar CO di udara : SEDANG
+06:31:42.719 CO Concentration (PPM): 7.81
+06:31:42.719 Kadar CO di udara : SEDANG
+06:31:44.774 CO Concentration (PPM): 7.81
+06:31:44.774 Kadar CO di udara : SEDANG
+06:31:46.833 CO Concentration (PPM): 7.81
+06:31:46.833 Kadar CO di udara : SEDANG
+06:31:48.911 CO Concentration (PPM): 7.81
+06:31:48.911 Kadar CO di udara : SEDANG
+06:31:50.970 CO Concentration (PPM): 7.81
+06:31:50.970 Kadar CO di udara : SEDANG
+06:31:53.026 CO Concentration (PPM): 7.81
+06:31:53.026 Kadar CO di udara : SEDANG
+06:31:55.085 CO Concentration (PPM): 7.85
+06:31:55.085 Kadar CO di udara : SEDANG
+06:31:57.170 CO Concentration (PPM): 7.81
+06:31:57.170 Kadar CO di udara : SEDANG
+06:31:59.235 CO Concentration (PPM): 7.81
+06:31:59.235 Kadar CO di udara : SEDANG
+06:32:01.285 CO Concentration (PPM): 7.81
+06:32:01.285 Kadar CO di udara : SEDANG
+06:32:03.343 CO Concentration (PPM): 7.81
+06:32:03.344 Kadar CO di udara : SEDANG
+06:32:05.393 CO Concentration (PPM): 7.85
+06:32:05.405 Kadar CO di udara : SEDANG
+06:32:07.486 CO Concentration (PPM): 7.77
+06:32:07.487 Kadar CO di udara : SEDANG
+06:32:09.543 CO Concentration (PPM): 7.85
+06:32:09.543 Kadar CO di udara : SEDANG
+06:32:11.580 CO Concentration (PPM): 7.81
+06:32:11.598 Kadar CO di udara : SEDANG
+06:32:13.689 CO Concentration (PPM): 7.81
+06:32:13.690 Kadar CO di udara : SEDANG
+06:32:15.742 CO Concentration (PPM): 7.81
+06:32:15.743 Kadar CO di udara : SEDANG
+06:32:17.804 CO Concentration (PPM): 7.81
+06:32:17.804 Kadar CO di udara : SEDANG
+06:32:19.854 CO Concentration (PPM): 7.85
+06:32:19.864 Kadar CO di udara : SEDANG
+06:32:21.930 CO Concentration (PPM): 7.81
+06:32:21.942 Kadar CO di udara : SEDANG
+06:32:23.994 CO Concentration (PPM): 7.81
+06:32:24.006 Kadar CO di udara : SEDANG
+06:32:26.094 CO Concentration (PPM): 7.81
+06:32:26.094 Kadar CO di udara : SEDANG
+06:32:28.175 CO Concentration (PPM): 7.81
+06:32:28.175 Kadar CO di udara : SEDANG
+06:32:30.226 CO Concentration (PPM): 7.81
+06:32:30.226 Kadar CO di udara : SEDANG
+06:32:32.286 CO Concentration (PPM): 7.81
+06:32:32.286 Kadar CO di udara : SEDANG
+06:32:34.366 CO Concentration (PPM): 7.81
+06:32:34.366 Kadar CO di udara : SEDANG
+06:32:36.440 CO Concentration (PPM): 7.81
+06:32:36.440 Kadar CO di udara : SEDANG
+06:32:38.499 CO Concentration (PPM): 7.77
+06:32:38.499 Kadar CO di udara : SEDANG
+06:32:40.563 CO Concentration (PPM): 7.81
+06:32:40.563 Kadar CO di udara : SEDANG
+06:32:42.643 CO Concentration (PPM): 7.81
+06:32:42.643 Kadar CO di udara : SEDANG
+06:32:44.704 CO Concentration (PPM): 7.81
+06:32:44.704 Kadar CO di udara : SEDANG
+06:32:46.757 CO Concentration (PPM): 7.85
+06:32:46.757 Kadar CO di udara : SEDANG
+06:32:48.814 CO Concentration (PPM): 7.81
+06:32:48.818 Kadar CO di udara : SEDANG
+06:32:50.877 CO Concentration (PPM): 7.81
+06:32:50.880 Kadar CO di udara : SEDANG
+06:32:52.955 CO Concentration (PPM): 7.81
+06:32:52.973 Kadar CO di udara : SEDANG
+06:32:55.014 CO Concentration (PPM): 7.81
+06:32:55.018 Kadar CO di udara : SEDANG
+06:32:57.095 CO Concentration (PPM): 7.81
+06:32:57.096 Kadar CO di udara : SEDANG
+06:32:59.153 CO Concentration (PPM): 7.81
+06:32:59.158 Kadar CO di udara : SEDANG
+06:33:01.213 CO Concentration (PPM): 7.81
+06:33:01.220 Kadar CO di udara : SEDANG
+06:33:03.271 CO Concentration (PPM): 7.77
+06:33:03.279 Kadar CO di udara : SEDANG
+06:33:05.356 CO Concentration (PPM): 7.77
+06:33:05.356 Kadar CO di udara : SEDANG
+06:33:07.417 CO Concentration (PPM): 7.81
+06:33:07.420 Kadar CO di udara : SEDANG
+06:33:09.469 CO Concentration (PPM): 7.81
+06:33:09.477 Kadar CO di udara : SEDANG
+06:33:11.531 CO Concentration (PPM): 7.81
+06:33:11.537 Kadar CO di udara : SEDANG
+06:33:13.610 CO Concentration (PPM): 7.85
+06:33:13.622 Kadar CO di udara : SEDANG
+06:33:15.675 CO Concentration (PPM): 7.81
+06:33:15.679 Kadar CO di udara : SEDANG
+06:33:17.779 CO Concentration (PPM): 7.81
+06:33:17.779 Kadar CO di udara : SEDANG
+06:33:19.864 CO Concentration (PPM): 7.81
+06:33:19.864 Kadar CO di udara : SEDANG
+06:33:21.919 CO Concentration (PPM): 7.81
+06:33:21.919 Kadar CO di udara : SEDANG
+06:33:23.985 CO Concentration (PPM): 7.81
+06:33:23.985 Kadar CO di udara : SEDANG
+06:33:26.038 CO Concentration (PPM): 7.81
+06:33:26.038 Kadar CO di udara : SEDANG
+06:33:28.124 CO Concentration (PPM): 7.77
+06:33:28.124 Kadar CO di udara : SEDANG
+06:33:30.173 CO Concentration (PPM): 7.85
+06:33:30.173 Kadar CO di udara : SEDANG
+06:33:32.234 CO Concentration (PPM): 7.81
+06:33:32.234 Kadar CO di udara : SEDANG
+06:33:34.295 CO Concentration (PPM): 7.81
+06:33:34.295 Kadar CO di udara : SEDANG
+06:33:36.374 CO Concentration (PPM): 7.81
+06:33:36.374 Kadar CO di udara : SEDANG
+06:33:38.437 CO Concentration (PPM): 7.81
+06:33:38.437 Kadar CO di udara : SEDANG
+06:33:40.494 CO Concentration (PPM): 7.81
+06:33:40.494 Kadar CO di udara : SEDANG
+06:33:42.579 CO Concentration (PPM): 7.81
+06:33:42.579 Kadar CO di udara : SEDANG
+06:33:44.636 CO Concentration (PPM): 7.81
+06:33:44.638 Kadar CO di udara : SEDANG
+06:33:46.693 CO Concentration (PPM): 7.81
+06:33:46.694 Kadar CO di udara : SEDANG
+06:33:48.695 CO Concentration (PPM): 7.81
+06:33:48.750 Kadar CO di udara : SEDANG
+06:33:50.829 CO Concentration (PPM): 7.81
+06:33:50.833 Kadar CO di udara : SEDANG
+06:33:52.891 CO Concentration (PPM): 7.81
+06:33:52.893 Kadar CO di udara : SEDANG
+06:33:54.952 CO Concentration (PPM): 7.77
+06:33:54.953 Kadar CO di udara : SEDANG
+06:33:57.007 CO Concentration (PPM): 7.85
+06:33:57.014 Kadar CO di udara : SEDANG
+06:33:59.092 CO Concentration (PPM): 7.81
+06:33:59.093 Kadar CO di udara : SEDANG
+06:34:01.147 CO Concentration (PPM): 7.81
+06:34:01.148 Kadar CO di udara : SEDANG
+06:34:03.206 CO Concentration (PPM): 7.81
+06:34:03.211 Kadar CO di udara : SEDANG
+06:34:05.289 CO Concentration (PPM): 7.81
+06:34:05.289 Kadar CO di udara : SEDANG
+06:34:07.403 CO Concentration (PPM): 7.81
+06:34:07.403 Kadar CO di udara : SEDANG
+06:34:09.456 CO Concentration (PPM): 7.81
+06:34:09.456 Kadar CO di udara : SEDANG
+06:34:11.517 CO Concentration (PPM): 7.81
+06:34:11.517 Kadar CO di udara : SEDANG
+06:34:13.573 CO Concentration (PPM): 7.85
+06:34:13.573 Kadar CO di udara : SEDANG
+06:34:15.656 CO Concentration (PPM): 7.81
+06:34:15.656 Kadar CO di udara : SEDANG
+06:34:17.711 CO Concentration (PPM): 7.81
+06:34:17.711 Kadar CO di udara : SEDANG
+06:34:19.773 CO Concentration (PPM): 7.81
+06:34:19.773 Kadar CO di udara : SEDANG
+06:34:21.835 CO Concentration (PPM): 7.81
+06:34:21.835 Kadar CO di udara : SEDANG
+06:34:23.919 CO Concentration (PPM): 7.85
+06:34:23.919 Kadar CO di udara : SEDANG
+06:34:25.971 CO Concentration (PPM): 7.81
+06:34:25.971 Kadar CO di udara : SEDANG
+06:34:28.033 CO Concentration (PPM): 7.85
+06:34:28.033 Kadar CO di udara : SEDANG
+06:34:30.113 CO Concentration (PPM): 7.81
+06:34:30.113 Kadar CO di udara : SEDANG
+06:34:32.173 CO Concentration (PPM): 7.81
+06:34:32.174 Kadar CO di udara : SEDANG
+06:34:34.168 CO Concentration (PPM): 7.81
+06:34:34.224 Kadar CO di udara : SEDANG
+06:34:36.285 CO Concentration (PPM): 7.81
+06:34:36.286 Kadar CO di udara : SEDANG
+06:34:38.372 CO Concentration (PPM): 7.81
+06:34:38.372 Kadar CO di udara : SEDANG
+06:34:40.424 CO Concentration (PPM): 7.81
+06:34:40.424 Kadar CO di udara : SEDANG
+06:34:42.485 CO Concentration (PPM): 7.81
+06:34:42.485 Kadar CO di udara : SEDANG
+06:34:44.566 CO Concentration (PPM): 7.85
+06:34:44.567 Kadar CO di udara : SEDANG
+06:34:46.629 CO Concentration (PPM): 7.81
+06:34:46.632 Kadar CO di udara : SEDANG
+06:34:48.686 CO Concentration (PPM): 7.85
+06:34:48.693 Kadar CO di udara : SEDANG
+06:34:50.751 CO Concentration (PPM): 7.81
+06:34:50.751 Kadar CO di udara : SEDANG
+06:34:52.826 CO Concentration (PPM): 7.81
+06:34:52.828 Kadar CO di udara : SEDANG
+06:34:54.937 CO Concentration (PPM): 7.85
+06:34:54.937 Kadar CO di udara : SEDANG
+06:34:57.004 CO Concentration (PPM): 7.81
+06:34:57.004 Kadar CO di udara : SEDANG
+06:34:59.077 CO Concentration (PPM): 7.85
+06:34:59.077 Kadar CO di udara : SEDANG
+06:35:01.133 CO Concentration (PPM): 7.81
+06:35:01.133 Kadar CO di udara : SEDANG
+06:35:03.137 CO Concentration (PPM): 7.85
+06:35:03.137 Kadar CO di udara : SEDANG
+06:35:05.251 CO Concentration (PPM): 7.81
+06:35:05.251 Kadar CO di udara : SEDANG
+06:35:07.334 CO Concentration (PPM): 7.81
+06:35:07.334 Kadar CO di udara : SEDANG
+06:35:09.389 CO Concentration (PPM): 7.81
+06:35:09.389 Kadar CO di udara : SEDANG
+06:35:11.445 CO Concentration (PPM): 7.81
+06:35:11.445 Kadar CO di udara : SEDANG
+06:35:13.529 CO Concentration (PPM): 7.85
+06:35:13.529 Kadar CO di udara : SEDANG
+06:35:15.590 CO Concentration (PPM): 7.81
+06:35:15.590 Kadar CO di udara : SEDANG
+06:35:17.646 CO Concentration (PPM): 7.81
+06:35:17.646 Kadar CO di udara : SEDANG
+06:35:19.703 CO Concentration (PPM): 7.85
+06:35:19.703 Kadar CO di udara : SEDANG
+06:35:21.790 CO Concentration (PPM): 7.81
+06:35:21.790 Kadar CO di udara : SEDANG
+06:35:23.845 CO Concentration (PPM): 7.85
+06:35:23.846 Kadar CO di udara : SEDANG
+06:35:25.904 CO Concentration (PPM): 7.81
+06:35:25.904 Kadar CO di udara : SEDANG
+06:35:27.983 CO Concentration (PPM): 7.81
+06:35:27.983 Kadar CO di udara : SEDANG
+06:35:30.043 CO Concentration (PPM): 7.85
+06:35:30.043 Kadar CO di udara : SEDANG
+06:35:32.106 CO Concentration (PPM): 7.81
+06:35:32.106 Kadar CO di udara : SEDANG
+06:35:34.170 CO Concentration (PPM): 7.85
+06:35:34.170 Kadar CO di udara : SEDANG
+06:35:36.223 CO Concentration (PPM): 7.81
+06:35:36.223 Kadar CO di udara : SEDANG
+06:35:38.303 CO Concentration (PPM): 7.85
+06:35:38.311 Kadar CO di udara : SEDANG
+06:35:40.358 CO Concentration (PPM): 7.77
+06:35:40.360 Kadar CO di udara : SEDANG
+06:35:42.420 CO Concentration (PPM): 7.85
+06:35:42.420 Kadar CO di udara : SEDANG
+06:35:44.498 CO Concentration (PPM): 7.81
+06:35:44.498 Kadar CO di udara : SEDANG
+06:35:46.550 CO Concentration (PPM): 7.81
+06:35:46.559 Kadar CO di udara : SEDANG
+06:35:48.599 CO Concentration (PPM): 7.85
+06:35:48.618 Kadar CO di udara : SEDANG
+06:35:50.733 CO Concentration (PPM): 7.81
+06:35:50.733 Kadar CO di udara : SEDANG
+06:35:52.814 CO Concentration (PPM): 7.85
+06:35:52.814 Kadar CO di udara : SEDANG
+06:35:54.867 CO Concentration (PPM): 7.81
+06:35:54.867 Kadar CO di udara : SEDANG
+06:35:56.924 CO Concentration (PPM): 7.85
+06:35:56.924 Kadar CO di udara : SEDANG
+06:35:58.985 CO Concentration (PPM): 7.85
+06:35:58.985 Kadar CO di udara : SEDANG
+06:36:01.068 CO Concentration (PPM): 7.81
+06:36:01.068 Kadar CO di udara : SEDANG
+06:36:03.125 CO Concentration (PPM): 7.85
+06:36:03.125 Kadar CO di udara : SEDANG
+06:36:05.203 CO Concentration (PPM): 7.81
+06:36:05.203 Kadar CO di udara : SEDANG
+06:36:07.264 CO Concentration (PPM): 7.85
+06:36:07.264 Kadar CO di udara : SEDANG
+06:36:09.326 CO Concentration (PPM): 7.81
+06:36:09.326 Kadar CO di udara : SEDANG
+06:36:11.377 CO Concentration (PPM): 7.81
+06:36:11.377 Kadar CO di udara : SEDANG
+06:36:13.466 CO Concentration (PPM): 7.85
+06:36:13.466 Kadar CO di udara : SEDANG
+06:36:15.524 CO Concentration (PPM): 7.81
+06:36:15.524 Kadar CO di udara : SEDANG
+06:36:17.569 CO Concentration (PPM): 7.85
+06:36:17.576 Kadar CO di udara : SEDANG
+06:36:19.628 CO Concentration (PPM): 7.81
+06:36:19.638 Kadar CO di udara : SEDANG
+06:36:21.708 CO Concentration (PPM): 7.85
+06:36:21.717 Kadar CO di udara : SEDANG
+06:36:23.771 CO Concentration (PPM): 7.81
+06:36:23.780 Kadar CO di udara : SEDANG
+06:36:25.829 CO Concentration (PPM): 7.85
+06:36:25.836 Kadar CO di udara : SEDANG
+06:36:27.909 CO Concentration (PPM): 7.81
+06:36:27.910 Kadar CO di udara : SEDANG
+06:36:29.974 CO Concentration (PPM): 7.85
+06:36:29.975 Kadar CO di udara : SEDANG
+06:36:32.029 CO Concentration (PPM): 7.85
+06:36:32.040 Kadar CO di udara : SEDANG
+06:36:34.084 CO Concentration (PPM): 7.85
+06:36:34.090 Kadar CO di udara : SEDANG
+06:36:36.149 CO Concentration (PPM): 7.85
+06:36:36.157 Kadar CO di udara : SEDANG
+06:36:38.237 CO Concentration (PPM): 7.85
+06:36:38.237 Kadar CO di udara : SEDANG
+06:36:40.338 CO Concentration (PPM): 7.85
+06:36:40.338 Kadar CO di udara : SEDANG
+06:36:42.401 CO Concentration (PPM): 7.81
+06:36:42.401 Kadar CO di udara : SEDANG
+06:36:44.478 CO Concentration (PPM): 7.81
+06:36:44.478 Kadar CO di udara : SEDANG
+06:36:46.540 CO Concentration (PPM): 7.81
+06:36:46.540 Kadar CO di udara : SEDANG
+06:36:48.594 CO Concentration (PPM): 7.85
+06:36:48.594 Kadar CO di udara : SEDANG
+06:36:50.676 CO Concentration (PPM): 7.81
+06:36:50.676 Kadar CO di udara : SEDANG
+06:36:52.738 CO Concentration (PPM): 7.85
+06:36:52.738 Kadar CO di udara : SEDANG
+06:36:54.790 CO Concentration (PPM): 7.77
+06:36:54.790 Kadar CO di udara : SEDANG
+06:36:56.856 CO Concentration (PPM): 7.85
+06:36:56.856 Kadar CO di udara : SEDANG
+06:36:58.916 CO Concentration (PPM): 7.81
+06:36:58.916 Kadar CO di udara : SEDANG
+06:37:00.991 CO Concentration (PPM): 7.85
+06:37:00.991 Kadar CO di udara : SEDANG
+06:37:03.053 CO Concentration (PPM): 7.81
+06:37:03.053 Kadar CO di udara : SEDANG
+06:37:05.111 CO Concentration (PPM): 7.85
+06:37:05.111 Kadar CO di udara : SEDANG
+06:37:07.193 CO Concentration (PPM): 7.81
+06:37:07.193 Kadar CO di udara : SEDANG
+06:37:09.248 CO Concentration (PPM): 7.85
+06:37:09.250 Kadar CO di udara : SEDANG
+06:37:11.313 CO Concentration (PPM): 7.81
+06:37:11.313 Kadar CO di udara : SEDANG
+06:37:13.394 CO Concentration (PPM): 7.85
+06:37:13.395 Kadar CO di udara : SEDANG
+06:37:15.448 CO Concentration (PPM): 7.81
+06:37:15.449 Kadar CO di udara : SEDANG
+06:37:17.508 CO Concentration (PPM): 7.85
+06:37:17.510 Kadar CO di udara : SEDANG
+06:37:19.569 CO Concentration (PPM): 7.81
+06:37:19.570 Kadar CO di udara : SEDANG
+06:37:21.648 CO Concentration (PPM): 7.85
+06:37:21.659 Kadar CO di udara : SEDANG
+06:37:23.709 CO Concentration (PPM): 7.85
+06:37:23.711 Kadar CO di udara : SEDANG
+06:37:25.763 CO Concentration (PPM): 7.85
+06:37:25.769 Kadar CO di udara : SEDANG
+06:37:27.848 CO Concentration (PPM): 7.85
+06:37:27.849 Kadar CO di udara : SEDANG
+06:37:29.908 CO Concentration (PPM): 7.85
+06:37:29.914 Kadar CO di udara : SEDANG
+06:37:31.973 CO Concentration (PPM): 7.81
+06:37:31.976 Kadar CO di udara : SEDANG
+06:37:34.074 CO Concentration (PPM): 7.85
+06:37:34.074 Kadar CO di udara : SEDANG
+06:37:36.160 CO Concentration (PPM): 7.85
+06:37:36.160 Kadar CO di udara : SEDANG
+06:37:38.200 CO Concentration (PPM): 7.85
+06:37:38.200 Kadar CO di udara : SEDANG
+06:37:40.280 CO Concentration (PPM): 7.85
+06:37:40.280 Kadar CO di udara : SEDANG
+06:37:42.334 CO Concentration (PPM): 7.85
+06:37:42.334 Kadar CO di udara : SEDANG
+06:37:44.413 CO Concentration (PPM): 7.85
+06:37:44.413 Kadar CO di udara : SEDANG
+06:37:46.471 CO Concentration (PPM): 7.85
+06:37:46.471 Kadar CO di udara : SEDANG
+06:37:48.530 CO Concentration (PPM): 7.85
+06:37:48.530 Kadar CO di udara : SEDANG
+06:37:50.588 CO Concentration (PPM): 7.85
+06:37:50.588 Kadar CO di udara : SEDANG
+06:37:52.666 CO Concentration (PPM): 7.85
+06:37:52.666 Kadar CO di udara : SEDANG
+06:37:54.728 CO Concentration (PPM): 7.85
+06:37:54.728 Kadar CO di udara : SEDANG
+06:37:56.787 CO Concentration (PPM): 7.85
+06:37:56.789 Kadar CO di udara : SEDANG
+06:37:58.867 CO Concentration (PPM): 7.85
+06:37:58.867 Kadar CO di udara : SEDANG
+06:38:00.928 CO Concentration (PPM): 7.85
+06:38:00.928 Kadar CO di udara : SEDANG
+06:38:02.992 CO Concentration (PPM): 7.85
+06:38:02.992 Kadar CO di udara : SEDANG
+06:38:05.047 CO Concentration (PPM): 7.85
+06:38:05.048 Kadar CO di udara : SEDANG
+06:38:07.103 CO Concentration (PPM): 7.85
+06:38:07.103 Kadar CO di udara : SEDANG
+06:38:09.188 CO Concentration (PPM): 7.85
+06:38:09.189 Kadar CO di udara : SEDANG
+06:38:11.245 CO Concentration (PPM): 7.85
+06:38:11.251 Kadar CO di udara : SEDANG
+06:38:13.304 CO Concentration (PPM): 7.90
+06:38:13.305 Kadar CO di udara : SEDANG
+06:38:15.381 CO Concentration (PPM): 7.85
+06:38:15.384 Kadar CO di udara : SEDANG
+06:38:17.495 CO Concentration (PPM): 7.90
+06:38:17.495 Kadar CO di udara : SEDANG
+06:38:19.545 CO Concentration (PPM): 7.85
+06:38:19.545 Kadar CO di udara : SEDANG
+06:38:21.607 CO Concentration (PPM): 7.90
+06:38:21.607 Kadar CO di udara : SEDANG
+06:38:23.668 CO Concentration (PPM): 7.85
+06:38:23.668 Kadar CO di udara : SEDANG
+06:38:25.755 CO Concentration (PPM): 7.90
+06:38:25.755 Kadar CO di udara : SEDANG
+06:38:27.806 CO Concentration (PPM): 7.85
+06:38:27.806 Kadar CO di udara : SEDANG
+06:38:29.886 CO Concentration (PPM): 7.90
+06:38:29.886 Kadar CO di udara : SEDANG
+06:38:31.929 CO Concentration (PPM): 7.85
+06:38:31.929 Kadar CO di udara : SEDANG
+06:38:34.012 CO Concentration (PPM): 7.85
+06:38:34.012 Kadar CO di udara : SEDANG
+06:38:36.066 CO Concentration (PPM): 7.81
+06:38:36.066 Kadar CO di udara : SEDANG
+06:38:38.146 CO Concentration (PPM): 7.85
+06:38:38.146 Kadar CO di udara : SEDANG
+06:38:40.152 CO Concentration (PPM): 7.85
+06:38:40.207 Kadar CO di udara : SEDANG
+06:38:42.264 CO Concentration (PPM): 7.85
+06:38:42.264 Kadar CO di udara : SEDANG
+06:38:44.324 CO Concentration (PPM): 7.85
+06:38:44.324 Kadar CO di udara : SEDANG
+06:38:46.403 CO Concentration (PPM): 7.90
+06:38:46.403 Kadar CO di udara : SEDANG
+06:38:48.461 CO Concentration (PPM): 7.85
+06:38:48.462 Kadar CO di udara : SEDANG
+06:38:50.527 CO Concentration (PPM): 7.85
+06:38:50.527 Kadar CO di udara : SEDANG
+06:38:52.568 CO Concentration (PPM): 7.85
+06:38:52.580 Kadar CO di udara : SEDANG
+06:38:54.659 CO Concentration (PPM): 7.85
+06:38:54.660 Kadar CO di udara : SEDANG
+06:38:56.727 CO Concentration (PPM): 7.85
+06:38:56.727 Kadar CO di udara : SEDANG
+06:38:58.779 CO Concentration (PPM): 7.85
+06:38:58.784 Kadar CO di udara : SEDANG
+06:39:00.835 CO Concentration (PPM): 7.85
+06:39:00.842 Kadar CO di udara : SEDANG
+06:39:02.918 CO Concentration (PPM): 7.85
+06:39:02.919 Kadar CO di udara : SEDANG
+06:39:04.921 CO Concentration (PPM): 7.85
+06:39:04.986 Kadar CO di udara : SEDANG
+06:39:07.096 CO Concentration (PPM): 7.85
+06:39:07.096 Kadar CO di udara : SEDANG
+06:39:09.172 CO Concentration (PPM): 7.90
+06:39:09.172 Kadar CO di udara : SEDANG
+06:39:11.227 CO Concentration (PPM): 7.85
+06:39:11.227 Kadar CO di udara : SEDANG
+06:39:13.283 CO Concentration (PPM): 7.90
+06:39:13.283 Kadar CO di udara : SEDANG
+06:39:15.368 CO Concentration (PPM): 7.85
+06:39:15.368 Kadar CO di udara : SEDANG
+06:39:17.426 CO Concentration (PPM): 7.90
+06:39:17.426 Kadar CO di udara : SEDANG
+06:39:19.481 CO Concentration (PPM): 7.81
+06:39:19.481 Kadar CO di udara : SEDANG
+06:39:21.541 CO Concentration (PPM): 7.85
+06:39:21.541 Kadar CO di udara : SEDANG
+06:39:23.605 CO Concentration (PPM): 7.85
+06:39:23.605 Kadar CO di udara : SEDANG
+06:39:25.686 CO Concentration (PPM): 7.90
+06:39:25.686 Kadar CO di udara : SEDANG
+06:39:27.744 CO Concentration (PPM): 7.85
+06:39:27.744 Kadar CO di udara : SEDANG
+06:39:29.877 CO Concentration (PPM): 7.90
+06:39:29.877 Kadar CO di udara : SEDANG
+06:39:31.883 CO Concentration (PPM): 7.85
+06:39:31.883 Kadar CO di udara : SEDANG
+06:39:33.942 CO Concentration (PPM): 7.90
+06:39:33.943 Kadar CO di udara : SEDANG
+06:39:36.007 CO Concentration (PPM): 7.85
+06:39:36.007 Kadar CO di udara : SEDANG
+06:39:38.081 CO Concentration (PPM): 7.90
+06:39:38.081 Kadar CO di udara : SEDANG
+06:39:40.137 CO Concentration (PPM): 7.85
+06:39:40.137 Kadar CO di udara : SEDANG
+06:39:42.189 CO Concentration (PPM): 7.90
+06:39:42.189 Kadar CO di udara : SEDANG
+06:39:44.257 CO Concentration (PPM): 7.85
+06:39:44.257 Kadar CO di udara : SEDANG
+06:39:46.337 CO Concentration (PPM): 7.90
+06:39:46.337 Kadar CO di udara : SEDANG
+06:39:48.402 CO Concentration (PPM): 7.85
+06:39:48.402 Kadar CO di udara : SEDANG
+06:39:50.448 CO Concentration (PPM): 7.90
+06:39:50.450 Kadar CO di udara : SEDANG
+06:39:52.516 CO Concentration (PPM): 7.85
+06:39:52.518 Kadar CO di udara : SEDANG
+06:39:54.595 CO Concentration (PPM): 7.85
+06:39:54.595 Kadar CO di udara : SEDANG
+06:39:56.650 CO Concentration (PPM): 7.85
+06:39:56.652 Kadar CO di udara : SEDANG
+06:39:58.763 CO Concentration (PPM): 7.85
+06:39:58.763 Kadar CO di udara : SEDANG
+06:40:00.824 CO Concentration (PPM): 7.85
+06:40:00.824 Kadar CO di udara : SEDANG
+06:40:02.901 CO Concentration (PPM): 7.90
+06:40:02.901 Kadar CO di udara : SEDANG
+06:40:04.960 CO Concentration (PPM): 7.85
+06:40:04.960 Kadar CO di udara : SEDANG
+06:40:07.019 CO Concentration (PPM): 7.90
+06:40:07.019 Kadar CO di udara : SEDANG
+06:40:09.101 CO Concentration (PPM): 7.85
+06:40:09.101 Kadar CO di udara : SEDANG
+06:40:11.158 CO Concentration (PPM): 7.90
+06:40:11.158 Kadar CO di udara : SEDANG
+06:40:13.212 CO Concentration (PPM): 7.85
+06:40:13.212 Kadar CO di udara : SEDANG
+06:40:15.298 CO Concentration (PPM): 7.90
+06:40:15.298 Kadar CO di udara : SEDANG
+06:40:17.354 CO Concentration (PPM): 7.85
+06:40:17.354 Kadar CO di udara : SEDANG
+06:40:19.414 CO Concentration (PPM): 7.90
+06:40:19.414 Kadar CO di udara : SEDANG
+06:40:21.475 CO Concentration (PPM): 7.85
+06:40:21.476 Kadar CO di udara : SEDANG
+06:40:23.537 CO Concentration (PPM): 7.90
+06:40:23.537 Kadar CO di udara : SEDANG
+06:40:25.613 CO Concentration (PPM): 7.85
+06:40:25.621 Kadar CO di udara : SEDANG
+06:40:27.665 CO Concentration (PPM): 7.90
+06:40:27.673 Kadar CO di udara : SEDANG
+06:40:29.717 CO Concentration (PPM): 7.85
+06:40:29.727 Kadar CO di udara : SEDANG
+06:40:31.778 CO Concentration (PPM): 7.90
+06:40:31.785 Kadar CO di udara : SEDANG
+06:40:33.857 CO Concentration (PPM): 7.85
+06:40:33.867 Kadar CO di udara : SEDANG
+06:40:35.919 CO Concentration (PPM): 7.90
+06:40:35.927 Kadar CO di udara : SEDANG
+06:40:37.934 CO Concentration (PPM): 7.85
+06:40:37.997 Kadar CO di udara : SEDANG
+06:40:40.043 CO Concentration (PPM): 7.90
+06:40:40.053 Kadar CO di udara : SEDANG
+06:40:42.119 CO Concentration (PPM): 7.90
+06:40:42.127 Kadar CO di udara : SEDANG
+06:40:44.226 CO Concentration (PPM): 7.90
+06:40:44.226 Kadar CO di udara : SEDANG
+06:40:46.288 CO Concentration (PPM): 7.90
+06:40:46.288 Kadar CO di udara : SEDANG
+06:40:48.375 CO Concentration (PPM): 7.90
+06:40:48.375 Kadar CO di udara : SEDANG
+06:40:50.438 CO Concentration (PPM): 7.90
+06:40:50.438 Kadar CO di udara : SEDANG
+06:40:52.488 CO Concentration (PPM): 7.90
+06:40:52.488 Kadar CO di udara : SEDANG
+06:40:54.551 CO Concentration (PPM): 7.94
+06:40:54.551 Kadar CO di udara : SEDANG
+06:40:56.627 CO Concentration (PPM): 7.85
+06:40:56.627 Kadar CO di udara : SEDANG
+06:40:58.690 CO Concentration (PPM): 7.94
+06:40:58.690 Kadar CO di udara : SEDANG
+06:41:00.746 CO Concentration (PPM): 7.90
+06:41:00.746 Kadar CO di udara : SEDANG
+06:41:02.824 CO Concentration (PPM): 7.90
+06:41:02.824 Kadar CO di udara : SEDANG
+06:41:04.887 CO Concentration (PPM): 7.90
+06:41:04.887 Kadar CO di udara : SEDANG
+06:41:07.154 CO Concentration (PPM): 7.94
+06:41:07.154 Kadar CO di udara : SEDANG
+06:41:09.003 CO Concentration (PPM): 7.90
+06:41:09.006 Kadar CO di udara : SEDANG
+06:41:11.088 CO Concentration (PPM): 7.94
+06:41:11.088 Kadar CO di udara : SEDANG
+06:41:13.142 CO Concentration (PPM): 7.85
+06:41:13.144 Kadar CO di udara : SEDANG
+06:41:15.206 CO Concentration (PPM): 7.94
+06:41:15.211 Kadar CO di udara : SEDANG
+06:41:17.283 CO Concentration (PPM): 7.85
+06:41:17.284 Kadar CO di udara : SEDANG
+06:41:19.344 CO Concentration (PPM): 7.94
+06:41:19.348 Kadar CO di udara : SEDANG
+06:41:21.405 CO Concentration (PPM): 7.85
+06:41:21.405 Kadar CO di udara : SEDANG
+06:41:23.459 CO Concentration (PPM): 7.94
+06:41:23.464 Kadar CO di udara : SEDANG
+06:41:25.546 CO Concentration (PPM): 7.90
+06:41:25.546 Kadar CO di udara : SEDANG
+06:41:27.597 CO Concentration (PPM): 7.94
+06:41:27.602 Kadar CO di udara : SEDANG
+06:41:29.659 CO Concentration (PPM): 7.90
+06:41:29.666 Kadar CO di udara : SEDANG
+06:41:31.718 CO Concentration (PPM): 7.94
+06:41:31.725 Kadar CO di udara : SEDANG
+06:41:33.856 CO Concentration (PPM): 7.90
+06:41:33.856 Kadar CO di udara : SEDANG
+06:41:35.910 CO Concentration (PPM): 7.94
+06:41:35.910 Kadar CO di udara : SEDANG
+06:41:37.964 CO Concentration (PPM): 7.90
+06:41:37.964 Kadar CO di udara : SEDANG
+06:41:40.048 CO Concentration (PPM): 7.94
+06:41:40.048 Kadar CO di udara : SEDANG
+06:41:42.111 CO Concentration (PPM): 7.90
+06:41:42.111 Kadar CO di udara : SEDANG
+06:41:44.167 CO Concentration (PPM): 7.94
+06:41:44.167 Kadar CO di udara : SEDANG
+06:41:46.228 CO Concentration (PPM): 7.90
+06:41:46.228 Kadar CO di udara : SEDANG
+06:41:48.308 CO Concentration (PPM): 7.90
+06:41:48.308 Kadar CO di udara : SEDANG
+06:41:50.361 CO Concentration (PPM): 7.90
+06:41:50.361 Kadar CO di udara : SEDANG
+06:41:52.427 CO Concentration (PPM): 7.90
+06:41:52.427 Kadar CO di udara : SEDANG
+06:41:54.433 CO Concentration (PPM): 7.90
+06:41:54.433 Kadar CO di udara : SEDANG
+06:41:56.563 CO Concentration (PPM): 7.90
+06:41:56.563 Kadar CO di udara : SEDANG
+06:41:58.622 CO Concentration (PPM): 7.90
+06:41:58.623 Kadar CO di udara : SEDANG
+06:42:00.690 CO Concentration (PPM): 7.90
+06:42:00.690 Kadar CO di udara : SEDANG
+06:42:02.740 CO Concentration (PPM): 7.90
+06:42:02.740 Kadar CO di udara : SEDANG
+06:42:04.819 CO Concentration (PPM): 7.94
+06:42:04.821 Kadar CO di udara : SEDANG
+06:42:06.882 CO Concentration (PPM): 7.90
+06:42:06.882 Kadar CO di udara : SEDANG
+06:42:08.940 CO Concentration (PPM): 7.94
+06:42:08.940 Kadar CO di udara : SEDANG
+06:42:10.998 CO Concentration (PPM): 7.90
+06:42:10.998 Kadar CO di udara : SEDANG
+06:42:13.079 CO Concentration (PPM): 7.94
+06:42:13.083 Kadar CO di udara : SEDANG
+06:42:15.144 CO Concentration (PPM): 7.90
+06:42:15.148 Kadar CO di udara : SEDANG
+06:42:17.194 CO Concentration (PPM): 7.94
+06:42:17.196 Kadar CO di udara : SEDANG
+06:42:19.279 CO Concentration (PPM): 7.90
+06:42:19.279 Kadar CO di udara : SEDANG
+06:42:21.382 CO Concentration (PPM): 7.94
+06:42:21.382 Kadar CO di udara : SEDANG
+06:42:23.446 CO Concentration (PPM): 7.90
+06:42:23.446 Kadar CO di udara : SEDANG
+06:42:25.505 CO Concentration (PPM): 7.94
+06:42:25.505 Kadar CO di udara : SEDANG
+06:42:27.568 CO Concentration (PPM): 7.90
+06:42:27.568 Kadar CO di udara : SEDANG
+06:42:29.645 CO Concentration (PPM): 7.94
+06:42:29.645 Kadar CO di udara : SEDANG
+06:42:31.699 CO Concentration (PPM): 7.90
+06:42:31.699 Kadar CO di udara : SEDANG
+06:42:33.759 CO Concentration (PPM): 7.94
+06:42:33.759 Kadar CO di udara : SEDANG
+06:42:35.847 CO Concentration (PPM): 7.90
+06:42:35.847 Kadar CO di udara : SEDANG
+06:42:37.898 CO Concentration (PPM): 7.94
+06:42:37.898 Kadar CO di udara : SEDANG
+06:42:39.960 CO Concentration (PPM): 7.85
+06:42:39.960 Kadar CO di udara : SEDANG
+06:42:42.041 CO Concentration (PPM): 7.94
+06:42:42.041 Kadar CO di udara : SEDANG
+06:42:44.098 CO Concentration (PPM): 7.85
+06:42:44.098 Kadar CO di udara : SEDANG
+06:42:46.160 CO Concentration (PPM): 7.94
+06:42:46.160 Kadar CO di udara : SEDANG
+06:42:48.217 CO Concentration (PPM): 7.90
+06:42:48.218 Kadar CO di udara : SEDANG
+06:42:50.244 CO Concentration (PPM): 7.94
+06:42:50.273 Kadar CO di udara : SEDANG
+06:42:52.362 CO Concentration (PPM): 7.94
+06:42:52.362 Kadar CO di udara : SEDANG
+06:42:54.417 CO Concentration (PPM): 7.94
+06:42:54.417 Kadar CO di udara : SEDANG
+06:42:56.473 CO Concentration (PPM): 7.94
+06:42:56.474 Kadar CO di udara : SEDANG
+06:42:58.552 CO Concentration (PPM): 7.94
+06:42:58.552 Kadar CO di udara : SEDANG
+06:43:00.613 CO Concentration (PPM): 7.90
+06:43:00.613 Kadar CO di udara : SEDANG
+06:43:02.673 CO Concentration (PPM): 7.94
+06:43:02.677 Kadar CO di udara : SEDANG
+06:43:04.752 CO Concentration (PPM): 7.90
+06:43:04.753 Kadar CO di udara : SEDANG
+06:43:06.817 CO Concentration (PPM): 7.94
+06:43:06.818 Kadar CO di udara : SEDANG
+06:43:08.920 CO Concentration (PPM): 7.94
+06:43:08.920 Kadar CO di udara : SEDANG
+06:43:10.979 CO Concentration (PPM): 7.94
+06:43:10.979 Kadar CO di udara : SEDANG
+06:43:13.065 CO Concentration (PPM): 7.94
+06:43:13.065 Kadar CO di udara : SEDANG
+06:43:15.129 CO Concentration (PPM): 7.90
+06:43:15.129 Kadar CO di udara : SEDANG
+06:43:17.179 CO Concentration (PPM): 7.94
+06:43:17.179 Kadar CO di udara : SEDANG
+06:43:19.267 CO Concentration (PPM): 7.90
+06:43:19.267 Kadar CO di udara : SEDANG
+06:43:21.316 CO Concentration (PPM): 7.90
+06:43:21.316 Kadar CO di udara : SEDANG
+06:43:23.378 CO Concentration (PPM): 7.90
+06:43:23.378 Kadar CO di udara : SEDANG
+06:43:25.434 CO Concentration (PPM): 7.94
+06:43:25.434 Kadar CO di udara : SEDANG
+06:43:27.517 CO Concentration (PPM): 7.90
+06:43:27.517 Kadar CO di udara : SEDANG
+06:43:29.579 CO Concentration (PPM): 7.94
+06:43:29.579 Kadar CO di udara : SEDANG
+06:43:31.633 CO Concentration (PPM): 7.90
+06:43:31.633 Kadar CO di udara : SEDANG
+06:43:33.692 CO Concentration (PPM): 7.94
+06:43:33.692 Kadar CO di udara : SEDANG
+06:43:35.772 CO Concentration (PPM): 7.90
+06:43:35.772 Kadar CO di udara : SEDANG
+06:43:37.831 CO Concentration (PPM): 7.90
+06:43:37.831 Kadar CO di udara : SEDANG
+06:43:39.894 CO Concentration (PPM): 7.94
+06:43:39.895 Kadar CO di udara : SEDANG
+06:43:41.974 CO Concentration (PPM): 7.90
+06:43:41.975 Kadar CO di udara : SEDANG
+06:43:44.034 CO Concentration (PPM): 7.94
+06:43:44.034 Kadar CO di udara : SEDANG
+06:43:46.095 CO Concentration (PPM): 7.85
+06:43:46.095 Kadar CO di udara : SEDANG
+06:43:48.149 CO Concentration (PPM): 7.94
+06:43:48.149 Kadar CO di udara : SEDANG
+06:43:50.234 CO Concentration (PPM): 7.90
+06:43:50.234 Kadar CO di udara : SEDANG
+06:43:52.284 CO Concentration (PPM): 7.94
+06:43:52.287 Kadar CO di udara : SEDANG
+06:43:54.347 CO Concentration (PPM): 7.90
+06:43:54.358 Kadar CO di udara : SEDANG
+06:43:56.407 CO Concentration (PPM): 7.94
+06:43:56.418 Kadar CO di udara : SEDANG
+06:43:58.470 CO Concentration (PPM): 7.90
+06:43:58.474 Kadar CO di udara : SEDANG
+06:44:00.549 CO Concentration (PPM): 7.94
+06:44:00.549 Kadar CO di udara : SEDANG
+06:44:02.658 CO Concentration (PPM): 7.90
+06:44:02.658 Kadar CO di udara : SEDANG
+06:44:04.738 CO Concentration (PPM): 7.94
+06:44:04.738 Kadar CO di udara : SEDANG
+06:44:06.799 CO Concentration (PPM): 7.90
+06:44:06.799 Kadar CO di udara : SEDANG
+06:44:08.853 CO Concentration (PPM): 7.94
+06:44:08.853 Kadar CO di udara : SEDANG
+06:44:10.909 CO Concentration (PPM): 7.85
+06:44:10.909 Kadar CO di udara : SEDANG
+06:44:12.997 CO Concentration (PPM): 7.94
+06:44:12.997 Kadar CO di udara : SEDANG
+06:44:15.049 CO Concentration (PPM): 7.90
+06:44:15.049 Kadar CO di udara : SEDANG
+06:44:17.113 CO Concentration (PPM): 7.94
+06:44:17.113 Kadar CO di udara : SEDANG
+06:44:19.190 CO Concentration (PPM): 7.90
+06:44:19.190 Kadar CO di udara : SEDANG
+06:44:21.250 CO Concentration (PPM): 7.90
+06:44:21.250 Kadar CO di udara : SEDANG
+06:44:23.313 CO Concentration (PPM): 7.90
+06:44:23.313 Kadar CO di udara : SEDANG
+06:44:25.364 CO Concentration (PPM): 7.90
+06:44:25.365 Kadar CO di udara : SEDANG
+06:44:27.448 CO Concentration (PPM): 7.94
+06:44:27.448 Kadar CO di udara : SEDANG
+06:44:29.506 CO Concentration (PPM): 7.90
+06:44:29.506 Kadar CO di udara : SEDANG
+06:44:31.569 CO Concentration7.94
+06:44:31.570 Kadar CO di udara : SEDANG
+06:44:33.625 CO Concentration (PPM): 7.90
+06:44:33.626 Kadar CO di udara : SEDANG
+06:44:35.707 CO Concentration (PPM): 7.94
+06:44:35.708 Kadar CO di udara : SEDANG
+06:44:37.764 CO Concentration (PPM): 7.90
+06:44:37.764 Kadar CO di udara : SEDANG
+06:44:39.826 CO Concentration (PPM): 7.94
+06:44:39.827 Kadar CO di udara : SEDANG
+06:44:41.906 CO Concentration (PPM): 7.90
+06:44:41.914 Kadar CO di udara : SEDANG
+06:44:43.956 CO Concentration (PPM): 7.94
+06:44:43.965 Kadar CO di udara : SEDANG
+06:44:46.017 CO Concentration (PPM): 7.90
+06:44:46.030 Kadar CO di udara : SEDANG
+06:44:48.072 CO Concentration (PPM): 7.94
+06:44:48.083 Kadar CO di udara : SEDANG
+06:44:50.183 CO Concentration (PPM): 7.90
+06:44:50.183 Kadar CO di udara : SEDANG
+06:44:52.263 CO Concentration (PPM): 7.90
+06:44:52.263 Kadar CO di udara : SEDANG
+06:44:54.325 CO Concentration (PPM): 7.94
+06:44:54.325 Kadar CO di udara : SEDANG
+06:44:56.379 CO Concentration (PPM): 7.90
+06:44:56.379 Kadar CO di udara : SEDANG
+06:44:58.466 CO Concentration (PPM): 7.94
+06:44:58.466 Kadar CO di udara : SEDANG
+06:45:00.477 CO Concentration (PPM): 7.90
+06:45:00.477 Kadar CO di udara : SEDANG
+06:45:02.587 CO Concentration (PPM): 7.90
+06:45:02.587 Kadar CO di udara : SEDANG
+06:45:04.642 CO Concentration (PPM): 7.90
+06:45:04.642 Kadar CO di udara : SEDANG
+06:45:06.726 CO Concentration (PPM): 7.90
+06:45:06.726 Kadar CO di udara : SEDANG
+06:45:08.782 CO Concentration (PPM): 7.94
+06:45:08.782 Kadar CO di udara : SEDANG
+06:45:10.847 CO Concentration (PPM): 7.90
+06:45:10.847 Kadar CO di udara : SEDANG
+06:45:12.903 CO Concentration (PPM): 7.94
+06:45:12.903 Kadar CO di udara : SEDANG
+06:45:14.986 CO Concentration (PPM): 7.90
+06:45:14.986 Kadar CO di udara : SEDANG
+06:45:17.041 CO Concentration (PPM): 7.94
+06:45:17.041 Kadar CO di udara : SEDANG
+06:45:19.098 CO Concentration (PPM): 7.90
+06:45:19.101 Kadar CO di udara : SEDANG
+06:45:21.180 CO Concentration (PPM): 7.94
+06:45:21.184 Kadar CO di udara : SEDANG
+06:45:23.242 CO Concentration (PPM): 7.94
+06:45:23.247 Kadar CO di udara : SEDANG
+06:45:25.304 CO Concentration (PPM): 7.94
+06:45:25.304 Kadar CO di udara : SEDANG
+06:45:27.382 CO Concentration (PPM): 7.94
+06:45:27.382 Kadar CO di udara : SEDANG
+06:45:29.423 CO Concentration (PPM): 7.90
+06:45:29.427 Kadar CO di udara : SEDANG
+06:45:31.495 CO Concentration (PPM): 7.94
+06:45:31.497 Kadar CO di udara : SEDANG
+06:45:33.599 CO Concentration (PPM): 7.94
+06:45:33.600 Kadar CO di udara : SEDANG
+06:45:35.618 CO Concentration (PPM): 7.94
+06:45:35.626 Kadar CO di udara : SEDANG
+06:45:37.694 CO Concentration (PPM): 7.90
+06:45:37.700 Kadar CO di udara : SEDANG
+06:45:39.760 CO Concentration (PPM): 7.94
+06:45:39.762 Kadar CO di udara : SEDANG
+06:45:41.834 CO Concentration (PPM): 7.90
+06:45:41.838 Kadar CO di udara : SEDANG
+06:45:43.899 CO Concentration (PPM): 7.94
+06:45:43.902 Kadar CO di udara : SEDANG
+06:45:46.001 CO Concentration (PPM): 7.90
+06:45:46.001 Kadar CO di udara : SEDANG
+06:45:48.063 CO Concentration (PPM): 7.94
+06:45:48.063 Kadar CO di udara : SEDANG
+06:45:50.139 CO Concentration (PPM): 7.90
+06:45:50.139 Kadar CO di udara : SEDANG
+06:45:52.204 CO Concentration (PPM): 7.94
+06:45:52.204 Kadar CO di udara : SEDANG
+06:45:54.208 CO Concentration (PPM): 7.94
+06:45:54.208 Kadar CO di udara : SEDANG
+06:45:56.322 CO Concentration (PPM): 7.94
+06:45:56.322 Kadar CO di udara : SEDANG
+06:45:58.405 CO Concentration (PPM): 7.94
+06:45:58.405 Kadar CO di udara : SEDANG
+06:46:00.461 CO Concentration (PPM): 7.90
+06:46:00.461 Kadar CO di udara : SEDANG
+06:46:02.516 CO Concentration (PPM): 7.94
+06:46:02.516 Kadar CO di udara : SEDANG
+06:46:04.579 CO Concentration (PPM): 7.94
+06:46:04.579 Kadar CO di udara : SEDANG
+06:46:06.658 CO Concentration (PPM): 7.90
+06:46:06.658 Kadar CO di udara : SEDANG
+06:46:08.715 CO Concentration (PPM): 7.94
+06:46:08.722 Kadar CO di udara : SEDANG
+06:46:10.778 CO Concentration (PPM): 7.90
+06:46:10.779 Kadar CO di udara : SEDANG
+06:46:12.833 CO Concentration (PPM): 7.94
+06:46:12.833 Kadar CO di udara : SEDANG
+06:46:14.918 CO Concentration (PPM): 7.90
+06:46:14.919 Kadar CO di udara : SEDANG
+06:46:16.971 CO Concentration (PPM): 7.94
+06:46:16.978 Kadar CO di udara : SEDANG
+06:46:19.031 CO Concentration (PPM): 7.94
+06:46:19.032 Kadar CO di udara : SEDANG
+06:46:21.095 CO Concentration (PPM): 7.94
+06:46:21.099 Kadar CO di udara : SEDANG
+06:46:23.181 CO Concentration (PPM): 7.94
+06:46:23.181 Kadar CO di udara : SEDANG
+06:46:25.232 CO Concentration (PPM): 7.85
+06:46:25.235 Kadar CO di udara : SEDANG
+06:46:27.307 CO Concentration (PPM): 7.94
+06:46:27.308 Kadar CO di udara : SEDANG
+06:46:29.373 CO Concentration (PPM): 7.90
+06:46:29.374 Kadar CO di udara : SEDANG
+06:46:31.482 CO Concentration (PPM): 7.94
+06:46:31.482 Kadar CO di udara : SEDANG
+06:46:33.537 CO Concentration (PPM): 7.94
+06:46:33.537 Kadar CO di udara : SEDANG
+06:46:35.602 CO Concentration (PPM): 7.94
+06:46:35.602 Kadar CO di udara : SEDANG
+06:46:37.682 CO Concentration (PPM): 7.94
+06:46:37.682 Kadar CO di udara : SEDANG
+06:46:39.737 CO Concentration (PPM): 7.90
+06:46:39.737 Kadar CO di udara : SEDANG
+06:46:41.798 CO Concentration (PPM): 7.94
+06:46:41.798 Kadar CO di udara : SEDANG
+06:46:43.877 CO Concentration (PPM): 7.90
+06:46:43.877 Kadar CO di udara : SEDANG
+06:46:45.936 CO Concentration (PPM): 7.94
+06:46:45.936 Kadar CO di udara : SEDANG
+06:46:47.997 CO Concentration (PPM): 7.94
+06:46:47.997 Kadar CO di udara : SEDANG
+06:46:50.053 CO Concentration (PPM): 7.94
+06:46:50.053 Kadar CO di udara : SEDANG
+06:46:52.135 CO Concentration (PPM): 7.94
+06:46:52.135 Kadar CO di udara : SEDANG
+06:46:54.187 CO Concentration (PPM): 7.90
+06:46:54.191 Kadar CO di udara : SEDANG
+06:46:56.249 CO Concentration (PPM): 7.94
+06:46:56.250 Kadar CO di udara : SEDANG
+06:46:58.310 CO Concentration (PPM): 7.90
+06:46:58.310 Kadar CO di udara : SEDANG
+06:47:00.390 CO Concentration (PPM): 7.94
+06:47:00.390 Kadar CO di udara : SEDANG
+06:47:02.448 CO Concentration (PPM): 7.90
+06:47:02.449 Kadar CO di udara : SEDANG
+06:47:04.508 CO Concentration (PPM): 7.94
+06:47:04.509 Kadar CO di udara : SEDANG
+06:47:06.572 CO Concentration (PPM): 7.90
+06:47:06.572 Kadar CO di udara : SEDANG
+06:47:08.651 CO Concentration (PPM): 7.94
+06:47:08.653 Kadar CO di udara : SEDANG
+06:47:10.710 CO Concentration (PPM): 7.94
+06:47:10.715 Kadar CO di udara : SEDANG
+06:47:12.764 CO Concentration (PPM): 7.94
+06:47:12.766 Kadar CO di udara : SEDANG
+06:47:14.899 CO Concentration (PPM): 7.94
+06:47:14.899 Kadar CO di udara : SEDANG
+06:47:16.954 CO Concentration (PPM): 7.90
+06:47:16.954 Kadar CO di udara : SEDANG
+06:47:19.014 CO Concentration (PPM): 7.94
+06:47:19.014 Kadar CO di udara : SEDANG
+06:47:21.070 CO Concentration (PPM): 7.94
+06:47:21.070 Kadar CO di udara : SEDANG
+06:47:23.159 CO Concentration (PPM): 7.90
+06:47:23.159 Kadar CO di udara : SEDANG
+06:47:25.216 CO Concentration (PPM): 7.94
+06:47:25.216 Kadar CO di udara : SEDANG
+06:47:27.269 CO Concentration (PPM): 7.90
+06:47:27.269 Kadar CO di udara : SEDANG
+06:47:29.352 CO Concentration (PPM): 7.94
+06:47:29.352 Kadar CO di udara : SEDANG
+06:47:31.413 CO Concentration (PPM): 7.90
+06:47:31.413 Kadar CO di udara : SEDANG
+06:47:33.469 CO Concentration (PPM): 7.94
+06:47:33.469 Kadar CO di udara : SEDANG
+06:47:35.530 CO Concentration (PPM): 7.90
+06:47:35.530 Kadar CO di udara : SEDANG
+06:47:37.612 CO Concentration (PPM): 7.94
+06:47:37.612 Kadar CO di udara : SEDANG
+06:47:39.669 CO Concentration (PPM): 7.90
+06:47:39.669 Kadar CO di udara : SEDANG
+06:47:41.729 CO Concentration (PPM): 7.94
+06:47:41.729 Kadar CO di udara : SEDANG
+06:47:43.807 CO Concentration (PPM): 7.90
+06:47:43.807 Kadar CO di udara : SEDANG
+06:47:45.867 CO Concentration (PPM): 7.90
+06:47:45.867 Kadar CO di udara : SEDANG
+06:47:47.922 CO Concentration (PPM): 7.94
+06:47:47.925 Kadar CO di udara : SEDANG
+06:47:49.981 CO Concentration (PPM): 7.94
+06:47:49.982 Kadar CO di udara : SEDANG
+06:47:52.047 CO Concentration (PPM): 7.94
+06:47:52.047 Kadar CO di udara : SEDANG
+06:47:54.123 CO Concentration (PPM): 7.94
+06:47:54.123 Kadar CO di udara : SEDANG
+06:47:56.183 CO Concentration (PPM): 7.94
+06:47:56.188 Kadar CO di udara : SEDANG
+06:47:58.244 CO Concentration (PPM): 7.94
+06:47:58.246 Kadar CO di udara : SEDANG
+06:48:00.322 CO Concentration (PPM): 7.94
+06:48:00.324 Kadar CO di udara : SEDANG
+06:48:02.387 CO Concentration (PPM): 7.94
+06:48:02.388 Kadar CO di udara : SEDANG
+06:48:04.449 CO Concentration (PPM): 7.94
+06:48:04.450 Kadar CO di udara : SEDANG
+06:48:06.500 CO Concentration (PPM): 7.94
+06:48:06.500 Kadar CO di udara : SEDANG
+06:48:08.636 CO Concentration (PPM): 7.94
+06:48:08.636 Kadar CO di udara : SEDANG
+06:48:10.697 CO Concentration (PPM): 7.94
+06:48:10.697 Kadar CO di udara : SEDANG
+06:48:12.754 CO Concentration (PPM): 7.94
+06:48:12.754 Kadar CO di udara : SEDANG
+06:48:14.809 CO Concentration (PPM): 7.94
+06:48:14.809 Kadar CO di udara : SEDANG
+06:48:16.890 CO Concentration (PPM): 7.94
+06:48:16.890 Kadar CO di udara : SEDANG
+06:48:18.951 CO Concentration (PPM): 7.94
+06:48:18.951 Kadar CO di udara : SEDANG
+06:48:21.007 CO Concentration (PPM): 7.90
+06:48:21.007 Kadar CO di udara : SEDANG
+06:48:23.089 CO Concentration (PPM): 7.94
+06:48:23.089 Kadar CO di udara : SEDANG
+06:48:25.150 CO Concentration (PPM): 7.94
+06:48:25.150 Kadar CO di udara : SEDANG
+06:48:27.204 CO Concentration (PPM): 7.94
+06:48:27.204 Kadar CO di udara : SEDANG
+06:48:29.267 CO Concentration (PPM): 7.94
+06:48:29.267 Kadar CO di udara : SEDANG
+06:48:31.347 CO Concentration (PPM): 7.94
+06:48:31.347 Kadar CO di udara : SEDANG
+06:48:33.405 CO Concentration (PPM): 7.94
+06:48:33.405 Kadar CO di udara : SEDANG
+06:48:35.464 CO Concentration (PPM): 7.94
+06:48:35.465 Kadar CO di udara : SEDANG
+06:48:37.543 CO Concentration (PPM): 7.94
+06:48:37.543 Kadar CO di udara : SEDANG
+06:48:39.604 CO Concentration (PPM): 7.94
+06:48:39.604 Kadar CO di udara : SEDANG
+06:48:41.667 CO Concentration (PPM): 7.94
+06:48:41.667 Kadar CO di udara : SEDANG
+06:48:43.719 CO Concentration (PPM): 7.90
+06:48:43.720 Kadar CO di udara : SEDANG
+06:48:45.803 CO Concentration (PPM): 7.94
+06:48:45.804 Kadar CO di udara : SEDANG
+06:48:47.864 CO Concentration (PPM): 7.90
+06:48:47.868 Kadar CO di udara : SEDANG
+06:48:49.861 CO Concentration (PPM): 7.94
+06:48:49.920 Kadar CO di udara : SEDANG
+06:48:51.978 CO Concentration (PPM): 7.90
+06:48:51.979 Kadar CO di udara : SEDANG
+06:48:54.165 CO Concentration (PPM): 7.94
+06:48:54.165 Kadar CO di udara : SEDANG
+06:48:56.173 CO Concentration (PPM): 7.90
+06:48:56.173 Kadar CO di udara : SEDANG
+06:48:58.166 CO Concentration (PPM): 7.94
+06:48:58.166 Kadar CO di udara : SEDANG
+06:49:00.273 CO Concentration (PPM): 7.90
+06:49:00.273 Kadar CO di udara : SEDANG
+06:49:02.316 CO Concentration (PPM): 7.94
+06:49:02.316 Kadar CO di udara : SEDANG
+06:49:04.363 CO Concentration (PPM): 7.94
+06:49:04.363 Kadar CO di udara : SEDANG
+06:49:06.473 CO Concentration (PPM): 7.94
+06:49:06.473 Kadar CO di udara : SEDANG
+06:49:08.555 CO Concentration (PPM): 7.90
+06:49:08.555 Kadar CO di udara : SEDANG
+06:49:10.613 CO Concentration (PPM): 7.94
+06:49:10.613 Kadar CO di udara : SEDANG
+06:49:12.674 CO Concentration (PPM): 7.94
+06:49:12.674 Kadar CO di udara : SEDANG
+06:49:14.729 CO Concentration (PPM): 7.94
+06:49:14.729 Kadar CO di udara : SEDANG
+06:49:16.793 CO Concentration (PPM): 7.94
+06:49:16.796 Kadar CO di udara : SEDANG
+06:49:18.878 CO Concentration (PPM): 7.94
+06:49:18.882 Kadar CO di udara : SEDANG
+06:49:20.930 CO Concentration (PPM): 7.94
+06:49:20.930 Kadar CO di udara : SEDANG
+06:49:22.994 CO Concentration (PPM): 7.94
+06:49:22.998 Kadar CO di udara : SEDANG
+06:49:25.073 CO Concentration (PPM): 7.94
+06:49:25.075 Kadar CO di udara : SEDANG
+06:49:27.132 CO Concentration (PPM): 7.94
+06:49:27.135 Kadar CO di udara : SEDANG
+06:49:29.193 CO Concentration (PPM): 7.94
+06:49:29.197 Kadar CO di udara : SEDANG
+06:49:31.247 CO Concentration (PPM): 7.94
+06:49:31.252 Kadar CO di udara : SEDANG
+06:49:33.332 CO Concentration (PPM): 7.94
+06:49:33.332 Kadar CO di udara : SEDANG
+06:49:35.393 CO Concentration (PPM): 7.94
+06:49:35.401 Kadar CO di udara : SEDANG
+06:49:37.450 CO Concentration (PPM): 7.94
+06:49:37.453 Kadar CO di udara : SEDANG
+06:49:39.532 CO Concentration (PPM): 7.94
+06:49:39.532 Kadar CO di udara : SEDANG
+06:49:41.644 CO Concentration (PPM): 7.94
+06:49:41.644 Kadar CO di udara : SEDANG
+06:49:43.699 CO Concentration (PPM): 7.94
+06:49:43.699 Kadar CO di udara : SEDANG
+06:49:45.761 CO Concentration (PPM): 7.94
+06:49:45.761 Kadar CO di udara : SEDANG
+06:49:47.839 CO Concentration (PPM): 7.94
+06:49:47.839 Kadar CO di udara : SEDANG
+06:49:49.900 CO Concentration (PPM): 7.94
+06:49:49.900 Kadar CO di udara : SEDANG
+06:49:51.953 CO Concentration (PPM): 7.94
+06:49:51.953 Kadar CO di udara : SEDANG
+06:49:54.037 CO Concentration (PPM): 7.94
+06:49:54.037 Kadar CO di udara : SEDANG
+06:49:56.096 CO Concentration (PPM): 7.94
+06:49:56.096 Kadar CO di udara : SEDANG
+06:49:58.323 CO Concentration (PPM): 7.94
+06:49:58.323 Kadar CO di udara : SEDANG
+06:50:00.211 CO Concentration (PPM): 7.94
+06:50:00.211 Kadar CO di udara : SEDANG
+06:50:02.277 CO Concentration (PPM): 7.94
+06:50:02.277 Kadar CO di udara : SEDANG
+06:50:04.352 CO Concentration (PPM): 7.94
+06:50:04.352 Kadar CO di udara : SEDANG
+06:50:06.412 CO Concentration (PPM): 7.94
+06:50:06.414 Kadar CO di udara : SEDANG
+06:50:08.476 CO Concentration (PPM): 7.94
+06:50:08.478 Kadar CO di udara : SEDANG
+06:50:10.552 CO Concentration (PPM): 7.94
+06:50:10.553 Kadar CO di udara : SEDANG
+06:50:12.612 CO Concentration (PPM): 7.94
+06:50:12.612 Kadar CO di udara : SEDANG
+06:50:14.663 CO Concentration (PPM): 7.94
+06:50:14.666 Kadar CO di udara : SEDANG
+06:50:16.727 CO Concentration (PPM): 7.94
+06:50:16.728 Kadar CO di udara : SEDANG
+06:50:18.804 CO Concentration (PPM): 7.94
+06:50:18.810 Kadar CO di udara : SEDANG
+06:50:20.867 CO Concentration (PPM): 7.94
+06:50:20.868 Kadar CO di udara : SEDANG
+06:50:22.929 CO Concentration (PPM): 7.94
+06:50:22.929 Kadar CO di udara : SEDANG
+06:50:24.985 CO Concentration (PPM): 7.94
+06:50:24.989 Kadar CO di udara : SEDANG
+06:50:27.069 CO Concentration (PPM): 7.94
+06:50:27.072 Kadar CO di udara : SEDANG
+06:50:29.118 CO Concentration (PPM): 7.94
+06:50:29.121 Kadar CO di udara : SEDANG
+06:50:31.234 CO Concentration (PPM): 7.94
+06:50:31.234 Kadar CO di udara : SEDANG
+06:50:33.318 CO Concentration (PPM): 7.94
+06:50:33.318 Kadar CO di udara : SEDANG
+06:50:35.371 CO Concentration (PPM): 7.94
+06:50:35.371 Kadar CO di udara : SEDANG
+06:50:37.376 CO Concentration (PPM): 7.94
+06:50:37.376 Kadar CO di udara : SEDANG
+06:50:39.498 CO Concentration (PPM): 7.94
+06:50:39.498 Kadar CO di udara : SEDANG
+06:50:41.568 CO Concentration (PPM): 7.94
+06:50:41.568 Kadar CO di udara : SEDANG
+06:50:43.632 CO Concentration (PPM): 7.94
+06:50:43.632 Kadar CO di udara : SEDANG
+06:50:45.686 CO Concentration (PPM): 7.94
+06:50:45.686 Kadar CO di udara : SEDANG
+06:50:47.770 CO Concentration (PPM): 7.94
+06:50:47.770 Kadar CO di udara : SEDANG
+06:50:49.830 CO Concentration (PPM): 7.94
+06:50:49.830 Kadar CO di udara : SEDANG
+06:50:51.883 CO Concentration (PPM): 7.94
+06:50:51.883 Kadar CO di udara : SEDANG
+06:50:53.948 CO Concentration (PPM): 7.94
+06:50:53.948 Kadar CO di udara : SEDANG
+06:50:56.026 CO Concentration (PPM): 7.94
+06:50:56.027 Kadar CO di udara : SEDANG
+06:50:58.087 CO Concentration (PPM): 7.94
+06:50:58.088 Kadar CO di udara : SEDANG
+06:51:00.146 CO Concentration (PPM): 7.94
+06:51:00.147 Kadar CO di udara : SEDANG
+06:51:02.199 CO Concentration (PPM): 7.94
+06:51:02.205 Kadar CO di udara : SEDANG
+06:51:04.285 CO Concentration (PPM): 7.94
+06:51:04.285 Kadar CO di udara : SEDANG
+06:51:06.338 CO Concentration (PPM): 7.94
+06:51:06.346 Kadar CO di udara : SEDANG
+06:51:08.401 CO Concentration (PPM): 7.94
+06:51:08.405 Kadar CO di udara : SEDANG
+06:51:10.463 CO Concentration (PPM): 7.94
+06:51:10.466 Kadar CO di udara : SEDANG
+06:51:12.539 CO Concentration (PPM): 7.94
+06:51:12.542 Kadar CO di udara : SEDANG
+06:51:14.601 CO Concentration (PPM): 7.94
+06:51:14.607 Kadar CO di udara : SEDANG
+06:51:16.715 CO Concentration (PPM): 7.99
+06:51:16.715 Kadar CO di udara : SEDANG
+06:51:18.773 CO Concentration (PPM): 7.94
+06:51:18.773 Kadar CO di udara : SEDANG
+06:51:20.852 CO Concentration (PPM): 7.99
+06:51:20.852 Kadar CO di udara : SEDANG
+06:51:22.909 CO Concentration (PPM): 7.94
+06:51:22.909 Kadar CO di udara : SEDANG
+06:51:24.966 CO Concentration (PPM): 7.99
+06:51:24.966 Kadar CO di udara : SEDANG
+06:51:27.051 CO Concentration (PPM): 7.94
+06:51:27.051 Kadar CO di udara : SEDANG
+06:51:29.105 CO Concentration (PPM): 7.99
+06:51:29.105 Kadar CO di udara : SEDANG
+06:51:31.169 CO Concentration (PPM): 7.94
+06:51:31.169 Kadar CO di udara : SEDANG
+06:51:33.251 CO Concentration (PPM): 7.99
+06:51:33.251 Kadar CO di udara : SEDANG
+06:51:35.305 CO Concentration (PPM): 7.94
+06:51:35.305 Kadar CO di udara : SEDANG
+06:51:37.367 CO Concentration (PPM): 7.94
+06:51:37.367 Kadar CO di udara : SEDANG
+06:51:39.418 CO Concentration (PPM): 7.99
+06:51:39.419 Kadar CO di udara : SEDANG
+06:51:41.480 CO Concentration (PPM): 7.94
+06:51:41.481 Kadar CO di udara : SEDANG
+06:51:43.565 CO Concentration (PPM): 7.94
+06:51:43.565 Kadar CO di udara : SEDANG
+06:51:45.626 CO Concentration (PPM): 7.94
+06:51:45.626 Kadar CO di udara : SEDANG
+06:51:47.683 CO Concentration (PPM): 7.94
+06:51:47.683 Kadar CO di udara : SEDANG
+06:51:49.762 CO Concentration (PPM): 7.94
+06:51:49.762 Kadar CO di udara : SEDANG
+06:51:51.811 CO Concentration (PPM): 7.94
+06:51:51.818 Kadar CO di udara : SEDANG
+06:51:53.880 CO Concentration (PPM): 7.94
+06:51:53.883 Kadar CO di udara : SEDANG
+06:51:55.938 CO Concentration (PPM): 7.94
+06:51:55.939 Kadar CO di udara : SEDANG
+06:51:58.020 CO Concentration (PPM): 7.94
+06:51:58.024 Kadar CO di udara : SEDANG
+06:52:00.077 CO Concentration (PPM): 7.94
+06:52:00.083 Kadar CO di udara : SEDANG
+06:52:02.142 CO Concentration (PPM): 7.94
+06:52:02.143 Kadar CO di udara : SEDANG
+06:52:04.247 CO Concentration (PPM): 7.94
+06:52:04.247 Kadar CO di udara : SEDANG
+06:52:06.327 CO Concentration (PPM): 7.94
+06:52:06.327 Kadar CO di udara : SEDANG
+06:52:08.385 CO Concentration (PPM): 7.94
+06:52:08.385 Kadar CO di udara : SEDANG
+06:52:10.448 CO Concentration (PPM): 7.94
+06:52:10.448 Kadar CO di udara : SEDANG
+06:52:12.527 CO Concentration (PPM): 7.94
+06:52:12.527 Kadar CO di udara : SEDANG
+06:52:14.584 CO Concentration (PPM): 7.94
+06:52:14.584 Kadar CO di udara : SEDANG
+06:52:16.642 CO Concentration (PPM): 7.94
+06:52:16.642 Kadar CO di udara : SEDANG
+06:52:18.722 CO Concentration (PPM): 7.94
+06:52:18.722 Kadar CO di udara : SEDANG
+06:52:20.787 CO Concentration (PPM): 7.94
+06:52:20.787 Kadar CO di udara : SEDANG
+06:52:23.003 CO Concentration (PPM): 7.94
+06:52:23.003 Kadar CO di udara : SEDANG
+06:52:24.900 CO Concentration (PPM): 7.94
+06:52:24.900 Kadar CO di udara : SEDANG
+06:52:26.977 CO Concentration (PPM): 7.94
+06:52:26.977 Kadar CO di udara : SEDANG
+06:52:28.981 CO Concentration (PPM): 7.94
+06:52:29.037 Kadar CO di udara : SEDANG
+06:52:31.043 CO Concentration (PPM): 7.94
+06:52:31.099 Kadar CO di udara : SEDANG
+06:52:33.103 CO Concentration (PPM): 7.94
+06:52:33.158 Kadar CO di udara : SEDANG
+06:52:35.222 CO Concentration (PPM): 7.99
+06:52:35.237 Kadar CO di udara : SEDANG
+06:52:37.300 CO Concentration (PPM): 7.94
+06:52:37.300 Kadar CO di udara : SEDANG
+06:52:39.352 CO Concentration (PPM): 7.99
+06:52:39.353 Kadar CO di udara : SEDANG
+06:52:41.414 CO Concentration (PPM): 7.94
+06:52:41.415 Kadar CO di udara : SEDANG
+06:52:43.492 CO Concentration (PPM): 7.99
+06:52:43.493 Kadar CO di udara : SEDANG
+06:52:45.545 CO Concentration (PPM): 7.94
+06:52:45.551 Kadar CO di udara : SEDANG
+06:52:47.616 CO Concentration (PPM): 7.94
+06:52:47.626 Kadar CO di udara : SEDANG
+06:52:49.691 CO Concentration (PPM): 7.94
+06:52:49.692 Kadar CO di udara : SEDANG
+06:52:51.752 CO Concentration (PPM): 7.99
+06:52:51.755 Kadar CO di udara : SEDANG
+06:52:53.857 CO Concentration (PPM): 7.94
+06:52:53.857 Kadar CO di udara : SEDANG
+06:52:55.941 CO Concentration (PPM): 7.99
+06:52:55.941 Kadar CO di udara : SEDANG
+06:52:57.994 CO Concentration (PPM): 7.94
+06:52:57.994 Kadar CO di udara : SEDANG
+06:53:00.051 CO Concentration (PPM): 7.99
+06:53:00.051 Kadar CO di udara : SEDANG
+06:53:02.099 CO Concentration (PPM): 7.94
+06:53:02.099 Kadar CO di udara : SEDANG
+06:53:04.170 CO Concentration (PPM): 7.99
+06:53:04.170 Kadar CO di udara : SEDANG
+06:53:06.255 CO Concentration (PPM): 7.94
+06:53:06.255 Kadar CO di udara : SEDANG
+06:53:08.300 CO Concentration (PPM): 7.99
+06:53:08.300 Kadar CO di udara : SEDANG
+06:53:10.372 CO Concentration (PPM): 7.99
+06:53:10.372 Kadar CO di udara : SEDANG
+06:53:12.428 CO Concentration (PPM): 7.99
+06:53:12.428 Kadar CO di udara : SEDANG
+06:53:14.507 CO Concentration (PPM): 7.99
+06:53:14.507 Kadar CO di udara : SEDANG
+06:53:16.571 CO Concentration (PPM): 7.99
+06:53:16.575 Kadar CO di udara : SEDANG
+06:53:18.632 CO Concentration (PPM): 7.94
+06:53:18.633 Kadar CO di udara : SEDANG
+06:53:20.710 CO Concentration (PPM): 7.99
+06:53:20.710 Kadar CO di udara : SEDANG
+06:53:22.773 CO Concentration (PPM): 7.94
+06:53:22.774 Kadar CO di udara : SEDANG
+06:53:24.831 CO Concentration (PPM): 7.99
+06:53:24.838 Kadar CO di udara : SEDANG
+06:53:26.886 CO Concentration (PPM): 7.94
+06:53:26.889 Kadar CO di udara : SEDANG
+06:53:28.970 CO Concentration (PPM): 7.99
+06:53:28.971 Kadar CO di udara : SEDANG
+06:53:31.029 CO Concentration (PPM): 7.94
+06:53:31.035 Kadar CO di udara : SEDANG
+06:53:33.090 CO Concentration (PPM): 7.99
+06:53:33.096 Kadar CO di udara : SEDANG
+06:53:35.149 CO Concentration (PPM): 7.94
+06:53:35.151 Kadar CO di udara : SEDANG
+06:53:37.220 CO Concentration (PPM): 7.99
+06:53:37.227 Kadar CO di udara : SEDANG
+06:53:39.287 CO Concentration (PPM): 7.94
+06:53:39.292 Kadar CO di udara : SEDANG
+06:53:41.401 CO Concentration (PPM): 7.99
+06:53:41.401 Kadar CO di udara : SEDANG
+06:53:43.453 CO Concentration (PPM): 7.94
+06:53:43.453 Kadar CO di udara : SEDANG
+06:53:45.536 CO Concentration (PPM): 7.99
+06:53:45.536 Kadar CO di udara : SEDANG
+06:53:47.590 CO Concentration (PPM): 7.99
+06:53:47.590 Kadar CO di udara : SEDANG
+06:53:49.649 CO Concentration (PPM): 7.99
+06:53:49.649 Kadar CO di udara : SEDANG
+06:53:51.712 CO Concentration (PPM): 7.99
+06:53:51.712 Kadar CO di udara : SEDANG
+06:53:53.797 CO Concentration (PPM): 7.99
+06:53:53.797 Kadar CO di udara : SEDANG
+06:53:55.852 CO Concentration (PPM): 7.94
+06:53:55.852 Kadar CO di udara : SEDANG
+06:53:57.911 CO Concentration (PPM): 7.99
+06:53:57.911 Kadar CO di udara : SEDANG
+06:53:59.991 CO Concentration (PPM): 7.94
+06:53:59.991 Kadar CO di udara : SEDANG
+06:54:02.046 CO Concentration (PPM): 7.99
+06:54:02.046 Kadar CO di udara : SEDANG
+06:54:04.109 CO Concentration (PPM): 7.99
+06:54:04.109 Kadar CO di udara : SEDANG
+06:54:06.192 CO Concentration (PPM): 7.99
+06:54:06.192 Kadar CO di udara : SEDANG
+06:54:08.249 CO Concentration (PPM): 7.99
+06:54:08.250 Kadar CO di udara : SEDANG
+06:54:10.310 CO Concentration (PPM): 7.99
+06:54:10.312 Kadar CO di udara : SEDANG
+06:54:12.366 CO Concentration (PPM): 7.99
+06:54:12.367 Kadar CO di udara : SEDANG
+06:54:14.447 CO Concentration (PPM): 7.99
+06:54:14.447 Kadar CO di udara : SEDANG
+06:54:16.504 CO Concentration (PPM): 7.99
+06:54:16.505 Kadar CO di udara : SEDANG
+06:54:18.563 CO Concentration (PPM): 7.99
+06:54:18.565 Kadar CO di udara : SEDANG
+06:54:20.630 CO Concentration (PPM): 7.99
+06:54:20.630 Kadar CO di udara : SEDANG
+06:54:22.703 CO Concentration (PPM): 7.99
+06:54:22.703 Kadar CO di udara : SEDANG
+06:54:24.766 CO Concentration (PPM): 7.99
+06:54:24.767 Kadar CO di udara : SEDANG
+06:54:26.824 CO Concentration (PPM): 7.99
+06:54:26.828 Kadar CO di udara : SEDANG
+06:54:28.903 CO Concentration (PPM): 7.99
+06:54:28.904 Kadar CO di udara : SEDANG
+06:54:30.968 CO Concentration (PPM): 7.99
+06:54:30.977 Kadar CO di udara : SEDANG
+06:54:33.071 CO Concentration (PPM): 7.99
+06:54:33.071 Kadar CO di udara : SEDANG
+06:54:35.156 CO Concentration (PPM): 7.99
+06:54:35.156 Kadar CO di udara : SEDANG
+06:54:37.212 CO Concentration (PPM): 7.99
+06:54:37.212 Kadar CO di udara : SEDANG
+06:54:39.267 CO Concentration (PPM): 7.99
+06:54:39.267 Kadar CO di udara : SEDANG
+06:54:41.323 CO Concentration (PPM): 7.99
+06:54:41.323 Kadar CO di udara : SEDANG
+06:54:43.406 CO Concentration (PPM): 7.99
+06:54:43.406 Kadar CO di udara : SEDANG
+06:54:45.474 CO Concentration (PPM): 7.99
+06:54:45.474 Kadar CO di udara : SEDANG
+06:54:47.523 CO Concentration (PPM): 7.99
+06:54:47.523 Kadar CO di udara : SEDANG
+06:54:49.584 CO Concentration (PPM): 7.99
+06:54:49.584 Kadar CO di udara : SEDANG
+06:54:51.644 CO Concentration (PPM): 7.99
+06:54:51.644 Kadar CO di udara : SEDANG
+06:54:53.723 CO Concentration (PPM): 7.99
+06:54:53.723 Kadar CO di udara : SEDANG
+06:54:55.782 CO Concentration (PPM): 7.99
+06:54:55.782 Kadar CO di udara : SEDANG
+06:54:57.862 CO Concentration (PPM): 7.99
+06:54:57.862 Kadar CO di udara : SEDANG
+06:54:59.921 CO Concentration (PPM): 7.99
+06:54:59.922 Kadar CO di udara : SEDANG
+06:55:01.985 CO Concentration (PPM): 7.99
+06:55:01.986 Kadar CO di udara : SEDANG
+06:55:04.037 CO Concentration (PPM): 7.99
+06:55:04.038 Kadar CO di udara : SEDANG
+06:55:06.099 CO Concentration (PPM): 7.99
+06:55:06.099 Kadar CO di udara : SEDANG
+06:55:08.179 CO Concentration (PPM): 7.99
+06:55:08.190 Kadar CO di udara : SEDANG
+06:55:10.236 CO Concentration (PPM): 7.99
+06:55:10.239 Kadar CO di udara : SEDANG
+06:55:12.288 CO Concentration (PPM): 7.99
+06:55:12.300 Kadar CO di udara : SEDANG
+06:55:14.366 CO Concentration (PPM): 7.99
+06:55:14.380 Kadar CO di udara : SEDANG
+06:55:16.429 CO Concentration (PPM): 7.99
+06:55:16.442 Kadar CO di udara : SEDANG
+06:55:18.480 CO Concentration (PPM): 7.99
+06:55:18.491 Kadar CO di udara : SEDANG
+06:55:20.599 CO Concentration (PPM): 7.99
+06:55:20.599 Kadar CO di udara : SEDANG
+06:55:22.682 CO Concentration (PPM): 7.99
+06:55:22.682 Kadar CO di udara : SEDANG
+06:55:24.743 CO Concentration (PPM): 7.99
+06:55:24.743 Kadar CO di udara : SEDANG
+06:55:26.798 CO Concentration (PPM): 7.99
+06:55:26.798 Kadar CO di udara : SEDANG
+06:55:28.856 CO Concentration (PPM): 8.03
+06:55:28.856 Kadar CO di udara : TIDAK SEHAT
+06:55:30.938 CO Concentration (PPM): 7.99
+06:55:30.938 Kadar CO di udara : SEDANG
+06:55:32.996 CO Concentration (PPM): 7.99
+06:55:32.996 Kadar CO di udara : SEDANG
+06:55:35.051 CO Concentration (PPM): 7.99
+06:55:35.051 Kadar CO di udara : SEDANG
+06:55:37.137 CO Concentration (PPM): 7.94
+06:55:37.137 Kadar CO di udara : SEDANG
+06:55:39.197 CO Concentration (PPM): 7.99
+06:55:39.197 Kadar CO di udara : SEDANG
+06:55:41.256 CO Concentration (PPM): 7.94
+06:55:41.260 Kadar CO di udara : SEDANG
+06:55:43.318 CO Concentration (PPM): 8.03
+06:55:43.323 Kadar CO di udara : TIDAK SEHAT
+06:55:45.399 CO Concentration (PPM): 7.99
+06:55:45.399 Kadar CO di udara : SEDANG
+06:55:47.458 CO Concentration (PPM): 7.99
+06:55:47.459 Kadar CO di udara : SEDANG
+06:55:49.513 CO Concentration (PPM): 7.99
+06:55:49.525 Kadar CO di udara : SEDANG
+06:55:51.520 CO Concentration (PPM): 7.99
+06:55:51.572 Kadar CO di udara : SEDANG
+06:55:53.653 CO Concentration (PPM): 7.99
+06:55:53.659 Kadar CO di udara : SEDANG
+06:55:55.713 CO Concentration (PPM): 7.99
+06:55:55.723 Kadar CO di udara : SEDANG
+06:55:57.767 CO Concentration (PPM): 7.99
+06:55:57.774 Kadar CO di udara : SEDANG
+06:55:59.857 CO Concentration (PPM): 7.99
+06:55:59.857 Kadar CO di udara : SEDANG
+06:56:01.957 CO Concentration (PPM): 7.99
+06:56:01.957 Kadar CO di udara : SEDANG
+06:56:03.980 CO Concentration (PPM): 7.99
+06:56:03.980 Kadar CO di udara : SEDANG
+06:56:06.044 CO Concentration (PPM): 7.99
+06:56:06.044 Kadar CO di udara : SEDANG
+06:56:08.112 CO Concentration (PPM): 7.99
+06:56:08.112 Kadar CO di udara : SEDANG
+06:56:10.172 CO Concentration (PPM): 7.99
+06:56:10.172 Kadar CO di udara : SEDANG
+06:56:12.234 CO Concentration (PPM): 7.99
+06:56:12.234 Kadar CO di udara : SEDANG
